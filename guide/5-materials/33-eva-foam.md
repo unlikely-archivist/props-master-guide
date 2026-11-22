@@ -164,7 +164,7 @@ KF's magnets are round, "7 mm radius and 2 mm high", chosen to match the drill b
 
 **Other ways to split a prop** (KF 19): plastic screw couplings from the plumbing aisle, collapsible plastic mop handles, or wooden staffs with screw joints.
 
-Compare the offstage-path rule in [ch. 22](../4-fabrication-core/22-the-build-method.md#size-weight-balance) and magnets as fasteners in [ch. 25](../4-fabrication-core/25-adhesives-and-fasteners.md#mechanical-fasteners-h-7377).
+Compare the offstage-path rule in [ch. 22](../4-fabrication-core/22-the-build-method.md#size-weight-balance) and magnets as fasteners in [ch. 25](../4-fabrication-core/25-adhesives-and-fasteners.md#mechanical-fasteners-h-7377-w-2830).
 
 ## Building volume and holding curves (KF 20–23, 32–35, 43, 46)
 

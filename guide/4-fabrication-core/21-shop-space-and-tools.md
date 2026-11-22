@@ -1,6 +1,6 @@
 # 21. The Prop Shop: Space, Tools and Supplies
 
-> **Sources:** M ch.5 (pp. 46–72); H ch.4 (pp. 45–58)
+> **Sources:** M ch.5 (pp. 46–72); H ch.4 (pp. 45–58); W ch.1 (pp. 15–16), tool lists in W chs. 2–9
 > **[Check current]** Product and brand names change. Building and fire codes for shops vary by jurisdiction; in a university, check with Environmental Health & Safety (EHS) and facilities.
 
 ## Spaces
@@ -19,6 +19,15 @@ Whatever form it takes, from a desk in a scene-shop corner to a dining table at 
 **Speak up about what you need.** Supervisors may not know (M 47).
 
 ### The workshop
+What a workspace needs depends on the work, and the work you can do depends on the space. Permanent professional props shops can install fixed machinery, stock many materials and cope with messy processes; makers who share a space or use it temporarily rely on portable equipment and fight storage and cleanliness problems. **The one essential is flexibility**: room to adapt the space as the work changes (W 15–16). Wilson's list of desirable facilities for regular prop making (W 15):
+- **Ample storage** for raw materials, work in progress and finished props. It can take **half your space**, with racking for timber and steel, bins for clay and plaster, shelves for paint, **metal cupboards for flammables**, and room for the offcuts and oddments every job generates "for a rainy day."
+- A **wet area** (or space to set one up) for plaster and paint, with a sink with a large, efficient trap and a mixing surface.
+- A **dry, clean area for textiles**: a "softs room," or at least a table well away from sawdust and plaster.
+- Somewhere for paperwork and drawings, if only a desk in the corner.
+- Easily cleaned surfaces and floor, a good vacuum cleaner and frequent rubbish removal.
+- Equipment to protect you and others from the work's hazards, such as local exhaust or dust extraction.
+Most spaces lack some of these, and their users work round the gaps (W 15–16). A paint area should be uncluttered and easy to clean, with a large sink and draining board, storage, and plenty of table and floor space (W 157).
+
 **Layout like a kitchen work triangle** (H 46): give core processes dedicated stations (carpentry, soft goods, layout/drawing, molding and casting, metal) and keep flexible stations for everything else.
 
 **Dirty room vs. clean room** (H 48):
@@ -75,7 +84,9 @@ Organize however works for your team, and feel free to reorganize an inherited s
 **Buying** (H 52–53):
 - The right tool, even a cheap one, beats improvising with the wrong one.
 - Buy general-purpose tools first and specialized ones when a technique recurs. A lathe is irreplaceable for turnings.
-- **"Audition" a tool** by buying the cheap version. If you wear it out, upgrade, and you'll know which features matter.
+- **"Audition" a tool** by buying the cheap version. If you wear it out, upgrade, and you'll know which features matter (H 52–53).
+- **Wilson's buying advice** (W 15): you can make props with a fairly limited set of hand tools, but the range of crafts makes the list of potentially useful tools long. Start with a **basic kit for the materials you'll use most** (probably wood and fabric) and add only when you're sure a tool will earn its place. Some areas (modelling, molding, casting) need few special tools; others (metalwork) need more investment. Machines either let you do something otherwise impossible (a **vacuum former**) or do it much faster and better (a **radial-arm saw**). Some do one thing (a biscuit jointer), others adapt to many (a router); when money is short, the **versatile** ones matter most. Wilson's priorities: a **band saw** (for wood and polystyrene), a **lathe**, a **MIG welder** and a **sewing machine**. Think hard about the work you do, and talk to other makers.
+- Wilson gives basic and advanced tool lists per material: for wood, from tape, squares, bevel gauge, trammels, planes, rasps, chisels, hammer, panel saw, mitre box, clamps, driver, jigsaw and drill up to circular saw, belt sander, plunge router, air nailers, band saw, lathe, pillar drill, cross-cut and bench saws and mortisers (W 24); for upholstery, from tape, markers and chalk, kitchen or electric knife, shears and scissors, pin hammer or hand stapler, hot glue gun, pins, straight and curved needles, upholsterer's skewers and a sewing machine up to an electric foam cutter or knife-bladed band saw and a powered stapler (W 146).
 
 ### Tool families (H 53–58; M 55–68)
 

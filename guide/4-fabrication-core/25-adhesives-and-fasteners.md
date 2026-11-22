@@ -1,6 +1,6 @@
 # 25. Adhesives, Fasteners, Tapes and Assembly
 
-> **Sources:** H ch.5 (pp. 59–77); M ch.5 (p. 51), ch.9 (pp. 131–132)
+> **Sources:** H ch.5 (pp. 59–77); M ch.5 (p. 51), ch.9 (pp. 131–132); W ch.2 (pp. 28–30), ch.7 (p. 132), ch.8 (p. 146)
 > **[Check current]** Brand names (Fabri-Tac, E6000, Gorilla, Fastbond, Flex Glue, Super 77, etc.) change and get reformulated. Learn the **category** each brand belongs to, so you can find a substitute when a product disappears (H 65).
 
 ## How adhesives work (H 62–64)
@@ -38,28 +38,30 @@
 
 | Family | Use it for | Notes |
 |---|---|---|
-| **Animal (hide) glue** | Furniture repair | Slightly flexible; reversible with heat, so old hide-glue joints can be reglued (H 65) |
+| **Animal (hide) glue** | Furniture repair | Slightly flexible; reversible with heat, so old hide-glue joints can be reglued (H 65). **Pearl glue** is a cheap, strong, hard form for furniture, laminating and veneering: soak it in water overnight, pour off the surplus and melt it in a double boiler or electric glue pot. Its open time is very short; urea extends it (probably at some cost in strength); formalin makes it waterproof once dry. Being soluble in hot water, it's the one common reversible adhesive (W 30). Size (a weak animal glue) is also the traditional scrimming adhesive and paint binder ([ch. 27](27-surfaces-and-texture.md)) (W 137, 158) |
 | **Starch/wheat paste** | Paper, papier-mâché | (H 65) |
-| **PVA: white** (Elmer's) & **yellow** (carpenter's/wood glue) | Wood, paper, porous materials | Same strength in wood. Yellow is thicker, tackier and dries more rigid and sandable. Also comes as flexible PVAs, pH-neutral bookbinder's PVA and decoupage medium (Mod Podge) (H 65) |
+| **PVA: white** (Elmer's) & **yellow** (carpenter's/wood glue) | Wood, paper, porous materials | Same strength in wood. Yellow is thicker, tackier and dries more rigid and sandable. Also comes as flexible PVAs, pH-neutral bookbinder's PVA and decoupage medium (Mod Podge) (H 65). Wilson: dearer white PVAs dry harder and more waterproof, which matters mainly for furniture and laminating; cheap PVA creeps, so avoid it for laminated curves. **Aliphatic ("yellow") glue** is stronger and faster and sands away for less visible glue lines (W 30, 39) |
 | **"Flex glue"** | Flexible bonds, binders for pigments and textures | Theatrical vinyl-acrylic or flexible PVA products (H 65–66) |
 | **Cyanoacrylate (CA, "super glue")** | Small parts, nonporous materials, many plastics | Fast and costly in quantity. Fogs clear plastics. **Bonds skin.** Debonder removes it (H 66, 69) |
 | **Hot glue (EVA hot melt)** | Quick assembly, gap filling, raised details, faux sealing wax | **High-melt** for structural use. For burns, let it cool, don't wipe; keep cool water nearby. Melts polystyrene foam (H 66) |
 | **Fugitive ("snot") glue** | Temporary, residue-free holds on paper and plastic | Needs its own gun (H 66) |
-| **Epoxy** | Dissimilar or nonporous materials; waterproof joints; fast repairs | Viscosity ranges from liquid to putty. Rigid. Sensitizer (H 66) |
-| **Contact cement** | Laminates, veneer, rubber, leather | Coat both sides, let dry, press. Can't reposition. **Barge** cement for leather. **Water-based "green glue"** contact cements are less toxic and **safe on polystyrene** (H 66–67) |
+| **Epoxy** | Dissimilar or nonporous materials; waterproof joints; fast repairs | Viscosity ranges from liquid to putty. Rigid. Sensitizer (H 66). Wilson calls it the most important high-strength adhesive: modified with fillers, thickeners, solvents or reinforcement, it makes gap-filling adhesives of many consistencies and set times, from twin-tube five-minute epoxy to bulk packs with ratio pumps. Because it's structurally strong, it can make **butt joints without screws or pins**, and a fillet of thickened epoxy can replace a wooden batten in light construction. Drawbacks: price, and skin contact with resin or hardener must be avoided completely (W 30). Kept thin, it can be carved through on polystyrene (W 132) |
+| **Contact cement** | Laminates, veneer, rubber, leather | Coat both sides, let dry, press. Can't reposition. **Barge** cement for leather. **Water-based "green glue"** contact cements are less toxic and **safe on polystyrene** (H 66–67). The standard glue for upholstery foam: thixotropic tinned types spread most tidily; aerosols are faster but dearer (keep the nozzle clear by inverting the can and spraying after use; turn the insert to orient the fan); water-based versions were emerging in 2003 (W 146). For polystyrene, choose types dissolved in hexane rather than toluene, keep glue lines thin, and allow 5–10 minutes to flash off (W 132) |
 | **Latex adhesives** | Flexible, stretchy bonds; fabric, carpet | (H 67) |
 | **Bridal/craft glue** (solvent-based) | Fabric, trims, beads, feathers, flowers | Like "cold hot glue." Can stand in for a hem (H 67) |
 | **Household cement** (Goop-type) | Thick, gap-filling bonds on nonporous materials; small details | **Harsh solvents and long drying times mean a lot of fumes.** Better for repairs and details than structure (H 67–68) |
-| **Spray adhesive** | Paper or fabric to rigid surfaces without wrinkling | Solvent and aerosol hazards. Avoid when possible (H 68) |
+| **Spray adhesive** | Paper or fabric to rigid surfaces without wrinkling | Solvent and aerosol hazards. Avoid when possible (H 68). Spray mount and photo mount make weak, easily broken bonds, useful for test-assembling polystyrene work before permanent gluing (W 132) |
 | **Construction adhesive** | Paneling and molding; heavy bonds | Applied with a caulk gun (H 68) |
 | **Polyurethane glue** (Gorilla-type) | Foam to wood, dissimilar materials | Moisture-activated. Foams slightly, which fills small gaps. The hard glue line resists carving (H 68, 253) |
+| **Expanding PU foam** (aerosol or two-part) | Gap-filling bonds on polystyrene | The only effective gap-filling glue for polystyrene; carves when cured but is denser than the foam. Releases isocyanates while curing and when carved (W 132) |
+| **Polycaprolactone (PCL)** | Fixing odd parts together quickly | Wilson used it to fix many parts of an animated moose head together (W 12) |
 | **Urea-formaldehyde, resorcinol** | Veneers, laminates, marine joints | Long working time; waterproof; no creep. Formaldehyde off-gassing. Resorcinol leaves a dark glue line (H 68) |
 | **Silicone** | Flexible, waterproof, watertight joints | Very hard to paint over (H 68) |
 | **Solvent welders** | Compatible plastics | Dissolve and fuse plastic surfaces. See [ch. 31](../5-materials/31-plastics.md#solvent-welding-h-170171) (H 68–69) |
 
 ### Material-pairing cautions (H 69–71)
 - **Plaster** bonds poorly until it's fully dry (days to weeks). Seal it with paint or PVA first for CA or PVA bonds.
-- **Polystyrene foam** dissolves in harsh solvents and melts with heat. Test first and use only low-temperature hot melt. FF reports that 3M **reformulated Super 77 with acetone, which dissolves XPS**. Use Super 77 Classic or 3M 78 Polystyrene spray, and spray both faces (FF 157, 195) **[check current]**. FF's laminating table is in [ch. 41](../5-materials/41-prop-food.md#rigid-foam-xps-ff-13-and-chs-4-17-22-23-27-30-39-41).
+- **Polystyrene foam** dissolves in harsh solvents and melts with heat. Test first and use only low-temperature hot melt (H 69–71). Beware products sold as "polystyrene cement": the DIY kind fixes ceiling tiles and is useless for props; the model-shop kind is for solid polystyrene kits and eats holes in expanded foam. Cheap, thick insulation-trade contact glues can stop a hot wire or knife at the glue line (W 132). FF reports that 3M **reformulated Super 77 with acetone, which dissolves XPS**. Use Super 77 Classic or 3M 78 Polystyrene spray, and spray both faces (FF 157, 195) **[check current]**. FF's laminating table is in [ch. 41](../5-materials/41-prop-food.md#rigid-foam-xps-ff-13-and-chs-4-17-22-23-27-30-39-41).
 - **Polyethylene (#2, HDPE) and polypropylene won't bond with any adhesive**, and paint won't stick to them either.
 - "Wood" on a craft-glue label means small decorative bits, not furniture joints.
 - Consider whether glue is even the right joint. Welding, fasteners, tying, sewing or taping may be better.
@@ -82,7 +84,9 @@ Heat (hot melts), the original solvent (water or a solvent), dedicated debonders
 | **Floral tape** | Stretch it and it sticks to itself; wraps wire stems or wire armatures (pheasant feet) |
 | **Mortite / floral putty** | Temporarily anchoring dressing onstage |
 
-## Mechanical fasteners (H 73–77)
+## Mechanical fasteners (H 73–77; W 28–30)
+
+Wilson's wood-fastening notes (W 28–30): **nails** are cheap and fast but need solid backing and loosen under repeated stress (ring-shank or cement-coated nails grip better; nip the point off panel pins to stop splitting); **screws** pull joints tight and hold where work isn't supported, and modern parallel-sided screws need only a small pilot in softwood, with at least half to two-thirds of the length in the receiving piece; **air staplers and nailers** fire so fast the wood doesn't react, so they need no solid backing. Details in [ch. 29](../5-materials/29-wood.md#joinery-h-112118).
 
 Fasteners hold by **friction** (nails) or by **capture** (bolts, rivets). Use them to reinforce glue joints, to join materials that can't be glued, or to make joints you can take apart.
 

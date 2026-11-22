@@ -1,6 +1,6 @@
 # 26. Structure, Framework and Armatures
 
-> **Sources:** H ch.10 (pp. 182–197), ch.13 (pp. 243–246); M ch.11 (pp. 152–154)
+> **Sources:** H ch.10 (pp. 182–197), ch.13 (pp. 243–246); M ch.11 (pp. 152–154); W ch.2 (pp. 30, 36, 39), ch.3 (pp. 50–51), ch.4 (pp. 69, 81–83)
 
 ## Structure vs. surface (H 183–184)
 
@@ -50,9 +50,15 @@ Borrow the technical director's habit. Before making a cut list for a big prop, 
 
 - **Formers** are profile-cut ribs, usually plywood, that set the shape of a curved surface. **Stringers** connect the formers and add places to staple or glue the skin.
 - Skin with **bending plywood**, lauan, cardboard, or laminates ([ch. 29](../5-materials/29-wood.md#curved-surfaces-and-bending-wood-h-107110-w-3940)).
-- Formers can follow the inside or the outside of the skin, whichever is easier to attach to.
+- Formers can follow the inside or the outside of the skin, whichever is easier to attach to (H 191–192).
+- Wilson calls this **stressed skin**: thin skin ply (1.5 mm birch or gaboon, or 4 mm birch for strength), hardboard or thin MDF over formers of 18–25 mm ply or timber, fixed with glue plus grippy nails or staples. **Staving**, a core of battens between two thin skins, is quicker than laminating and strong with little spring-back (W 39).
+- **Light forms, tea-chest style:** 20 × 20 mm timber framing skinned with 4 mm ply, fixed with air staples (W 30).
 
-## Armatures and mesh frameworks (H 191–193; H 243–246)
+## Armatures and mesh frameworks (H 191–193; H 243–246; W 81–83)
+
+Almost all modelled work needs a solid structure inside or behind it (W 81). Its design matters as much as the modelling, and it can be anything from a tailored skeleton to a ply board under a clay mask or a few nails in a chair back for a carved-look detail to grip (W 69). Two kinds (W 81):
+- **Open (skeletal) armatures** are quick, and suit an original for a mold, where using more clay doesn't matter.
+- **Skinned armatures and cores** take longer but save weight and material, which matters when modelling directly for the stage.
 
 - **Materials**:
   - cane and bamboo (soak for tight bends)
@@ -61,11 +67,19 @@ Borrow the technical director's habit. Before making a cut list for a big prop, 
   - **pencil rod** (about ¼" steel) for skeletal forms
   - PVC or ABS pipe with fittings for quick geometric frames
 - **Joining**: tape, ties, **lashing**, epoxy putty, soldering or welding. Spiral-wrap thin wire around armature wire so clay grips it (H 244).
-- **Bulking out quickly**: crumpled **aluminum foil** or paper bound with tape or wire, under clay or papier-mâché (H 244–245).
+- **Small armatures** (W 81, 83): for a life-size head, an 18 mm ply base with a 50 × 75 mm upright screwed up into its end grain and two short crosspieces at right angles; or two loops of soft, square-section **aluminium armature wire** fixed to the upright and packed with clay. The square section grips when bound with wire; larger sizes can be drilled and screwed to timber; **hose ("jubilee") clips** join it to timber or steel. Elongated heads (animals) need a horizontal variation. Paint or varnish wood so clay sticks.
+- **Larger armatures** (W 81–83): timber, aluminium and flat or tubular steel on the same principles. Strength must grow with **volume**: double the linear size and you need eight times the clay, and the armature may also carry the weight of a mold. Welded steel gives fast, efficient joints and bends to complex shapes (20–25 mm round ERW tube in a manual pipe bender is a good start). Large timbers or lashed-on polystyrene blocks reduce the clay needed. Extra supports from the base add stability; the traditional standing-figure armature has a strong inverted-L support from the base to the small of the back. **Chain stapled to a wooden armature** gives clay something to key to.
+- **Bulking out quickly**: crumpled **aluminum foil** or paper bound with tape or wire, under clay or papier-mâché (H 244–245). Foil is fireproof and absorbs some shrinkage; paper balls taped to a frame suit paper laminates and pulp; roughly carved **polystyrene** suits every material except polyester putty and oven-baked materials, and stays useful as a core at large scale (W 81, 83).
 - **Chicken wire** (galvanized hex poultry netting) is a ready-made 3D mesh. Combine it with wood formers and stringers for control.
   - The traditional combination of wood formers, chicken wire and papier-mâché built most large organic props before plastics.
   - It isn't inherently amateurish: the topiaries in *Edward Scissorhands* and many parade floats are built this way, and it's among the least toxic, most economical methods for big shapes.
-  - Cut it with good wire cutters, wearing **thick gloves**. Fold cut edges over when stapling. Join pieces by interweaving or wire-stitching (H 192–193).
+  - Cut it with good wire cutters, wearing **thick gloves**. Fold cut edges over when stapling. Join pieces by interweaving or wire-stitching (H 192–193). Wilson finds 25 mm (1") mesh the most useful, cut with cheap serrated scissors, stapled to wood. To get the first paper layer to stick, put the glue on the wire rather than the paper; scrumpling and reopening newspaper several times helps it follow 3D shapes and hides the mesh pattern. Chicken-wire forms are weak unless the supports are close together (W 83).
+- **Expanded metal** (steel or aluminium, many weights and meshes) makes much stronger skins for heavier materials, trading strength against how easily you can shape it by hand. Wilson's compromise is the light galvanized **"metal lath"** sold by builders' merchants: cut with shears or a small grinder, fix to framing with staples or tack welds (with extraction or protection, since zinc vaporizes; compare Hart's "never weld galvanized," [ch. 30](../5-materials/30-metal.md#where-the-sources-disagree)), and join with twists of wire or **hog rings** (soft metal bands closed with special pliers). A first coat of plain, unthickened, unretarded plaster stiffens the lath so later layers can be modelled on it (W 83).
+- **Fire-cement models** are built on expanded metal or foil cores, baked in layers ([ch. 37](../5-materials/37-sculpting.md#materials)) (W 79).
+
+## Steel as structure (W 50–51)
+
+Welded mild steel builds quick, durable, fire-resistant frames: joints approach the metal's own strength, it bends to curves, and in hollow sections it packs wood's strength into smaller parts with no knots to worry about. It's harder to alter and attach other materials to, and costs more ([ch. 30](../5-materials/30-metal.md)). Wilson's examples include a truck that carried up to ten performers plus dressing, with front wheels that steered 90° each way (W 50).
 
 ## Knots and lashing (H 193–197)
 
