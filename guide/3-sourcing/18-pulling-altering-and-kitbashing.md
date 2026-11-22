@@ -1,6 +1,6 @@
 # 18. Pulling, Altering and Kitbashing
 
-> **Sources:** M ch.8 (pp. 118–119); H ch.1 (p. 6), ch.5 (pp. 60–62). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.8 (pp. 118–119); H ch.1 (p. 6), ch.5 (pp. 60–62); W ch.2 (pp. 34–39). Sections marked **[General knowledge]** aren't from the guide's sources.
 
 The cheapest prop is one you already own or can find. The next cheapest is often something close that you change. This chapter covers pulling from stock and found sources, altering existing objects, and building from found parts ("kitbashing").
 
@@ -54,7 +54,7 @@ Hart warns that **adapting** a store-bought object can cost more than building o
 | **Make it look older** | Distress, break down, age paper | [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#distressing-and-aging-h-317319-m-158159), [ch. 39](../5-materials/39-paper-and-graphics.md) |
 | **Make it look newer** | Clean, polish, repair, refinish | [ch. 21](../4-fabrication-core/21-shop-space-and-tools.md) (polishing supplies), [ch. 28](../4-fabrication-core/28-painting-and-finishing.md) |
 | **Change the period** | Swap hardware, add or remove trim, replace modern parts, hide labels and logos | [ch. 7](../2-admin/07-research-and-period-accuracy.md), [ch. 40](../5-materials/40-3d-printing.md) (printed hardware) |
-| **Change the size** | Cut down legs (counter-rake on raked stages), extend, shorten | [ch. 29](../5-materials/29-wood.md), [ch. 3](../1-intro/03-theatre-film-and-tv.md) |
+| **Change the size** | Cut down legs (counter-rake on raked stages; Wilson's anti-raking method and steel-tube leg extensions, W 36–39), extend, shorten | [ch. 29](../5-materials/29-wood.md), [ch. 3](../1-intro/03-theatre-film-and-tv.md) |
 | **Reupholster or re-cover** | Recover drop seats, slipcover, re-cover lampshades | [ch. 34](../5-materials/34-fabric-and-upholstery.md) |
 | **Make it work** | Rewire a lamp as a practical, add a battery light, fit a trick | [ch. 49](../7-effects/49-practicals-and-mechanisms.md) |
 | **Make it safe** | Dull edges, remove glass, reinforce joints, add glides | [ch. 42](../6-weapons/42-weapons-safety-and-policy.md), [ch. 26](../4-fabrication-core/26-structure-and-armatures.md) |
@@ -65,6 +65,10 @@ Hart warns that **adapting** a store-bought object can cost more than building o
 - **Make alterations reversible** where you can on stock you'll reuse: slipcovers instead of reupholstery, removable paint or tape instead of permanent finishes (M 119).
 - **Test finishes on a hidden area** first.
 - **Photograph before** you start, so you can return the piece to stock (or explain what changed).
+
+### Adapting and repairing old furniture (W 34–36)
+
+Wilson's notes on altering found or stock furniture: you rarely can trim or extend **hired or borrowed** pieces; temporary repairs (splints, brackets) only stop damage spreading; restoration may mean dismantling several joints, so copy broken parts in similar-coloured timber and choose between epoxy and reversible hide glue on reassembly; and a piece broken by the staging needs **reinforcement**, not just repair. Grand-but-battered furniture is surprisingly hard to hire, because hire firms keep stock in good shape (W 8). Details in [ch. 29](../5-materials/29-wood.md#mending-and-reinforcing-furniture-w-3436).
 
 ## Key terms
 

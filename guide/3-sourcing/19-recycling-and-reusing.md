@@ -1,6 +1,6 @@
 # 19. Recycling, Reusing and Building Stock
 
-> **Sources:** M ch.1 (pp. 13–14), ch.5 (pp. 73–77), ch.9 (pp. 139–140); H ch.5 (p. 61). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.1 (pp. 13–14), ch.5 (pp. 73–77), ch.9 (pp. 139–140); H ch.5 (p. 61); W ch.1 (p. 15), ch.4 (pp. 73–74), ch.5 (p. 92), ch.6 (p. 123). Sections marked **[General knowledge]** aren't from the guide's sources.
 
 A props department's stock is its biggest asset: everything you keep is something you don't have to buy or build again. This chapter covers what a stock should hold, how to reuse and recycle, and how to cut waste. Storage, inventory and records are in [ch. 13](../2-admin/13-strike-storage-and-records.md).
 
@@ -24,11 +24,13 @@ Mussman lists the kinds of items a healthy theatre stock should hold (M 13–14)
 
 See [ch. 13](../2-admin/13-strike-storage-and-records.md) for what to keep and how to organize it.
 
-## Reusing and transforming stock [General knowledge]
+## Reusing and transforming stock [General knowledge, except where cited]
 
 - **Design for reuse.** When you build, think about the next show: neutral finishes under show-specific paint, removable details, standard sizes, and joints that come apart for storage.
 - **Re-skin rather than rebuild.** A stock chair can be repainted, recovered or re-trimmed for many periods ([ch. 18](18-pulling-altering-and-kitbashing.md)).
 - **Keep parts.** Hart's found-object parts bin of hardware, lamp parts, trim and toy parts turns into the details of future props (H 61; [ch. 21](../4-fabrication-core/21-shop-space-and-tools.md#shop-supply-stock-m-5055-h-61)).
+- **Save offcuts.** Most operations generate offcuts and oddments worth saving "for a rainy day," which is one reason storage can take half a shop's space (W 15). Keep odd lengths of unusual steel sections too (W 51).
+- **Recycle shop materials** (W 73–74, 92, 123): reclaim modelling clay by soaking, slurrying and wedging ([ch. 37 projects](../5-materials/37-sculpting-projects.md#reclaiming-clay-w-7374)); grind unwanted silicone molds in a food processor and use the "meal" to bulk out fresh rubber; remelt hot-melt vinyl molds, gelatin molds and white-metal test casts.
 - **Know when to let go.** Mussman's guidance on what to keep and what to cull is in [ch. 13](../2-admin/13-strike-storage-and-records.md#what-to-keep-m-74). Broken, unsafe, moldy or never-used items cost storage space every year.
 
 ## Recycling and waste reduction [General knowledge]

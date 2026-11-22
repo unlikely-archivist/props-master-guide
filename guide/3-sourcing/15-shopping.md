@@ -1,6 +1,6 @@
 # 15. Shopping
 
-> **Sources:** M ch.6 (pp. 78–83), ch.8 (pp. 115–118); H ch.19 (pp. 363–364). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.6 (pp. 78–83), ch.8 (pp. 115–118); H ch.19 (pp. 363–364); W ch.2 (p. 22), ch.3 (p. 51), ch.7 (p. 125). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **[Check current]** Stores, online marketplaces, delivery times and purchasing rules change constantly. Keep your own vendor list current.
 
 Buying is the fastest route to many props, and the easiest to waste money on. Decide first whether to buy at all ([ch. 11](../2-admin/11-buy-source-or-build.md)), then shop with a plan.
@@ -29,7 +29,7 @@ Buying tips (M 117):
 | Pipe, PVC, fittings | Plumbing suppliers |
 | Small metal parts, tools | Jewelers' suppliers |
 | Paints, sculpting, casting, foams, plastics | Art and craft stores |
-| Resin, fiberglass | Auto-parts and marine suppliers |
+| Resin, fiberglass | Auto-parts and marine suppliers; boat chandlers also sell two-part expanding foam (W 132) |
 | Fabric, foam, leather, cane | Fabric, upholstery and leather suppliers, cane shops |
 | Miniatures, detail parts | Hobby and model-railroad shops |
 | Finishes, cleaners | Antique restorers, shoe-repair shops |
@@ -38,6 +38,8 @@ Buying tips (M 117):
 | Corrugated plastic | Sign shops |
 | Hot-melt vinyl | Fishing-supply stores |
 | Theatre-specific goods | Theatrical suppliers (mainly in larger cities) |
+
+Wilson's supplier notes (W 22, 51, 125): ask steel suppliers for a **stock list** and phone for quotes (minimum orders and free-delivery thresholds apply); get **moulding profile charts** from timber merchants and specialist moulding firms that serve theatre and film, so designers can choose; some firms sell ready-made **furniture parts** such as cabriole legs and turned columns; polystyrene suppliers **slice blocks to order** and may cut cylinders and spheres. When researching a material, work out **who else uses it**: boat-building books cover epoxy in detail, model-figure books cover white-metal casting (W 185).
 
 Manufacturers will usually tell you which retailers stock their products. Weigh shipping costs and delivery time against driving time. **Keep a vendor list** (H 364) and a contacts list: antique shops, area prop masters, designers, rental houses, repair shops, other theatres and freelancers (M 83).
 

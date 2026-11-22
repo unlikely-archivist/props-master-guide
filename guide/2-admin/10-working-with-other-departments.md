@@ -1,12 +1,14 @@
 # 10. Working with Other Departments
 
-> **Sources:** M ch.3 (pp. 26–35), ch.7 (pp. 102, 108), ch.8 (p. 119), ch.9; H ch.2 (pp. 13–14), ch.6 (pp. 80–81)
+> **Sources:** M ch.3 (pp. 26–35), ch.7 (pp. 102, 108), ch.8 (p. 119), ch.9; H ch.2 (pp. 13–14), ch.6 (pp. 80–81); W ch.1 (pp. 7–8, 18–19)
 
 Props sits at the center of a production's communication web. Mussman estimates that a prop master talks with at least fifteen different people on a typical day and reframes that load positively: **"conversing equals information sharing"** (M 30). Most prop problems are communication problems that surfaced late.
 
 ## Who you work with, and what each needs from you
 
 ### Production staff
+
+Whatever the company, Wilson notes, the maker usually deals with a **designer or director** over a prop's look and function, a **production manager** (or whoever fills the role) over cost, schedule and technical matters such as safety and wing space, and, through the **stage manager**, the rehearsal room, so everyone hears about developments there. In the end, props go into performers' hands or become part of the world they work in (W 7). The designer–maker exchange is usually two-way: drawings or models, the maker's questions, more references, the maker's samples, the designer's choices (W 18). See [ch. 23](../4-fabrication-core/23-drawings-measuring-and-layout.md#from-reference-to-material).
 
 | Person | Their role | What props shares with them |
 |---|---|---|

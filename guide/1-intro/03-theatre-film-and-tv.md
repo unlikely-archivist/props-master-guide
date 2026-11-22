@@ -1,6 +1,6 @@
 # 3. Theatre, Film and Television
 
-> **Sources:** H ch.1 (pp. 2–8), ch.2 (pp. 15–16); M ch.1 (pp. 6–11). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** H ch.1 (pp. 2–8), ch.2 (pp. 15–16); M ch.1 (pp. 6–11); W ch.2 (pp. 36–39). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **[Check current]** Union jurisdictions, job titles and department structures differ by country, city, union contract and production size, and they change. Treat the structures here as typical, not universal.
 
 The same object, a letter or a sword or a lamp, is propped very differently on a stage, a film set and a TV series. Three things drive almost every difference: **how close the audience gets**, **how many times the prop is used**, and **how the departments divide the work**. Mussman's book covers theatre only. Hart covers all three, and most of what follows builds on him.
@@ -22,7 +22,7 @@ The same object, a letter or a sword or a lamp, is propped very differently on a
 
 - **Repetition is the enemy.** A prop that survives one careful use may fail at the fortieth. Build for the run: wear, sweat, drops, quick changes, and crew handling in the dark (H 15).
 - **Reading from the house.** Detail is chosen for the seat furthest away and the closest. Some details are exaggerated, some faked, some left out (H 15). Mussman's three stage types set how much detail matters: on an **arena** stage props must read from every side (M 37).
-- **Sightlines and rakes.** Tall furniture gets shortened on thrust and arena stages. **Raked stages** need counter-raked props and anti-slide measures (H 15).
+- **Sightlines and rakes.** Tall furniture gets shortened on thrust and arena stages. **Raked stages** need counter-raked props and anti-slide measures (H 15). Wilson's step-by-step method for anti-raking furniture is in [ch. 29](../5-materials/29-wood.md#furniture-on-raked-stages-w-3639) (W 36–39).
 - **Live safety.** A loose part can fly into the front row. Flame-proofing rules apply (H 15).
 - **"Theatre props in a movie world."** Audiences, directors and actors increasingly expect screen-level realism even at a distance, and a badly made prop can undermine an actor even when the audience can't see the flaw (H 15).
 - **Set dressing is props' job** in theatre (M 11; H 4). See [ch. 51](../8-wider-craft/51-set-dressing.md).
