@@ -1,12 +1,12 @@
 # Appendix B: Paperwork Templates
 
-These are original templates designed for this guide. Their fields reflect the practices described by Mussman (chs. 4, 6, 7, 8, 9) and Hart (chs. 2, 6, 19). Copy them into a spreadsheet or document. **Your institution's finance, legal and safety offices take precedence**: use their official forms for purchase orders, reimbursements, accident reports, hiring and contracts.
+These are original templates designed for this guide. Their fields reflect the practices described by Mussman (chs. 6, 11, 12, 13, 21) and Hart (chs. 2, 11, 24). Copy them into a spreadsheet or document. **Your institution's finance, legal and safety offices take precedence**: use their official forms for purchase orders, reimbursements, accident reports, hiring and contracts.
 
 ---
 
 ## 1. Prop List
 
-*The master record of every prop (ch. 4). Put set props and dressing first, then hand props in script order. Update it after every meeting and every rehearsal report.*
+*The master record of every prop (ch. 6). Put set props and dressing first, then hand props in script order. Update it after every meeting and every rehearsal report.*
 
 **Header:** Theatre / Program · Production · Director · Set Designer · Prop Master · List version # · Date
 
@@ -24,7 +24,7 @@ These are original templates designed for this guide. Their fields reflect the p
 
 ## 2. Cost Breakdown / Build Estimate
 
-*Fill this in before spending (ch. 5). Estimate high, then record actuals next to the estimates. Add a contingency of 20–25%.*
+*Fill this in before spending (ch. 8). Estimate high, then record actuals next to the estimates. Add a contingency of 20–25%.*
 
 | Prop | Method | Materials (itemized) | Est. materials $ | Labor hrs (est.) | Labor $ | Shipping / tax / fees | Est. total | Actual total | Notes |
 |---|---|---|---|---|---|---|---|---|---|
@@ -33,7 +33,7 @@ These are original templates designed for this guide. Their fields reflect the p
 
 **Subtotal:** ____ **Contingency (__%):** ____ **Estimated total:** ____ **Budget available:** ____ **Variance:** ____
 
-Turnaround note (ch. 5): list drying and curing times, shipping lead times and hours available per day for each build.
+Turnaround note (ch. 8): list drying and curing times, shipping lead times and hours available per day for each build.
 
 ---
 
@@ -83,13 +83,13 @@ Turnaround note (ch. 5): list drying and curing times, shipping lead times and h
 - ☐ Signatures and dates from both parties; **each keeps a copy**
 - ☐ After return: condition checked and signed off; thank-you note sent
 
-Give stage management a **list of every borrowed and rented item** for the run (ch. 6).
+Give stage management a **list of every borrowed and rented item** for the run (ch. 11).
 
 ---
 
 ## 6. In-House Prop Check-Out
 
-*Keep these at the storage door so borrowers from inside the institution can fill them in themselves (ch. 8). Recycle forms once items are returned.*
+*Keep these at the storage door so borrowers from inside the institution can fill them in themselves (ch. 13). Recycle forms once items are returned.*
 
 | Date out | Item(s) & stock # | Borrower | Department / event | Contact | Expected return | Returned (date / initials) | Condition notes |
 |---|---|---|---|---|---|---|---|
@@ -99,7 +99,7 @@ Give stage management a **list of every borrowed and rented item** for the run (
 
 ## 7. Rehearsal-Note Response Log
 
-*Read every rehearsal report at the start of the day. Log each note, reply to the SM with an ETA, and ask clarifying questions (ch. 7).*
+*Read every rehearsal report at the start of the day. Log each note, reply to the SM with an ETA, and ask clarifying questions (ch. 12).*
 
 | Report # / date | Note (verbatim) | Clarification needed? | Priority (H/M/L) | Budget impact | Assigned to | ETA promised to SM | Done (date) | Prop list updated? |
 |---|---|---|---|---|---|---|---|---|
@@ -110,7 +110,7 @@ Give stage management a **list of every borrowed and rented item** for the run (
 
 ## 8. Prop Tracking / Preset Sheet
 
-*Usually stage management's document, but props should contribute, especially for co-productions and handoffs (ch. 7).*
+*Usually stage management's document, but props should contribute, especially for co-productions and handoffs (ch. 12).*
 
 | Prop | Preset location (start of show) | Scene(s) used | Brought on by | Ends scene at | Struck by / to | Reset / prep notes | Consumable qty per show |
 |---|---|---|---|---|---|---|---|
@@ -118,7 +118,7 @@ Give stage management a **list of every borrowed and rented item** for the run (
 
 ---
 
-## 9. Prop Bible Contents Checklist (ch. 4)
+## 9. Prop Bible Contents Checklist (ch. 6)
 
 - ☐ Script (with prop annotations)
 - ☐ Production calendar
@@ -137,7 +137,7 @@ Give stage management a **list of every borrowed and rented item** for the run (
 
 ---
 
-## 10. Strike & Returns Checklist (ch. 8)
+## 10. Strike & Returns Checklist (ch. 13)
 
 **Before strike**
 - ☐ Strike plan coordinated with the TD and ME (who starts when; staging area; vehicle schedule)
@@ -174,7 +174,7 @@ Give stage management a **list of every borrowed and rented item** for the run (
 
 ---
 
-## 12. Effect Safety Plan (ch. 26)
+## 12. Effect Safety Plan (ch. 46)
 
 | Field | Entry |
 |---|---|

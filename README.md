@@ -2,61 +2,84 @@
 
 A consolidated, topic-organized guide to **theatrical properties (props)** — managing a props department and building props — written for teaching at the university level and as groundwork for a possible textbook.
 
-It brings seven books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, fake-food recipe cards, EVA-foam build walkthroughs, 3D-printing project briefs, and flags on information that may be out of date.
+It brings seven books together in one structure, with page citations so every point can be traced to its source. It's organized as a master reference for the whole job, from what a prop is through admin, sourcing, every fabrication material, weapons, effects and careers. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, project tutorials, and flags on information that may be out of date. Where the sources are silent, chapters fill gaps from general knowledge, clearly marked.
 
-> **Status:** Draft complete for management, fabrication, period research, fake food, EVA foam props and 3D printing. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
+> **Status:** All 53 chapters drafted. Some chapters (film vs. TV, history, weapons, set dressing, greens, careers) rely mainly on general knowledge until a source is added, and the effects chapters await Hart's *Prop Effects Guidebook*. See [STATUS.md](STATUS.md).
 
 ---
 
 ## How it's organized
 
-### Part 1 — Foundations
-1. [What Is a Prop?](guide/01-what-is-a-prop.md)
-2. [The Props Department and the Prop Master](guide/02-the-props-department.md)
-3. [Collaboration and Communication](guide/03-collaboration-and-communication.md)
+The guide reads front to back as a course, and works as a reference: look up a material in Part 5, a weapon in Part 6, an effect in Part 7. Each material chapter keeps its reference information, techniques and safety together, with project tutorials in a linked file where a source provides them.
 
-### Part 2 — Managing a Show
-4. [Script Analysis, Design Documents, and the Prop List](guide/04-script-analysis-and-the-prop-list.md)
-5. [Budget, Time, and Feasibility](guide/05-budget-time-and-feasibility.md)
-6. [Sourcing: Pull, Borrow, Rent, Buy, Build](guide/06-sourcing.md)
-7. [Rehearsals, Tech, and Performance](guide/07-rehearsals-tech-and-performance.md)
-8. [Strike, Storage, Inventory, and Records](guide/08-strike-storage-and-records.md)
+### Part 1 — Intro
+1. [What Is a Prop?](guide/1-intro/01-what-is-a-prop.md)
+2. [The Prop Master and the Props Department](guide/1-intro/02-the-prop-master.md)
+3. [Theatre, Film and Television](guide/1-intro/03-theatre-film-and-tv.md)
+4. [Theory and Philosophy of Props](guide/1-intro/04-theory-and-philosophy.md)
+5. [A History of Props and Prop Making](guide/1-intro/05-history-of-props.md)
 
-### Part 3 — The Shop
-9. [The Prop Shop: Space, Tools, and Supplies](guide/09-shop-space-and-tools.md)
-10. [Health and Safety](guide/10-health-and-safety.md)
+### Part 2 — Admin
+6. [Script Breakdown, Design Documents and the Prop List](guide/2-admin/06-script-breakdown-and-prop-list.md)
+7. [Research and Period Accuracy](guide/2-admin/07-research-and-period-accuracy.md)
+8. [Budgets and Paperwork](guide/2-admin/08-budgets-and-paperwork.md)
+9. [Staffing, Time and Scheduling](guide/2-admin/09-staffing-and-scheduling.md)
+10. [Working with Other Departments](guide/2-admin/10-working-with-other-departments.md)
+11. [Buy, Source or Build?](guide/2-admin/11-buy-source-or-build.md)
+12. [Rehearsals, Tech and Performance](guide/2-admin/12-rehearsals-tech-and-performance.md)
+13. [Strike, Storage, Inventory and Records](guide/2-admin/13-strike-storage-and-records.md)
+14. [Rules to Live By](guide/2-admin/14-rules-to-live-by.md)
 
-### Part 4 — Building Props
-11. [The Build Method: Needs and Means](guide/11-the-build-method.md)
-12. [Drawings, Measuring, Layout, and Jigs](guide/12-drawings-measuring-and-layout.md)
-13. [Adhesives, Fasteners, Tapes, and Assembly](guide/13-adhesives-fasteners-and-assembly.md)
-14. [Carpentry and Wood](guide/14-carpentry.md)
-15. [Metalworking](guide/15-metalworking.md)
-16. [Plastics, Rubbers, and Foams](guide/16-plastics-and-foams.md)
-17. [Structure, Framework, and Armatures](guide/17-structure-and-armatures.md)
-18. [Fabric, Upholstery, and Leather](guide/18-fabric-upholstery-and-leather.md)
-19. [Patterning and Draping](guide/19-patterning.md)
-20. [Sculpting and Sculptural Materials](guide/20-sculpting.md)
-21. [Molding and Casting](guide/21-molding-and-casting.md)
-22. [Shells and Laminates](guide/22-shells-and-laminates.md)
-23. [Surfaces: Sanding, Filling, Texture, Distressing, and Protective Coats](guide/23-surfaces-texture-and-coatings.md)
-24. [Painting, Dyeing, and Finishing](guide/24-painting-dyeing-and-finishing.md)
-25. [Graphics and Paper Props](guide/25-graphics-and-paper-props.md)
+### Part 3 — Sourcing
+15. [Shopping](guide/3-sourcing/15-shopping.md)
+16. [Renting](guide/3-sourcing/16-renting.md)
+17. [Borrowing](guide/3-sourcing/17-borrowing.md)
+18. [Pulling, Altering and Kitbashing](guide/3-sourcing/18-pulling-altering-and-kitbashing.md)
+19. [Recycling, Reusing and Building Stock](guide/3-sourcing/19-recycling-and-reusing.md)
 
-### Part 5 — Effects
-26. [Effects Props: Weapons, Food, Flame, and Tricks](guide/26-effects-props.md) *(partial)*
+### Part 4 — Fabrication: Core Skills
+20. [Health and Safety](guide/4-fabrication-core/20-health-and-safety.md)
+21. [The Prop Shop: Space, Tools and Supplies](guide/4-fabrication-core/21-shop-space-and-tools.md)
+22. [The Build Method: Needs and Means](guide/4-fabrication-core/22-the-build-method.md)
+23. [Drawings, Measuring, Layout and Jigs](guide/4-fabrication-core/23-drawings-measuring-and-layout.md)
+24. [Patterning and Draping](guide/4-fabrication-core/24-patterning.md)
+25. [Adhesives, Fasteners, Tapes and Assembly](guide/4-fabrication-core/25-adhesives-and-fasteners.md)
+26. [Structure, Framework and Armatures](guide/4-fabrication-core/26-structure-and-armatures.md)
+27. [Surfaces: Sanding, Filling, Texture, Distressing and Protective Coats](guide/4-fabrication-core/27-surfaces-and-texture.md)
+28. [Painting, Dyeing and Finishing](guide/4-fabrication-core/28-painting-and-finishing.md)
 
-### Part 6 — Period Research
-27. [Period Research and Historical Accuracy](guide/27-period-research.md)
+### Part 5 — Fabrication: Materials
+29. [Wood and Carpentry](guide/5-materials/29-wood.md)
+30. [Metalworking](guide/5-materials/30-metal.md)
+31. [Plastics](guide/5-materials/31-plastics.md)
+32. [Foams and Rubbers](guide/5-materials/32-foams-and-rubbers.md)
+33. [EVA Foam Props](guide/5-materials/33-eva-foam.md) · [projects](guide/5-materials/33-eva-foam-projects.md)
+34. [Fabric and Upholstery](guide/5-materials/34-fabric-and-upholstery.md)
+35. [Leather](guide/5-materials/35-leather.md)
+36. [Shells and Laminates](guide/5-materials/36-shells-and-laminates.md)
+37. [Sculpting and Sculptural Materials](guide/5-materials/37-sculpting.md)
+38. [Molding and Casting](guide/5-materials/38-molding-and-casting.md)
+39. [Graphics and Paper Props](guide/5-materials/39-paper-and-graphics.md)
+40. [3D Printing for Props](guide/5-materials/40-3d-printing.md) · [projects](guide/5-materials/40-3d-printing-projects.md)
+41. [Prop Food: Building Inedible Food](guide/5-materials/41-prop-food.md) · [recipe cards](guide/5-materials/41-prop-food-recipes.md)
 
-### Part 7 — Food Props
-28. [Fake Food: Building Inedible Food Props](guide/28-fake-food.md)
+### Part 6 — Weapons
+42. [Weapons Safety and Policy](guide/6-weapons/42-weapons-safety-and-policy.md)
+43. [Firearms](guide/6-weapons/43-firearms.md)
+44. [Swords, Daggers and Blades](guide/6-weapons/44-swords-and-daggers.md)
+45. [Other Weapons and Armor](guide/6-weapons/45-other-weapons.md)
 
-### Part 8 — Lightweight Foam Props
-29. [EVA Foam Props](guide/29-eva-foam-props.md)
+### Part 7 — Effects
+46. [Effects Props and Breakaways](guide/7-effects/46-effects-and-breakaways.md)
+47. [Eating, Drinking and Smoking Onstage](guide/7-effects/47-eating-drinking-and-smoking.md)
+48. [Flame, Smoke and Live Sound](guide/7-effects/48-flame-smoke-and-sound.md)
+49. [Practicals, Electrics and Mechanisms](guide/7-effects/49-practicals-and-mechanisms.md)
+50. [Blood and Messy Effects](guide/7-effects/50-blood-and-messy-effects.md)
 
-### Part 9 — Digital Fabrication
-30. [3D Printing for Props](guide/30-3d-printing.md)
+### Part 8 — The Wider Craft
+51. [Set Dressing](guide/8-wider-craft/51-set-dressing.md)
+52. [Greens and Florals](guide/8-wider-craft/52-greens-and-florals.md)
+53. [Careers and Professional Practice](guide/8-wider-craft/53-careers-and-professional-practice.md)
 
 ### Appendices
 - A. [Glossary](appendices/A-glossary.md)
@@ -64,9 +87,6 @@ It brings seven books together in one structure, with page citations so every po
 - C. [Sources, Editions, and What to Verify](appendices/C-sources-and-editions.md)
 - D. [Concordance (Topic → Source Pages)](appendices/D-concordance.md)
 - E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
-- F. [Fake Food Recipe Cards](appendices/F-fake-food-recipe-cards.md): condensed builds for 41 dishes (appetizers, breakfast, entrées, drinks, desserts), a found-materials index and a show reference
-- G. [EVA Foam Build Walkthroughs](appendices/G-eva-foam-builds.md): condensed sequences for five foam builds (sword, shield, claws, spear, short swords and scabbards), with materials, priming and timings
-- H. [3D Printing Project Briefs and Troubleshooting](appendices/H-3d-printing-projects.md): condensed briefs and assessment criteria for B's graded projects (lettered card, candlestick phone, scanned button, prosthesis or mask, linear actuator, group large print) and further ideas, plus a fault-finding table
 
 Every chapter follows the same pattern: a sources line, the content, a **Key terms** list, and **For the classroom** prompts (discussion questions and hands-on projects).
 
@@ -90,13 +110,14 @@ Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 
 - **[Check current]** — information that changes (regulations, product names, prices, technology, law). See the [volatile-information register](appendices/C-sources-and-editions.md#volatile-information-register).
 - **[Verified 2026]** — checked against current sources while writing this guide.
 - **[Added best practice]** / **[Suggestion]** — a point not in the sources, added by the guide.
+- **[General knowledge]** — content written from widely available knowledge, not from the guide's sources. Verify before publishing or teaching it as fact.
 
 ---
 
 ## Using this for teaching
 
-- **Course spine:** Parts 1–3 suit an introductory props or production-management unit. Part 4 maps onto a studio or shop course. Part 9 and Appendix H give a ready-made sequence of graded 3D-printing projects with rubrics. Part 6 and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 4](guide/04-script-analysis-and-the-prop-list.md)). The classroom prompts run roughly from discussion to hands-on.
-- **Safety first:** Make [ch. 10](guide/10-health-and-safety.md) and machine checkouts a prerequisite for shop work, and align them with your institution's Environmental Health & Safety (EHS) office.
+- **Course spine:** Parts 1–2 suit an introductory props or production-management unit, with Part 3 for sourcing. Parts 4–5 map onto a studio or shop course; [ch. 40](guide/5-materials/40-3d-printing.md) and its [projects](guide/5-materials/40-3d-printing-projects.md) give a ready-made sequence of graded 3D-printing projects. [Ch. 7](guide/2-admin/07-research-and-period-accuracy.md) and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 6](guide/2-admin/06-script-breakdown-and-prop-list.md)). [Ch. 14](guide/2-admin/14-rules-to-live-by.md) works as a first-week handout. The classroom prompts run roughly from discussion to hands-on.
+- **Safety first:** Make [ch. 20](guide/4-fabrication-core/20-health-and-safety.md) and machine checkouts a prerequisite for shop work, and align them with your institution's Environmental Health & Safety (EHS) office.
 - **Project-based learning:** Hart recommends learning each craft by making a small, complete object (a birdhouse for woodworking, a soap carving for sculpting, a pillowcase for sewing, a recovered drop seat for upholstery, a plaster press-mold for casting, papier-mâché before fiberglass) rather than drilling isolated techniques (H 9). Many classroom prompts follow that model.
 - **Assigning the books:** If students buy Hart, assign the current editions; the chapter topics here line up with Hart's chapter titles even where page numbers don't.
 

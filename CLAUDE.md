@@ -1,11 +1,11 @@
 # Instructions for Claude
 
-This repo is a **props master guide** for university teaching and a possible textbook. It's one consolidated guide (`guide/` chapters plus `appendices/`) built from several books. Each book has a citation code and page references. The user's usual request is "here's my next source, add it to the guide". Follow this file end to end without asking for setup details.
+This repo is a **props master guide** for university teaching and a possible textbook. It's one consolidated guide (`guide/` chapters in part folders plus `appendices/`) built from several books. **The goal is a master reference that stands in for reading every source**: someone who reads it should know what all the books teach, and be able to look up any part of the job and find the reference information, methods, safety and projects in one place. Each book has a citation code and page references. The user's usual request is "here's my next source, add it to the guide". Follow this file end to end without asking for setup details.
 
 ## Hard rules
 
 - **Never write slurs**, even when quoting, flagging or repeating a source. Describe them instead (e.g., "an ethnic slur on p. 165").
-- **Never write a standalone guide.** Every new source goes *into* the existing chapters and appendices. Add a new chapter or appendix only for a subject the guide doesn't cover yet.
+- **Never write a standalone guide.** Every new source goes *into* the existing chapters. **Weave it in by topic**: a new book's adhesive advice goes in ch. 25, its safety points in ch. 20, its material methods in the Part 5 chapter for that material. Don't give a book its own chapter just because it's a new book. Add a new chapter only for a subject the guide doesn't cover yet.
 - **When sources disagree, state each position with its citation and stop.** For example: "FF says X (FF 38); Hart says the opposite (H 267)." Don't pick a winner, recommend one side, or add advice that resolves it. This includes a source disagreeing with itself ("FF gives both 50 s (FF 73) and 90 s (FF 77)").
 - **Write in your own words.** Summarise and reorganise. No long quotations, no reproduced images, tables or forms. Brief quotes need a page citation.
 
@@ -43,17 +43,30 @@ Web-search for the book's current edition and any sequels or companion volumes. 
 
 Cite as `(CODE page)` or `(CODE page–page)`. Add the source's page ranges to section headings, e.g. `## Release agents (H 265–267)`.
 
+**Structure.** Chapters live in part folders, numbered continuously across the guide:
+
+| Folder | Part | Chapters |
+|---|---|---|
+| `guide/1-intro/` | Intro: what a prop and a prop master are, media, theory, history | 1–5 |
+| `guide/2-admin/` | Admin: script breakdown, research, budgets, staffing, departments, buy/source/build, rehearsals, strike, rules to live by | 6–14 |
+| `guide/3-sourcing/` | Shopping, renting, borrowing, altering, reusing | 15–19 |
+| `guide/4-fabrication-core/` | Safety, tools, build method, drawing, patterning, glues, structure, surfaces, paint | 20–28 |
+| `guide/5-materials/` | One chapter per medium (wood, metal, plastics, foams, EVA, fabric, leather, shells, sculpting, casting, paper, 3D printing, prop food) | 29–41 |
+| `guide/6-weapons/` | Safety and policy, firearms, blades, other weapons and armour | 42–45 |
+| `guide/7-effects/` | Breakaways, eating/drinking/smoking, flame/smoke/sound, practicals and mechanisms, blood | 46–50 |
+| `guide/8-wider-craft/` | Set dressing, greens and florals, careers | 51–53 |
+
 **Where the material goes**
-- **Topics that existing chapters already cover:** add short passages or cross-reference lines there, citing the new code. Add the code to that chapter's `> **Sources:**` line if it's a substantial contribution.
-- **Subjects the guide doesn't cover yet:** add a new chapter `guide/NN-slug.md` with the next free number, in a new or existing Part. If the source has reference-style detail (timelines, recipes, catalogues), put that in a companion appendix (next free letter) and link it from the chapter.
+- **Topics that existing chapters already cover:** add passages there, citing the new code, so each chapter reads as one synthesis rather than a list of book summaries. Add the code to that chapter's `> **Sources:**` line if it's a substantial contribution. Where a chapter section is marked **[General knowledge]**, replace or support it with the sourced material and remove the marker where the source now covers it.
+- **Subjects the guide doesn't cover yet:** add a new chapter `guide/<part folder>/NN-slug.md` in the right part. Inserting a chapter means renumbering later chapters and every reference to them; prefer adding to an existing chapter, or append at the end of a part only if the numbers allow. If a source has project tutorials or reference-style detail (recipes, build walkthroughs, project briefs, catalogues), put them in a companion file beside the material chapter (`NN-slug-projects.md` or `NN-slug-recipes.md`) and link it from the chapter's `> **Companion:**` line. Use appendices only for guide-wide reference (glossary, templates, sources, concordance, timeline).
 - **Disagreements:** collect them in a `## Where the sources disagree` table (`Topic | <new> says | Other source says`) and repeat them inline where they matter. Use neutral wording only (see Hard rules).
 
-**Chapter format** (copy any existing chapter, e.g. `guide/28-fake-food.md`):
+**Chapter format** (copy any existing chapter, e.g. `guide/5-materials/41-prop-food.md`):
 ```
 # NN. Title
 
 > **Sources:** CODE ch.X (pp. a–b); ...
-> **Companion:** (if there's an appendix)
+> **Companion:** (if there's a projects or recipes file)
 > **[Check current]** what in this chapter dates quickly
 
 ...sections with page cites in headings...
@@ -69,6 +82,7 @@ term · term · term
 - **[Check current]**: volatile facts (products, prices, law, regulations, technology, URLs). Also add each one to the volatile-information register in Appendix C.
 - **[Verified YYYY]**: facts you checked by web search. List the URLs in Appendix C.
 - **[Added best practice]** / **[Suggestion]**: points that aren't in any source. Never use these to settle a disagreement.
+- **[General knowledge]**: sections written from widely available knowledge to fill a gap no source covers yet. Mark it at the section or line level. Never use it to settle a disagreement between sources.
 
 **Style.** Plain, direct teaching prose. Bullets and tables for procedures and numbers. Keep the source's numbers (ratios, temperatures, times) with page cites. Use US units if the source does.
 

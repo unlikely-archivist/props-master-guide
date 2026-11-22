@@ -1,9 +1,9 @@
 # Appendix E: Period Props Timeline (Quick Reference)
 
-A "when could it be there?" lookup for common props, condensed mainly from Thurston James, *The What, Where, When of Theater Props* (1992). It is cited as **J** with page numbers. For method and caveats, see [ch. 27](../guide/27-period-research.md).
+A "when could it be there?" lookup for common props, condensed mainly from Thurston James, *The What, Where, When of Theater Props* (1992). It is cited as **J** with page numbers. For method and caveats, see [ch. 7](../guide/2-admin/07-research-and-period-accuracy.md).
 
 **How to read this table**
-- Dates mark when an object was **introduced or first available**. Read them as **"no earlier than."** Everyday use often came decades later and lasted decades longer, especially in the countryside and in poorer households ([ch. 27](../guide/27-period-research.md#invented-is-not-the-same-as-in-use)).
+- Dates mark when an object was **introduced or first available**. Read them as **"no earlier than."** Everyday use often came decades later and lasted decades longer, especially in the countryside and in poorer households ([ch. 7](../guide/2-admin/07-research-and-period-accuracy.md#invented-is-not-the-same-as-in-use)).
 - **†** = James's date differs from the commonly cited one, or needs a caution. The note gives the alternative. **[Verified 2026]** = checked against current sources while writing this guide. **[Added]** = not in James.
 - Coverage is **Western Europe and the US**, and it **stops in 1992** (J 10).
 - **[Check current]** For film, TV or close-up stage use, confirm any date that matters against two independent sources, preferably primary ones (period catalogs, photographs, museum collections).
@@ -65,7 +65,7 @@ A "when could it be there?" lookup for common props, condensed mainly from Thurs
 | Toby jug | 1700s | (J 16–31) |
 | Ewer and basin for washing | Until indoor plumbing, late 1800s | (J 16–31) |
 
-James also gives glass sizes for beer and cocktail service (for example, a snifter ~6 oz and a highball 8–10 oz), along with standard garnishes. These are useful for stage-drink planning ([ch. 26](../guide/26-effects-props.md#food-and-drink-m-78-156157-h-6)).
+James also gives glass sizes for beer and cocktail service (for example, a snifter ~6 oz and a highball 8–10 oz), along with standard garnishes. These are useful for stage-drink planning ([ch. 47](../guide/7-effects/47-eating-drinking-and-smoking.md#food-and-drink-m-78-156157-h-6)).
 
 ## 2. Tobacco and smoking
 *(J 32–39)*
@@ -81,7 +81,7 @@ James also gives glass sizes for beer and cocktail service (for example, a snift
 | Corncob pipe | 1869 | (J 32–39) |
 | Cigarettes in Europe | 1840s–1850s | Spread by soldiers returning from the Crimean War. Machine-made from the 1880s (J 35) |
 
-Health and law: see [ch. 26](../guide/26-effects-props.md#smoking-m-149150) before anyone smokes onstage.
+Health and law: see [ch. 47](../guide/7-effects/47-eating-drinking-and-smoking.md#smoking-m-149150) before anyone smokes onstage.
 
 ## 3. Fire and lighting
 *(J 98–107)*
@@ -163,7 +163,7 @@ Health and law: see [ch. 26](../guide/26-effects-props.md#smoking-m-149150) befo
 | Window envelope | 1902 | (J 108) |
 | Felt-tip marker | c. 1960 | (J 108) |
 
-For making period documents, see [ch. 25](../guide/25-graphics-and-paper-props.md).
+For making period documents, see [ch. 39](../guide/5-materials/39-paper-and-graphics.md).
 
 ## 6. Eyewear and hearing aids
 *(J 112–115)*
@@ -342,7 +342,7 @@ Standard table height is about 30 inches. Sofa tables were 2–3 inches lower (J
 James ends with Art Nouveau. For **Art Deco, Modernism, mid-century modern and later** you'll need other references **[Added]**.
 
 ## 11. Arms and armor
-*(J 149–176)*. For names and dating only. All weapons props follow [ch. 26](../guide/26-effects-props.md#weapons-and-firearms-m-147149-h-7) and your institution's policy.
+*(J 149–176)*. For names and dating only. All weapons props follow [ch. 42](../guide/6-weapons/42-weapons-safety-and-policy.md#what-the-sources-say-m-147149-h-7) and your institution's policy.
 
 | Period | Armor | Weapons |
 |---|---|---|
