@@ -1,6 +1,6 @@
 # 43. Firearms
 
-> **Sources:** M ch.10 (pp. 147–148); H ch.1 (p. 7); J (firearms entries; see the [timeline](../../appendices/E-period-props-timeline.md#11-arms-and-armor)). Most of this chapter is **[General knowledge]**: it summarises widely published industry safety practice, not the guide's sources.
+> **Sources:** M ch.10 (pp. 147–148); H ch.1 (p. 7); W ch.5 (p. 94); J (firearms entries; see the [timeline](../../appendices/E-period-props-timeline.md#11-arms-and-armor)). Most of this chapter is **[General knowledge]**: it summarises widely published industry safety practice, not the guide's sources.
 > **[Check current]** This is the most regulated and fastest-changing area in the guide. Firearms law, union and industry safety guidance (for example Actors' Equity rules in theatre, and the industry-wide safety bulletins used in US film and television), and institutional policies differ by place and are revised. **Follow your institution's policy, current union guidance and local law, and use a qualified armorer wherever required.** This chapter is an overview for planning conversations, not instructions for handling, modifying or firing any weapon.
 
 ## Why firearms are different
@@ -63,7 +63,7 @@ For dating firing mechanisms (matchlock, wheel lock, flintlock, percussion cap, 
 ## Making non-firing guns [General knowledge]
 
 When a solid prop gun is enough, it can be:
-- **Cast** in resin or rubber from a mould of a non-firing replica ([ch. 38](../5-materials/38-molding-and-casting.md)). Rubber versions are safer for stunts and falls.
+- **Cast** in resin or rubber from a mould of a non-firing replica ([ch. 38](../5-materials/38-molding-and-casting.md)). Rubber versions are safer for stunts and falls. Wilson shows a rifle magazine released from a two-piece silicone mold (W 94).
 - **Carved** in wood or rigid foam and hard-coated ([ch. 29](../5-materials/29-wood.md), [ch. 37](../5-materials/37-sculpting.md)).
 - **3D printed** and finished ([ch. 40](../5-materials/40-3d-printing.md)).
 - **Built in EVA foam** for fantasy or sci-fi guns ([ch. 33](../5-materials/33-eva-foam.md)).

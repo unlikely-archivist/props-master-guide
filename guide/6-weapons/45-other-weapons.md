@@ -1,6 +1,6 @@
 # 45. Other Weapons and Armor
 
-> **Sources:** H ch.8 (p. 159), ch.10 (pp. 190–191), ch.15 (pp. 291–306); KF (pp. 5, 32–36, 38–40, 42–44); J (arms and armour entries). Most of this chapter is **[General knowledge]**.
+> **Sources:** H ch.8 (p. 159), ch.10 (pp. 190–191), ch.15 (pp. 291–306); KF (pp. 5, 32–36, 38–40, 42–44); J (arms and armour entries); W ch.6 (pp. 106, 110), ch.9 (p. 165). Most of this chapter is **[General knowledge]**.
 > **[Check current]** Laws on bows, crossbows, martial-arts weapons and replica explosives vary by place. Follow your institution's weapons policy ([ch. 42](42-weapons-safety-and-policy.md)).
 
 Beyond guns and blades, productions call for staffs, spears, axes, hammers, bows, shields, armour and more. The same principle applies to all of them: **choose the least dangerous version that tells the story**, and let the fight director decide anything used in combat ([ch. 42](42-weapons-safety-and-policy.md#choosing-the-least-dangerous-option-general-knowledge)).
@@ -17,6 +17,7 @@ Beyond guns and blades, productions call for staffs, spears, axes, hammers, bows
 
 - For contact or near-contact, use **foam or rubber heads** on a flexible or padded shaft. Film stunt weapons are often single castings of foam rubber (H 190–191).
 - A head that really chops (Hart's nightly melon-splitting axe) needs a real tool-steel edge and a written safety plan (H 159).
+- **Faking iron and steel heads:** Wilson finished a wooden axe blade with graphite powder in PVA, buffed to the look of old polished iron; it can rub off on hands, so renew it ([ch. 28](../4-fabrication-core/28-painting-and-finishing.md#metallic-finishes-w-164171)) (W 165).
 - Weight is part of the acting. A light foam axe can be acted as heavy; a heavy real one is tiring and harder to control.
 
 ## Bows, crossbows and arrows [General knowledge]
@@ -43,6 +44,7 @@ Armour sits between props and costumes. Agree early who builds it ([ch. 1](../1-
 - **Noise**: real metal is loud. Line plates with felt or use non-metal materials if the sound is unwanted.
 - **Quick changes**: plan fastenings (buckles, magnets, Velcro, hooks) for the time available.
 - KF distinguishes armour, shaped on one person's body, from props that anyone can hold (KF 2).
+- **GRP armour:** Wilson lists armour among GRP's prop uses, using felt-like **core mat** between glass layers for light, rigid casts of even thickness ([ch. 36](../5-materials/36-shells-and-laminates.md)) (W 106, 110).
 
 ## Explosives, grenades and other modern weapons [General knowledge]
 

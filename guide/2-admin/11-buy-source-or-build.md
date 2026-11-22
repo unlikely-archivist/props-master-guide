@@ -1,6 +1,6 @@
 # 11. Buy, Source or Build?
 
-> **Sources:** M ch.6 (pp. 78–91), ch.8 (pp. 109–119); H ch.1 (pp. 4–6), ch.5 (pp. 60–61), ch.19 (pp. 363–364)
+> **Sources:** M ch.6 (pp. 78–91), ch.8 (pp. 109–119); H ch.1 (pp. 4–6), ch.5 (pp. 60–61), ch.19 (pp. 363–364); W ch.1 (p. 8), ch.2 (pp. 22, 30–31)
 > **[Check current]** Store types and suppliers change. Build and keep your own vendor list.
 
 Every prop on the list gets the same first question: **pull it, borrow it, rent it, buy it, or build it?** This chapter covers how to decide. The details of each route are in Part 3: [shopping](../3-sourcing/15-shopping.md), [renting](../3-sourcing/16-renting.md), [borrowing](../3-sourcing/17-borrowing.md), [pulling and altering](../3-sourcing/18-pulling-altering-and-kitbashing.md) and [reusing stock](../3-sourcing/19-recycling-and-reusing.md). Building is Parts [4](../4-fabrication-core/20-health-and-safety.md) and [5](../5-materials/29-wood.md).
@@ -57,6 +57,14 @@ Hart gives three reasons to build (H 5–6):
 1. **It doesn't exist.** Imaginary or design-specific objects, or real objects in a specific size or look: an oil portrait of the lead actor, an oversized mug, furniture in forced perspective.
 2. **It must do something real objects weren't made for.** Furniture gets danced on, thrown, tipped and carried in quick changes. Large items get faked in lighter materials.
 3. **The real thing is too expensive**: gold, antiques, hardwood finishes, real food every night.
+
+Wilson's reasons (W 8) overlap and add one:
+1. **It can't be got any other way**: a stuffed tableau of a dodo fighting an alien, or, more likely, attempts to buy, borrow or hire have failed.
+2. **The design is very specific** in size or look: a portrait that's a likeness of a cast member, a kite made by a ten-year-old, furniture that must fit a certain space. Furniture that was once grand but is now battered is surprisingly hard to find, because hire firms keep stock in good shape "and will not appreciate your ripping out the stuffing."
+3. **It must perform a technical function or take rough treatment**: a china Buddha broken nightly, a chaise upended by two dancers and climbed on.
+4. **It's cheaper to make than to buy or hire.** On a long run or tour, **hire charges can exceed the cost of making**; bought goods may be finished in richer materials than the stage needs; and making is often cheapest where labour is already paid for.
+
+Whether to use a prop is an artistic decision for the director and designer; **how to get it** is also logistical and financial, involving the production manager or stage manager, the designer, and the prop maker if it may need making (W 8). Much stage furniture is hired, bought or borrowed, and built only when that's cheaper or the design requires it; buying hard-to-make parts such as turned or cabriole legs is a middle way (W 22, 30–31).
 
 Hart also warns that **adapting** a store-bought object can cost more than building one. You have to match its existing finish, and modern furniture is often honeycomb paper under a thin skin, with nothing to fasten to (H 6).
 

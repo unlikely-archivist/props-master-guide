@@ -2,7 +2,7 @@
 
 > **Status: partial.** This chapter is meant to draw mainly on Hart's *The Prop Effects Guidebook*. The EPUB uploaded for this project was **truncated**: only its table of contents and images survived, and the chapter text did not. Everything below comes from Mussman (2008) and Hart's *Prop Building Guidebook* (2013). The section map at the end shows where *Effects Guidebook* material will go once a complete copy is available. **[Verified 2026: a 2nd edition of *The Prop Effects Guidebook* was published by Routledge in 2025; the 1st edition was 2018.]**
 >
-> **Sources:** M ch.1 (pp. 7–10), ch.10 (p. 149); H ch.1 (pp. 2–7, 9–10), ch.5 (p. 77), ch.10 (pp. 190–191), ch.14 (pp. 274–275)
+> **Sources:** M ch.1 (pp. 7–10), ch.10 (p. 149); H ch.1 (pp. 2–7, 9–10), ch.5 (p. 77), ch.10 (pp. 190–191), ch.14 (pp. 274–275); W ch.6 (p. 121), ch.4 (p. 77), glossary (p. 183)
 > **[Check current]** Weapons law, union safety rules (e.g., Actors' Equity), smoking and vaping law, pyrotechnic licensing and fire codes all vary by place and have changed since these books were written. **Your institution's policies and local law govern.**
 
 Part 7 covers props that do something beyond being handled: break, burn, smoke, bleed, light up, move or make a sound. This chapter covers the principles for every effect, plus breakaways. The others are [eating, drinking and smoking](47-eating-drinking-and-smoking.md), [flame, smoke and sound](48-flame-smoke-and-sound.md), [practicals and mechanisms](49-practicals-and-mechanisms.md) and [blood](50-blood-and-messy-effects.md). Weapons have their own part ([Part 6](../6-weapons/42-weapons-safety-and-policy.md)).
@@ -37,13 +37,15 @@ Three rules apply to every effect:
 - **Magnets** make removable and breakaway joints without holes or residue (H 77).
 - Flexible materials and **cushioning** protect both actor and prop. Film stunt weapons are often single castings of foam rubber (H 190–191).
 - **Gelatin** casts make **breakaway prosthetics** (Gloucester's eyes in *King Lear*). Gelatin softens under stage lights, so make them fresh (H 274–275).
+- **Breakable "ceramics"** (W 121): the challenge is a convincing smash without shards flying into performers' and the front row's eyes, and the answer is almost always a compromise on **noise** or on **where the action happens**. Where flying debris is a serious danger or the mess must be cleared fast, a layer of **latex** (or latex-based glue) painted on the object holds it together, though the smash then looks and sounds disappointing. With or without latex, **fully dried plaster** is probably the best ceramic mimic: its breaking noise is convincing, it's cheap and it demolds fast. Nearly all shapes must be **hollow**: pour plaster into a rubber mold and rotate it, paint it into open molds, or press in plaster thickened with colloidal silica. Plaster turns to dust, so **sweep it up before anyone walks on it**. **Polymer plasters** break convincingly and damage floors less if trodden on. Proprietary breakaway resins and waxes tend to put a convincing smash ahead of safety.
+- **A breakaway clock** (W 77): the original was built from plastic mouldings and modelled plaster on a wooden base; a silicone mold of it produced hollow plaster castings, which were painted, glazed and fitted with a real clock movement.
 - *[Pending: Effects Guidebook ch. 8, "Breakaways."]*
 
-## Breakaway practice [General knowledge]
+## Breakaway practice [General knowledge, except where cited]
 
-- **Breakaway glass**: commercial breakaway bottles, glasses and window panes are made from brittle resins designed to shatter into harmless pieces. "Sugar glass" (cooked sugar) is the traditional version but softens in humidity and heat. Buy enough for the whole run plus rehearsals (H 3–4).
+- **Breakaway glass**: commercial breakaway bottles, glasses and window panes are made from brittle resins designed to shatter into harmless pieces. "Sugar glass" (cooked sugar) is the traditional version but softens in humidity and heat. Buy enough for the whole run plus rehearsals (H 3–4). Wilson's glossary notes that "sugarglass" once really was sugar and is now synthetic (W 183).
 - **Breakaway furniture** is built with weak, glued or pinned joints (often in balsa or other soft wood) so it collapses along planned lines, then reassembles or is replaced.
-- **Clean up** every shard after every use; plan who sweeps and when.
+- **Clean up** every shard after every use; plan who sweeps and when (for plaster breakaways, before anyone walks on the dust, W 121).
 - **Test everything** the same way it will be used, many times, before an actor uses it (M 149).
 
 ## Section map for *The Prop Effects Guidebook*

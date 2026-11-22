@@ -1,6 +1,6 @@
 # 31. Plastics
 
-> **Sources:** H ch.9 (pp. 161–181), ch.13 (pp. 252–254), ch.12 (p. 236)
+> **Sources:** H ch.9 (pp. 161–181), ch.13 (pp. 252–254), ch.12 (p. 236); W ch.4 (pp. 80–81), ch.6 (pp. 119–121), ch.1 (p. 15)
 > **Companion:** [Plastics Projects](31-plastics-projects.md): plastic identification, heat-bent acrylic, vacuum forming, solvent welding, edge polishing.
 > **[Check current]** Brand names, formulations and 3D-printing materials change quickly. Thermoforming temperatures are starting points; follow the manufacturer's data. Heating plastics releases toxic fumes, so ventilate.
 
@@ -10,7 +10,8 @@
 - **Natural polymers** include latex, shellac, casein, horn, wool and cellulose.
 - A **resin** is any liquid that hardens. All plastics start as resins, which become sheets, emulsions (varnish, PVA glue, acrylic paint), or casting and laminating resins.
 - **Thermoplastics** soften every time they're heated and can be reshaped (acrylic, styrene, ABS, PVC, PETG, Kydex). **Thermosets** cure once and can't be re-softened (epoxy, cured casting resins).
-- **Copolymers** are joined chemically (ABS). **Alloys** are blended mechanically (Kydex is acrylic plus PVC). Additives such as plasticizers, colorants, fillers and flame retardants change properties.
+- **Copolymers** are joined chemically (ABS). **Alloys** are blended mechanically (Kydex is acrylic plus PVC). Additives such as plasticizers, colorants, fillers and flame retardants change properties (H 162–163).
+- **Names:** most plastics have a technical name (polyamide), an abbreviation (PA) and one or more common or trade names (Nylon), and you'll meet all three. Nearly every industrial thermoplastic softens at temperatures **too hot to handle**, which limits most of them in props to hands-off processes such as vacuum forming; polycaprolactone is the notable exception (W 119–120).
 
 ## The common plastics (H 163–167)
 
@@ -29,7 +30,7 @@
 | **PET / PETG** | Soda bottles (repurposed shapes); **PETG** for vacuum forming | PETG doesn't craze when bent the way acrylic can |
 | **Polyester resin** | Fiberglass laminating, clear casting, **auto-body filler (Bondo)** | See [chs. 36, 38](38-molding-and-casting.md) |
 | **PLA** | Biodegradable 3D-printing filament | |
-| **PCL**: Friendly Plastic, InstaMorph, Polymorph | Softens around 140°F and is hand-moldable | Small parts, jewelry, quick fixes |
+| **PCL**: Friendly Plastic, InstaMorph, Polymorph | Softens around 140°F and is hand-moldable | Small parts, jewelry, quick fixes (H 163–167). Wilson: worked comfortably with bare hands, softening just below 100°C and staying malleable for several minutes as it cools, then setting tough enough to carve or drill; reheatable, non-toxic and biodegradable; sold as pellets and as brightly coloured "fun" rods (W 120). On the softening temperature, see the disagreement table |
 | **Polyurethane** | Casting resins, rubbers, flexible foam (upholstery, puppets), rigid carving foam, varnishes, glue | Isocyanate hazards ([ch. 20](../4-fabrication-core/20-health-and-safety.md)) |
 | **Acetal (Delrin)** | Slick, hard, low-friction parts (wagon tracks) | Can't be solvent-welded |
 | **Cellulose acetate, cellophane** | Transparencies and films | |
@@ -105,11 +106,18 @@ Heated sheet is pulled over a **buck** (positive "drape" forming) or into a fema
   - a **heater** above, or a dedicated oven
 - **Details** end up on the inside and are softened by sheet thickness. Exaggerate them, or accept the soft "mass-produced" look.
 - **Sheet**: HIPS is the beginner favorite. 0.06" for general use, about 0.08" for torso armor. **Tall bucks thin the sheet**, so use thicker stock for them.
-- **Bucks** must survive heat and vacuum: rigid PU foam, plaster, fiberglass, wood or aluminum. Coat foam and clay bucks.
+- **Bucks** must survive heat and vacuum: rigid PU foam, plaster, fiberglass, wood or aluminum. Coat foam and clay bucks (H 174–175).
+- A vacuum former is a machine that does what's otherwise impossible, and one of the first big purchases worth considering (W 15). Vacuum-formed parts can be back-filled with rigid urethane foam for strength (W 116), and vac-formed mouldings were combined with timber in a large Dutch-metal picture frame (W 156).
 - Run the vacuum until the sheet has cooled. Dust the buck with talc and pop parts off with compressed air.
 - **Webbing** at sharp corners: raise the objects, push the plastic with a stick while it's soft, keep the webbing in offcut areas, or spot-reheat with a heat gun (H 178).
 
+## Thermoplastic splinting sheet (W 80)
+
+Low-temperature thermoplastic **splinting material** (sold for medical splints) can be modelled directly over a clay original to make a light, tough shell (W 80). See the thermoplastic sheets in [ch. 36](36-shells-and-laminates.md).
+
 ## Clear plastics (H 175–179)
+
+For **clear castings** that imitate glass and crystal (clear polyester, urethane and epoxy compared), see [ch. 38](38-molding-and-casting.md#clear-casting-w-120121) (W 120–121).
 
 - **Keep the protective film on** through fabrication. Mark on it, and peel only where you heat, bend or glue.
 - Remove old masking with kerosene or WD-40 and a soft plastic scraper, then wash with soap.
@@ -129,6 +137,12 @@ For filaments in detail (PLA, ABS, PETG, nylon and TPU temperatures, properties 
 ## Projects and recipes
 
 Step-by-step tutorials and recipe cards for this chapter are in [Plastics Projects](31-plastics-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
+
+## Where the sources disagree
+
+| Topic | W says | Other source says |
+|---|---|---|
+| PCL softening temperature | Softens just below 100°C (W 120) | Softens around 140°F (H 163–167) |
 
 ## Key terms
 

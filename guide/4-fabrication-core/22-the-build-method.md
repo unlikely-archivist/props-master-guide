@@ -1,6 +1,6 @@
 # 22. The Build Method: Needs and Means
 
-> **Sources:** H ch.2 (pp. 11–24), ch.10 (pp. 182–191); M ch.8 (pp. 115–117)
+> **Sources:** H ch.2 (pp. 11–24), ch.10 (pp. 182–191); M ch.8 (pp. 115–117); W ch.1 (pp. 11–13)
 
 Hart's central idea is a **universal method for building any prop**, whether a chair, a curtain or a dead deer (H 12):
 
@@ -78,6 +78,17 @@ Hart also notes the effect of **"theatre props in a movie world"**: audiences, d
 > There is no "wrong" way to build a prop. Best practices exist because foam, wood, papier-mâché, plaster, resin, steel and leather reliably meet common needs. (H 20)
 
 ---
+
+## Deciding how to make it (W 11–13)
+
+Wilson's planning process complements Hart's needs and means. **Most props combine several materials and processes**: a mask modelled in clay, molded, cast in papier-mâché and decorated with paint, sequins, feathers or fur; a piece of furniture with joinery, modelled "carving," upholstery and paint; a chandelier of bent and welded steel, turned wood, resin castings and metal leaf. Each method was chosen from alternatives ("shall I bend flat steel into a hoop for the chandelier band, or use that bicycle wheel that's near enough the right size?") (W 11). His animated moose head combined carved polystyrene antlers covered in muslin and epoxy, a glass-reinforced epoxy head over a clay original finished with fake fur and flocking, cast clear polyester eyes lit by pea bulbs, mechanisms of wood, welded steel, wire, elastic and nylon cord, and polycaprolactone teeth and joints (W 12).
+- **Preconception is part of making.** The look, function and budget come from the director, designer and production manager; then the maker plans, with approval for large or important items. **Think through each step of several possible methods**: it reveals problems and shortcuts, gives time estimates, and is essential for costing. Where you don't know how a material will behave or how to get an effect, **test or make samples**, which also help designers choose colours and textures (W 11–12).
+- **Questions to ask** (W 12–13):
+  - *How was or is the real thing made?* You may find a prop equivalent (carved polystyrene for carved stone, cast GRP for cast iron), and the making method affects the look: hand-made or machine-made, and can you mimic it?
+  - *What's its visual essence?* Which elements are vital to it, and to the designer's idea of it, and which can be simplified or left out?
+  - *From what distance, and under what light, will the audience see it?* This governs finish, detail and how you present them. If unsure, make samples with different amounts of detail and look at them at a distance under different lighting; when you watch shows, notice what detail, and what flaws, you can actually see.
+  - *How have other makers solved it?* Many will happily talk methods.
+  - *How much risk can you afford?* Sometimes you can start without knowing how you'll finish; sometimes it's better to use a familiar material than a supposedly better unfamiliar one. Have you really got time to learn it now?
 
 ## The five ways to shape any material (H 21–22)
 

@@ -1,10 +1,12 @@
 # 23. Drawings, Measuring, Layout and Jigs
 
-> **Sources:** H ch.6 (pp. 78–99); M ch.5 (pp. 56–57), ch.11 (pp. 159–162)
+> **Sources:** H ch.6 (pp. 78–99); M ch.5 (pp. 56–57), ch.11 (pp. 159–162); W ch.1 (pp. 18–19), ch.2 (pp. 24–26), ch.3 (pp. 52–53)
 
 ## From reference to material
 
-Your starting point is a reference: a drafting, a sketch, a photo, a real object, or a verbal description. You then transfer it to material by measuring and marking (H 79). Reading designer drawings is covered in [ch. 6](../2-admin/06-script-breakdown-and-prop-list.md#reading-prop-drawings-h-7983). This chapter covers turning references into measurements and accurate parts.
+Your starting point is a reference: a drafting, a sketch, a photo, a real object, or a verbal description. You then transfer it to material by measuring and marking (H 79).
+
+**Working with drawings and references** (W 18–19): sometimes a designer supplies full scale drawings and photo references, but usually it's a two-way process: a drawing or model, questions from the maker, more drawings or references, samples from the maker, choices from the designer. Some builds start from a conversation alone. Either way, **have a drawing or reference of some kind**, whoever makes it: it's "a kind of contract, a statement of intent," saves unnecessary work, and gives a common starting point for discussing changes. It should usually fix an **agreed overall size**. Prop drawings may be **1:25** for very large pieces but are more often **1:10** or larger; "not to scale" sketches give an impression without dimensions. Extra references for details, finish or overall "feel" come from the designer, or from the maker for the designer's approval: it's hard to make something if you have no idea what it looks like. **Life-size drawings** of a plan, section or detail help during the build, on paper to measure and plan from, or drawn straight onto ply or hardboard so the work can be assembled on them. Precise drawings help most, but even rough sketches help planning and communication. Reading designer drawings is covered in [ch. 6](../2-admin/06-script-breakdown-and-prop-list.md#reading-prop-drawings-h-7983). This chapter covers turning references into measurements and accurate parts.
 
 ## Getting measurements from photos and objects (H 81–83)
 
@@ -41,9 +43,11 @@ Your starting point is a reference: a drafting, a sketch, a photo, a real object
 - **Volume for casting**: dunk the object in water and measure the displacement, or fill it with dry sand (H 85).
 - **Drilling depth**: use a stop collar or a **masking-tape flag** on the bit (H 85–86).
 
-## Marking (H 86–92)
+## Marking (H 86–92; W 24–26)
 
-- Mark with a **sharp pencil**, or a **marking knife** for line-width precision (circle knife marks in pencil so you can see them).
+- **Decide how accurate you need to be first.** A mechanism with moving parts may need precise measurement; other work can be set out by eye (W 24).
+- Mark with a **sharp pencil**, or a **marking knife** for line-width precision (circle knife marks in pencil so you can see them) (H 86–92). Wilson uses a hard **2H** pencil or a knife for fine work, and removes marks with medium sandpaper rather than an eraser (W 24).
+- **Metal:** a **scriber** (any hard steel point) scratches a precise bright line; on shiny stock, colour it with marker and scratch through. For rougher work, marker or correction pens work on any steel (W 52–53).
 - **Mark the waste side.** Saw blades have **kerf** (width). Cut on the waste side of the line or your 6" piece becomes 5⅞" (H 86).
 - **Squares**:
   - try square, combination square, framing square, speed square
@@ -52,8 +56,12 @@ Your starting point is a reference: a drafting, a sketch, a photo, a real object
   - clear plastic drafting tools for fabric and paper
 
   **Check a square** by drawing a line, flipping the tool and drawing again. A V between the lines means it's off (H 86–88).
-- **Check boxes for square by measuring the diagonals.** Equal diagonals mean square, so rack the box until they match (H 88).
-- **Circles**: a good compass, or **trammel points** on a stiff bar for big circles (string stretches). **Dividers** step off equal spaces (H 88–89).
+- **Check boxes for square by measuring the diagonals.** Equal diagonals mean square, so rack the box until they match (H 88; W 24). Or use a large home-made wooden square you know to be accurate (W 24).
+- **Bisect an angle** with parallel lines: draw a line parallel to each side of the angle, the same distance in; a line from the corner through where they cross bisects it. A sliding bevel then transfers the angle to a moulding (W 24–25).
+- **Parallel and offset lines:** a marking gauge, or a combination square with a pencil held at its end, scribes a line parallel to an edge. To mark an even offset in or out from a **curved** edge, roll a washer or a carefully cut card disc along it with the pencil in the middle (or run it along a strip of card held against the edge); Wilson's glossary calls such a guide a **spile** (W 25, 183).
+- **Circles**: a good compass, or **trammel points** on a stiff bar for big circles (string stretches). **Dividers** step off equal spaces (H 88–89). Two nails through a strip of wood also make a quick trammel (W 25).
+- **Ellipses** (W 25–26): two nails and a loop of string give a rough ellipse. For accuracy, use **three trammel heads** on a bar with a straightedge clamped to the board: one pin runs along the straightedge, one along the board's edge, and the pencil draws a quarter ellipse; cut it out and use it as a template.
+- **Splines** (W 26): long, shallow or irregular curves can be drawn along a slender strip of wood, metal or plastic bent through the points the curve must pass, which is quick, though it may take several pairs of hands.
 - **Geometry tricks** (H 89–92):
   - The diagonals of a rectangle cross at its center.
   - Compass arcs give perpendiculars, bisectors and angle bisections (useful for molding miters).
@@ -66,6 +74,7 @@ Your starting point is a reference: a drafting, a sketch, a photo, a real object
 - Trace directly through translucent materials.
 - **Pouncing**: perforate the drawing with a pounce wheel and dust chalk through the holes.
 - Temporarily adhere the drawing to the material with spray adhesive.
+- **Full-size drawings** are also the basis of jigs: a plywood former for bending steel is cut and checked against a full-size drawing of the curve (W 58).
 - **Enlarging**: photocopy or tile-print, or project and trace (keep the projector square-on to avoid keystone distortion; lines thicken as they enlarge), or use the **grid method**: grid the reference, draw a larger grid on the material and copy square by square.
 
 ## Cut lists (H 94–95)
@@ -108,7 +117,7 @@ Mussman gives a basic set of theatre drafting lines: center line, dimension line
 
 ## Key terms
 
-proportion · critical dimension · scale reference · lens distortion · architect's scale · burning an inch · waste side · kerf · sliding bevel · trammel points · dividers · pouncing · grid method · keystoning · cut list · mock-up · pattern/template · flush-trim bit · jig
+spile · spline · trammel · bisecting with parallels · life-size drawing · not to scale (NTS) · 1:10 / 1:25 · scriber · proportion · critical dimension · scale reference · lens distortion · architect's scale · burning an inch · waste side · kerf · sliding bevel · trammel points · dividers · pouncing · grid method · keystoning · cut list · mock-up · pattern/template · flush-trim bit · jig
 
 ## For the classroom
 

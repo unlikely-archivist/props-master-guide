@@ -1,6 +1,6 @@
 # 5. A History of Props and Prop Making
 
-> **Sources:** H ch.1 (p. 4); J (whole book, especially pp. 9–10); M ch.2 (pp. 15–17). Most of this chapter is **[General knowledge]**, written from widely available theatre history rather than the guide's sources. **Verify dates and attributions before publishing or teaching them as fact.**
+> **Sources:** H ch.1 (p. 4); J (whole book, especially pp. 9–10); M ch.2 (pp. 15–17); W ch.1 (p. 16). Most of this chapter is **[General knowledge]**, written from widely available theatre history rather than the guide's sources. **Verify dates and attributions before publishing or teaching them as fact.**
 > **Companion:** for the history of the *objects themselves* (when forks, matches, telephones or zippers came into use), see [ch. 7](../2-admin/07-research-and-period-accuracy.md) and the [Period Props Timeline](../../appendices/E-period-props-timeline.md).
 
 This chapter is about the history of the **craft and the department**: how people have made and managed stage objects over time. It gives context for why the job looks the way it does today.
@@ -27,11 +27,12 @@ The late 19th and early 20th centuries brought stage **realism**. Directors and 
 
 The Hollywood studio system of the 1920s to 1950s built huge **in-house prop departments** with warehouses of furniture, weapons and dressing, and specialist craftspeople. Much of that stock later passed to independent **prop rental houses**, which still supply film, television and theatre ([ch. 16](../3-sourcing/16-renting.md)). Unions organised the work. In the US, props work in film and theatre falls under the International Alliance of Theatrical Stage Employees (IATSE) and its locals, which is why job titles and who may handle props on set are often set by contract (H 6–7).
 
-## Materials change the craft [General knowledge]
+## Materials change the craft
 
 Prop making has always borrowed the newest cheap materials:
-- **Papier-mâché**, plaster and carved wood were the traditional staples ([ch. 36](../5-materials/36-shells-and-laminates.md)).
-- After the Second World War, **plastics, polyurethane and polystyrene foams, fiberglass and latex** transformed what could be made light, strong and fast ([ch. 31](../5-materials/31-plastics.md), [ch. 32](../5-materials/32-foams-and-rubbers.md)).
+- **Papier-mâché**, plaster and carved wood were the traditional staples ([ch. 36](../5-materials/36-shells-and-laminates.md)) [General knowledge]. Wilson, writing in 2003: a century earlier nearly everything was made from wood, canvas, felt, **size** and papier-mâché; since then thermosetting resins, polymer paints, and polystyrene and polyurethane foams have mostly outperformed them; small-scale electric welding brought **steel** into the structural toolkit; and **silicone rubber**, on the market from the 1960s, revolutionized mold making (W 16).
+- **Old materials survive because the problems haven't changed** (W 16): fast, strong frameworks can be wood, bamboo, steel or aluminium; compound curves can be thermoplastic "prepregs" or felt stiffened with size; big shells can be GRP or "the cliché of the props world," chicken wire and papier-mâché. Traditional materials are chosen for economy, availability or familiarity; modern ones because they're stronger, faster, better-looking or new. Most makers use a mix, and what matters is knowing each well: its possibilities and limits, safety, shelf life, where to buy it, "and how to get them off your clothes" (W 16).
+- [General knowledge] After the Second World War, **plastics, polyurethane and polystyrene foams, fiberglass and latex** transformed what could be made light, strong and fast ([ch. 31](../5-materials/31-plastics.md), [ch. 32](../5-materials/32-foams-and-rubbers.md)).
 - From the 1990s onward, **thermoplastic sheets** and cheap **EVA foam**, often pioneered by costume and cosplay makers, became standard ([ch. 33](../5-materials/33-eva-foam.md)).
 - From the 2010s, affordable **3D printers**, laser cutters and CNC machines entered prop shops and classrooms ([ch. 40](../5-materials/40-3d-printing.md)). Hart in 2013 still described desktop printing as an emerging technology (H 10, 58).
 

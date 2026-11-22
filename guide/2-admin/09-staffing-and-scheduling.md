@@ -1,6 +1,6 @@
 # 9. Staffing, Time and Scheduling
 
-> **Sources:** M ch.2 (pp. 19–20), ch.4 (pp. 40–45), ch.7 (pp. 104–107); H ch.2 (p. 20), ch.19 (pp. 364–366). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.2 (pp. 19–20), ch.4 (pp. 40–45), ch.7 (pp. 104–107); H ch.2 (p. 20), ch.19 (pp. 364–366); W ch.1 (pp. 11–14). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **[Check current]** Labour law, union rules on hours and overtime, and minimum crew requirements vary by place and contract.
 
 Money is only one resource. This chapter covers the other two: **time** and **people**. Budgets and paperwork are in [ch. 8](08-budgets-and-paperwork.md).
@@ -14,7 +14,8 @@ Money is only one resource. This chapter covers the other two: **time** and **pe
 - **Turnaround time**: the calendar time until the prop is ready. This adds shopping, shipping, setup, **drying and curing**, cleanup and delivery, and depends on how many hours a day anyone can work on it. An eight-hour job at two hours a day takes four days.
 
 ### Estimating better
-- **Keep a work journal** of how long tasks take. Hart discovered that putting casters on furniture (16 holes, 16 bolts) took 30–60 minutes he had never budgeted (H 364–365).
+- **Keep a work journal** of how long tasks take. Hart discovered that putting casters on furniture (16 holes, 16 bolts) took 30–60 minutes he had never budgeted (H 364–365). Wilson gives the same advice: everyone's time is precious, whether a freelancer's or an unpaid amateur's with a day job, so record how long things take, and note how much is **waiting time** (paint drying, glue setting) when you could be doing something else versus **active time**. Things take much longer while you're learning; new techniques or heavy experimentation need extra time (W 11).
+- **Cheap usually means slow:** as a general rule, the cheaper a process, the longer it seems to take, so cost and schedule are linked (W 13).
 - **Break big tasks into small ones you can estimate.** You may not know how long a dead goose takes to build, but you know how long it takes to glue on twelve feather pads (H 365).
 - Add a **time contingency** for the forgotten hammer or the dried-out can of paint (H 365).
 - Estimate at **your** speed, not a faster colleague's (H 366).
@@ -25,7 +26,9 @@ Work back from the hard dates:
 - The last coat needs three hours to dry before curtain.
 - The designer must deliver final drawings by a certain date if the prop is to be ready for first tech.
 
-Then tell people those dates.
+Then tell people those dates (H 365).
+
+Wilson's version (W 13–14): as you think through each step of making something, build a **mini-schedule per item** in hours or days per step, including shopping trips, drying times and appointments (such as a life-casting session with an actor). Mark each prop's **deadline** on a chart: some aren't needed until tech; others must be onstage when the lighting rig is focused or fixed to the set at the fit-up; interactive props may be needed in rehearsal long before the move to the stage. Then combine the schedules on the chart, working back from each deadline. It may be a shock to see how little time you have, but it shows how best to use it, and working back from deadlines shows **when you need decisions**, so you know when to press for them.
 
 ### Time-saving habits (M 106)
 - Batch your shopping and plan routes.
@@ -45,7 +48,7 @@ Build in materials you know, especially on a tight schedule. A strong carpenter 
 - Post a **master to-do list** of big and small projects. Artisans **write their names** on the tasks they take, so two people don't start the same job.
 - Keep quick filler tasks ("shorten the wand one inch") for the fifteen minutes before lunch.
 
-## Building the props calendar [General knowledge]
+## Building the props calendar [General knowledge, except where cited]
 
 Put every hard date on one calendar as soon as you're hired (M 40):
 1. **Fixed dates from the production calendar**: design meetings, first rehearsal, designer run, load-in, first tech, first dress, previews, opening, strike.

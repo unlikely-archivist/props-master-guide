@@ -1,6 +1,6 @@
 # 48. Flame, Smoke and Live Sound
 
-> **Sources:** M ch.2 (p. 34), ch.1 (pp. 9–10), ch.10 (pp. 150–151); H ch.1 (p. 7), ch.16 (p. 320). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.2 (p. 34), ch.1 (pp. 9–10), ch.10 (pp. 150–151); H ch.1 (p. 7), ch.16 (p. 320); W ch.4 (pp. 79–80). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **[Check current]** Fire codes, flame permits, pyrotechnic licensing and rules on haze and fog are set by local authorities and venues, and change. Your fire marshal has the final word.
 
 ## Live flame (M 150–151; M 10)
@@ -23,6 +23,10 @@ Some directors and sound designers prefer live sound. Props may supply:
 - offstage gunshot effects (see [ch. 43](../6-weapons/43-firearms.md))
 
 *[Pending: Effects Guidebook ch. 10, "Sound."]*
+
+## Props that hold real fire (W 79–80)
+
+**Fire cement**, the hearth and furnace repair paste, hardens when baked and then resists heat up to about 1,250°C, so a prop modelled in it can **contain a real fire or survive being placed in one**: Wilson's bull, modelled over a shell of scrumpled aluminium foil, was unaffected by a real fire. Build in thin layers over expanded metal or foil, baking each (about 30 min per cm at about 100°C, then 30–60 min at 250°C or hotter in a kiln), and test pigments, since some change colour when heated. Method in [ch. 37](../5-materials/37-sculpting.md#materials). Any live flame onstage still needs the approvals and controls above.
 
 ## Flame-effect alternatives [General knowledge]
 

@@ -1,6 +1,6 @@
 # 35. Leather
 
-> **Sources:** H ch.11 (pp. 218–220), ch.15 (p. 293). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** H ch.11 (pp. 218–220), ch.15 (p. 293); W ch.8 (pp. 147–148), ch.9 (p. 173). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **Companion:** [Leather Projects](35-leather-projects.md): a saddle-stitched pouch, a wet-moulded bracer or mask, a tooled panel.
 > **[Check current]** Leather dyes, finishes and adhesives are reformulated often; check the SDS, especially for solvent-based dyes and cements.
 
@@ -34,7 +34,7 @@ Soak vegetable-tanned leather (15 minutes to 12 hours), drape it over a positive
 - **Finishes** (acrylic resolenes, waxes, oils) seal and protect. Use a flexible finish on anything that bends.
 
 - **Hardware**: rivets, snaps, buckles, D-rings and grommets need the right setters. Buy setters that match the hardware size.
-- **Faking leather.** For stage, painted fabric, vinyl, EVA foam with a pressed texture ([ch. 33](33-eva-foam.md)) or even paper can read as leather at a distance and cost far less.
+- **Faking leather.** For stage, painted fabric, vinyl, EVA foam with a pressed texture ([ch. 33](33-eva-foam.md)) or even paper can read as leather at a distance and cost far less [General knowledge]. Wilson's **faux hide upholstery**: calico stretched tightly over firm foam, primed with flexible PVA or acrylic medium mixed with a dark base colour, then lighter colours, also rich in PVA or acrylic, worked in locally for wear, fading and grain, and a clear top coat (W 147–148). Distress faux-leather luggage with a palm sander (W 173).
 
 ## Projects and recipes
 

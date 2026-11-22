@@ -1,6 +1,6 @@
 # 6. Script Breakdown, Design Documents and the Prop List
 
-> **Sources:** M ch.7 (pp. 92–108); H ch.2 (pp. 12–17), ch.6 (pp. 79–83)
+> **Sources:** M ch.7 (pp. 92–108); H ch.2 (pp. 12–17), ch.6 (pp. 79–83); W ch.1 (pp. 9, 18–19), glossary (p. 181)
 
 Mussman divides propping into two halves: **preliminary preparation** (script, designs, meetings, feasibility) and the **physical work** of getting props (M 92). The prep work is what keeps the physical work sane.
 
@@ -84,6 +84,8 @@ Final designs usually arrive **six to eight weeks before opening** (M 96). Get t
 - Columns: page · prop · character · notes (description, period, function, source, status).
 
 Use a spreadsheet. A template is in [Appendix B](../../appendices/B-paperwork-templates.md#1-prop-list).
+
+**An initial list from the design.** Wilson reproduces a first props list for a studio show whose set was a wall of wardrobes and chests of drawers: each numbered piece is marked "SM to buy" or "prop make," with notes on function (entrances through the back of a wardrobe; a mirrored wardrobe that tips down into a movable bed; drawers spilling clothes that serve as treads up to a platform; practical wicker skips that may hide an actor), plus open questions for the pre-production meeting (floor treatment, dressing not clear from the model), and production facts (no firearms, a possible 1940s feel, props from any period, possible cross-casting). It also records the meeting, costings and production-meeting dates (W 9). Some scripts contain a props list that stage managers extract before rehearsals (W 181).
 
 ### It's a living document
 Mussman calls the first version the **preliminary prop list** and considers the list "final" only on opening night (M 100). Merge in the director's list (usually heavy on hand props) and the designer's list (usually heavy on set props and dressing). Update it after every meeting and every rehearsal report.

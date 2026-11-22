@@ -4,7 +4,7 @@
 
 ## Rehearsal props
 
-A **rehearsal prop** stands in for the performance prop. It must closely match the real thing **in size and function**, and ideally in weight, but it can be pulled from stock, found, or quickly built (M 120; H 2).
+A **rehearsal prop** stands in for the performance prop. It must closely match the real thing **in size and function**, and ideally in weight, but it can be pulled from stock, found, or quickly built (M 120; H 2). A rehearsal stand-in for furniture may itself be a build, so its dimensions match the real item (W 181). Interactive props may be needed in rehearsal long before the production moves onto the stage, so schedule them first (W 13).
 
 **Priorities** (M 121):
 1. Props that matter to the action: hand props and set props.
@@ -138,6 +138,8 @@ Once the show opens, notes come only through the SM's **performance reports**, u
 - Decide **what gets locked up** each night: the whole auditorium, everything not attached, or only valuables and **weapons**. The prop master should help make that decision.
 
 **Running maintenance.** From tech onward, finished props are largely **stage management's responsibility**. Ongoing tasks include food preparation, effect resets, minor repairs and replenishing consumables (M 138).
+
+**When furniture breaks in the run** (W 36): if a sound piece broke because of how it's used onstage (a fight, a dance), it will break again however well it's mended, and there will be pressure to get it back fast. Treat it as a **reinforcement** job based on what the staging does to it, not just a repair, because performer safety is at stake. Temporary splints and brackets only stop damage spreading. Methods in [ch. 29](../5-materials/29-wood.md#mending-and-reinforcing-furniture-w-3436).
 
 ## Co-productions (M 138–139)
 

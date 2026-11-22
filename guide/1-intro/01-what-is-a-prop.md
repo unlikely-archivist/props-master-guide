@@ -1,6 +1,6 @@
 # 1. What Is a Prop?
 
-> **Sources:** M ch.1 (pp. 5–14); H ch.1 (pp. 1–10)
+> **Sources:** M ch.1 (pp. 5–14); H ch.1 (pp. 1–10); W ch.1 (pp. 7–11), glossary (pp. 174–184)
 > **Citation key:** see [README](../../README.md#citation-key). Page numbers for H refer to the 2013 first edition.
 
 A working definition: **a prop is any physical object in a performance that is not the actor, the costume, or the scenery** (H 2). In practice the boundaries are blurry. A sword can be a prop or part of a costume. A built-in bench can be scenery or a set prop. That blurriness is the reason the categories exist: they are a shared vocabulary that lets departments assign responsibility for every item and set priorities (M 5–6).
@@ -21,6 +21,10 @@ Props are not decoration for its own sake. According to Mussman (M 12–13), pro
 
 A single prop can touch many departments. Mussman's example is a table lamp: it must suit the period, be short enough that an actor behind it can be seen, match the sofa, be wired to the light board, put out enough light for the lighting designer, and not clash with the lead's costume (M 13).
 
+**What makes a "good" prop?** Wilson judges it from every viewpoint (W 11): the **director and designer** (why did they want it, and does it look and work as intended?), the **production manager** (on time and on budget?), the **cast and stage management** (is it safe, the right weight, robust or constantly needing repair?), and the **audience** (does it look right, and does it blend in or draw attention?). Most props aren't meant to draw attention: "like film music, they work best when we do not consciously notice them." All four apply equally to a steam engine or a doorstop.
+
+**Who makes props?** Stage management, workshop staff and designers as well as prop makers in professional theatre, enthusiastic part-timers in amateur companies, and art or craft students in schools, all short of time and money, and all relying on the materials and techniques they know. Just as "scenery" long ago outgrew flats and backcloths, "props" still include thrones, spears and scrolls, but the contemporary stage may demand any imaginable object (W 7). Prop makers also work on large scenic elements (applying 3D detail or texture) and on small items such as spectacles and costume jewellery (W 8). **There's no single correct way to make any prop**, only ways that are right in a given context of budget, equipment, skill and production values (W 7).
+
 ---
 
 ## The core categories
@@ -32,7 +36,7 @@ Mussman organizes theatre props into three main categories with hand-prop subcat
 | **Hand prop** (Broadway/film: *action prop*) | Handled, carried or used by an actor; small to medium; not fixed to the set | Highest priority. Preset on prop tables or onstage (M 6–7; H 2) |
 | **Set prop** | Objects on the set, mostly furniture, plus rugs and items on floors, walls and ceilings | Defines location, period and status. Distinguish from **set pieces**, which are scenic elements built and attached by the scene shop (M 10–11; H 4) |
 | **Trim prop** | Set props hung on walls: curtains, blinds, pictures | (H 4) |
-| **Set dressing** | Items that create place and atmosphere but are not handled by actors | Usually lowest priority. In **theatre** the props department handles it; in **film/TV** the *set decoration* department does (M 11; H 4) |
+| **Set dressing** | Items that create place and atmosphere but are not handled by actors | Usually lowest priority. In **theatre** the props department handles it; in **film/TV** the *set decoration* department does (M 11; H 4). Wilson's glossary: "dressing" is the stuff spread round a setting to add detail once it's fitted up (W 176) |
 
 ### Hand-prop subcategories and overlapping types
 
@@ -48,6 +52,8 @@ Mussman organizes theatre props into three main categories with hand-prop subcat
 | **Breakaway** | Breaks on cue. Either rigged to reassemble (chairs, swords) or single-use and safe when broken (sugar-glass bottle) | Single-use breakaways are also consumables. Coordinate with the fight director or stunt department (H 3–4) |
 | **Rehearsal prop vs. "actuals"** | Stand-in used in rehearsal vs. the performance prop | Should match size and weight; sometimes becomes the actual (H 2; M 120–121) |
 
+
+Wilson's glossary adds or confirms several working terms: a **hand prop** is carried on by a character and usually kept by the performer during the show; a **costume prop** is attached to or worn as part of a costume; a **running prop** is consumed in the action (a cigar, a breakaway) or perishable and must be replaced; a **rehearsal prop** is a stand-in (furniture stand-ins may themselves be builds, so dimensions match the real item); a **practical** prop really works (a practical gun goes bang, a practical tap runs water); and **softs** are textile props such as cushions and banners (W 176, 178, 180–182).
 ### Film and television vocabulary (H 2–3)
 
 - **Hero prop**: built for close-ups, in full detail.

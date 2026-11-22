@@ -1,6 +1,6 @@
 # 8. Budgets and Paperwork
 
-> **Sources:** M ch.4 (pp. 39–40), ch.6 (pp. 83–91), ch.7 (pp. 104–108), ch.9 (p. 127); H ch.2 (pp. 18–21), ch.19 (pp. 361–366)
+> **Sources:** M ch.4 (pp. 39–40), ch.6 (pp. 83–91), ch.7 (pp. 104–108), ch.9 (p. 127); H ch.2 (pp. 18–21), ch.19 (pp. 361–366); W ch.1 (pp. 11–14), ch.3 (p. 51)
 > **[Check current]** Prices, tax rules, the federal mileage rate and purchasing procedures change often and vary by institution. Use your institution's current figures and forms.
 
 Two resources shape every props plan: **money and time**. Hart adds a third, **expertise** (H 362). Before you spend anything, find out whether the show is feasible with what you have. This chapter covers money and paperwork; time, scheduling and staffing are in [ch. 9](09-staffing-and-scheduling.md).
@@ -31,7 +31,16 @@ Hart's estimating rules (H 363–364):
 - Keep a typical-price list for materials whose prices fluctuate, such as lumber and steel.
 - Use records of past builds to estimate repeat items.
 - Budget **prototypes separately from copies**. The first one costs more because you are working out the method and building patterns and jigs.
-- Budgets are often fixed before designs are, so you may have to **budget in reverse**: set a ceiling and find a method that fits under it.
+- Budgets are often fixed before designs are, so you may have to **budget in reverse**: set a ceiling and find a method that fits under it (H 363–364).
+
+Wilson's costing method (W 13–14) agrees and adds detail:
+- **Why cost:** to be sure the work fits the budget, to compare methods, and, if the whole show comes in over budget, to let production management and the creative team make informed cuts. Costing is often done by managers in large companies and by the makers themselves in small ones (W 11, 13).
+- **You can't cost what you don't know how to make.** What's costed is a particular method; with only a rough idea, you can at least estimate (W 12–13).
+- **Think through the method and list every material**, including secondary items such as brushes and disposable gloves unless they're already covered. Work out quantities against the units things are sold in, which may take maths or a drawing ("exactly how many cut-out penguins can I get from each sheet of plywood?") (W 13).
+- **Shared materials:** across a long list, props may share stock, which cuts quantities, but cutting one prop may change the shopping list for another (W 13).
+- **Price every line**, not forgetting delivery. Estimate what isn't decided yet (an unchosen upholstery fabric, a second-hand birdcage to adapt), and represent sundries such as screws and paint with a general figure at the end (W 13). Wilson's sample costing for an opera double bill itemizes timber by the metre, sheet goods by the sheet, mouldings by catalogue number, castors, knobs and clips by the piece, then lumps "fixings, filler, paint and glaze" and marks some items "ex stock" or "estimate" (W 14).
+- **Missing decisions** mean gaps you fill with estimates (W 13).
+- **Steel**: phone for quotes, and keep a record of prices paid by section to budget, design economically and shop around (W 51).
 
 ### If the numbers don't work (M 105–107)
 1. Revisit the plan. Could you borrow instead of buying, or buy instead of building (or the reverse)?
