@@ -1,6 +1,6 @@
 # 16. Renting
 
-> **Sources:** M ch.4 (pp. 39–40), ch.6 (pp. 90–91), ch.8 (pp. 113–115). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Sources:** M ch.4 (pp. 39–40), ch.6 (pp. 90–91), ch.8 (pp. 113–115); W ch.1 (p. 8). Sections marked **[General knowledge]** aren't from the guide's sources.
 > **[Check current]** Rental rates, insurance requirements and contract terms vary by rental house and change. Have your institution approve any contract.
 
 Renting gets you items you couldn't afford to buy or build, especially period furniture and set dressing. It also brings a contract, a deadline and full liability for damage.
