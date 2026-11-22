@@ -2,9 +2,9 @@
 
 A consolidated, topic-organized guide to **theatrical properties (props)** — managing a props department and building props — written for teaching at the university level and as groundwork for a possible textbook.
 
-It brings seven books together in one structure, with page citations so every point can be traced to its source. It's organized as a master reference for the whole job, from what a prop is through admin, sourcing, every fabrication material, weapons, effects and careers. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, project tutorials, and flags on information that may be out of date. Where the sources are silent, chapters fill gaps from general knowledge, clearly marked.
+It brings eight books together in one structure, with page citations so every point can be traced to its source. It's organized as a master reference for the whole job, from what a prop is through admin, sourcing, every fabrication material, weapons, effects and careers. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, project tutorials, and flags on information that may be out of date. Where the sources are silent, chapters fill gaps from general knowledge, clearly marked.
 
-> **Status:** All 53 chapters drafted. Some chapters (film vs. TV, history, weapons, set dressing, greens, careers) rely mainly on general knowledge until a source is added, and the effects chapters await Hart's *Prop Effects Guidebook*. See [STATUS.md](STATUS.md).
+> **Status:** All 53 chapters drafted. Wilson's *Making Stage Props* (2003) has been folded into the fabrication chapters, adding woodturning, furniture repair and raked stages, cold-bending and MIG welding, modelling, life casting, white metal and clear casting, polystyrene, upholstery and gilding. Some chapters (film vs. TV, history, weapons, set dressing, greens, careers) still rely mainly on general knowledge, and the effects chapters await Hart's *Prop Effects Guidebook*. See [STATUS.md](STATUS.md).
 
 ---
 
@@ -83,7 +83,7 @@ The guide reads front to back as a course, and works as a reference: look up a m
 
 ### Appendices
 - A. [Glossary](appendices/A-glossary.md)
-- B. [Paperwork Templates](appendices/B-paperwork-templates.md) — prop list, cost breakdown, to-do list, ledger, loan-agreement checklist, check-out form, rehearsal-note log, preset sheet, prop bible checklist, strike checklist, tool kit, effect safety plan, handoff inspection
+- B. [Paperwork Templates](appendices/B-paperwork-templates.md) — prop list, cost breakdown, to-do list, ledger, loan-agreement checklist, check-out form, rehearsal-note log, preset sheet, prop bible checklist, strike checklist, tool kit, effect safety plan, handoff inspection, process risk assessment
 - C. [Sources, Editions, and What to Verify](appendices/C-sources-and-editions.md)
 - D. [Concordance (Topic → Source Pages)](appendices/D-concordance.md)
 - E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
@@ -104,8 +104,9 @@ Every chapter follows the same pattern: a sources line, the content, a **Key ter
 | **FF** | Karestin Harrison and Tamara L. Honesty, *The Fake Food Cookbook: Props You Can't Eat for Theatre, Film, and TV*. Routledge/Focal Press, **2018 (1st ed.)**. | 1st (only) edition. A separate sequel, *Volume 2: Prop Foods You Can Eat* (2025), is not yet incorporated |
 | **KF** | Svetlana Quindt (Kamui Cosplay), *The Book of Foam Props: Lightweight & Affordable*. Self-published (Kamui Cosplay, Germany), **2019**. | First release, 2019. A 48-page cosplay how-to; no later edition found. No ISBN found |
 | **B** | Robert C. Berls, *Teaching Practical Theatrical 3D Printing: Creating Props for Production*. Routledge/Focal Press, **2024 (1st ed.)**. | 1st (only) edition. Written for instructors; software and printer details date quickly |
+| **W** | Andy Wilson, *Making Stage Props: A Practical Guide*. The Crowood Press, **2003 (1st ed.)**. | 1st (only) edition, still in print. British and metric; its regulations, standards and suppliers are UK and dated |
 
-Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92; "(FF 157)" = Harrison & Honesty p. 157; "(KF 21)" = Quindt, *Book of Foam Props*, p. 21; "(B 9)" = Berls, *Teaching Practical Theatrical 3D Printing*, p. 9.
+Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92; "(FF 157)" = Harrison & Honesty p. 157; "(KF 21)" = Quindt, *Book of Foam Props*, p. 21; "(B 9)" = Berls, *Teaching Practical Theatrical 3D Printing*, p. 9; "(W 37)" = Wilson, *Making Stage Props*, p. 37.
 
 **Markers used in the text**
 - **[Check current]** — information that changes (regulations, product names, prices, technology, law). See the [volatile-information register](appendices/C-sources-and-editions.md#volatile-information-register).
@@ -118,6 +119,7 @@ Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 
 ## Using this for teaching
 
 - **Course spine:** Parts 1–2 suit an introductory props or production-management unit, with Part 3 for sourcing. Parts 4–5 map onto a studio or shop course; [ch. 40](guide/5-materials/40-3d-printing.md) and its [projects](guide/5-materials/40-3d-printing-projects.md) give a ready-made sequence of graded 3D-printing projects. [Ch. 7](guide/2-admin/07-research-and-period-accuracy.md) and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 6](guide/2-admin/06-script-breakdown-and-prop-list.md)). [Ch. 14](guide/2-admin/14-rules-to-live-by.md) works as a first-week handout. The classroom prompts run roughly from discussion to hands-on.
+- **Medium-by-medium courses:** Wilson's book is organized by material (wood, steel, modelling, molds, casting, polystyrene, upholstery, paint), so its projects across chs. 27–38 suit a studio course that teaches each medium and lets students choose what they make in it.
 - **Safety first:** Make [ch. 20](guide/4-fabrication-core/20-health-and-safety.md) and machine checkouts a prerequisite for shop work, and align them with your institution's Environmental Health & Safety (EHS) office.
 - **Project-based learning:** Hart recommends learning each craft by making a small, complete object (a birdhouse for woodworking, a soap carving for sculpting, a pillowcase for sewing, a recovered drop seat for upholstery, a plaster press-mold for casting, papier-mâché before fiberglass) rather than drilling isolated techniques (H 9). Many classroom prompts follow that model.
 - **Assigning the books:** If students buy Hart, assign the current editions; the chapter topics here line up with Hart's chapter titles even where page numbers don't.
