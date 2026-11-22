@@ -43,7 +43,8 @@ A checklist version is in [Appendix B](../../appendices/B-paperwork-templates.md
 
 ## Working with rental houses [General knowledge]
 
-- **Rental rates** are usually a percentage of the item's value per week, often with a minimum. Long runs can make buying cheaper; do the sum (M 114).
+- **Rental rates** are usually a percentage of the item's value per week, often with a minimum. Long runs can make buying cheaper; do the sum (M 114). On a long run or tour, Wilson notes, hire charges can exceed the cost of making the prop (W 8).
+- **Hire firms won't let you wreck their stock.** They keep furniture in good condition and won't appreciate you ripping out the stuffing to make it look battered, so a "once grand, now ruined" piece may have to be bought or built (W 8).
 - **Ask about theatre rates.** Rental houses that mainly serve film and TV sometimes offer lower rates for theatres and schools, or for long runs.
 - **Insurance.** Many rental houses require a certificate of insurance naming them as additionally insured, or a damage waiver fee. Check with your institution's business office early, because certificates can take days.
 - **Pull day.** Go with the designer if possible, photos and measurements in hand. Tag what you want, and check each item over before it's written up.
