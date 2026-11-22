@@ -38,6 +38,8 @@ Texture can come from three places:
 2. **Added**: glue on fabric or leather (damask under paint reads as embossed metal), or apply texture compounds.
 3. **Removed**: carve weathered-wood grain lines, or let spray-paint solvents eat unsealed foam into "rock" (ventilate and wear a respirator) (H 311).
 
+KF carves, burns and presses textures directly into EVA foam: wood grain, scales, foil-pressed leather, hammered metal (KF 24–25; [ch. 29](29-eva-foam-props.md#textures-kf-2425-39-4344)).
+
 **Plasterer's tools for wet coatings** (H 312):
 - **Roping**: drag a loop of hemp rope through the wet coating for a "painted many times" look.
 - **Combs** for weathered wood.
@@ -75,6 +77,8 @@ First, ask what the coating is for: paintability, protection from spray-paint so
 Polyester resin eats foam; epoxy and polyurethane don't. Use laminating versions of resin for thin coats (H 317).
 
 FF primes handled food props with FoamCoat, FlexCoat, CrystalGel or Sculpt or Coat. Paint applied straight to foam dries brittle and flakes (FF 15). See [ch. 28](28-fake-food.md#coatings-and-gels-ff-1315).
+
+For **EVA foam**, KF heat-seals the surface, fills seams with Kwikseal or foam clay, then primes with brush-on Flexbond (which smooths) and/or spray-on PlastiDip (which doesn't) (KF 23, 28–29). See [ch. 29](29-eva-foam-props.md#filling-and-priming-kf-2829-36-40-47).
 
 ## Distressing and aging (H 317–319; M 158–159)
 

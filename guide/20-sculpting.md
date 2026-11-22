@@ -68,6 +68,8 @@ Hot-wiring or hot-knifing polystyrene releases **styrene** and related vapors �
 
 For food: Model Magic, Creative Paperclay, salt dough (baker's clay) and moldable thermoplastic pellets as fake produce, fish, crusts and butter, see [ch. 28](28-fake-food.md#modeling-compounds-ff-8-12-43-149) (FF).
 
+**Foam clay** (EVA mixed with air-dry clay) sculpts horns, spikes, skulls and details onto EVA props and fills seams. It expands slightly as it dries unless heat-set straight after sculpting (KF 27; [ch. 29](29-eva-foam-props.md#foam-clay-kf-6-27-28-39-47)).
+
 ## Key terms
 
 carving · modeling · maquette · master · profile template · slice method · armature · armature wire · oil clay · sulfur-free · polymer clay · baker's clay · PCL · carving wax · XPS / EPS · green glue · hot wire · surform · flap wheel · oscillating multi-tool · rotary tool · spray foam · isocyanate

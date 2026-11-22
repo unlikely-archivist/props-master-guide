@@ -4,6 +4,8 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 
 **FF** = Harrison & Honesty, *The Fake Food Cookbook* (2018), book pages. See the [FF table](#harrison--honesty-ff-by-subject) below.
 
+**KF** = Quindt, *The Book of Foam Props* (2019), book pages. See the [KF table](#quindt-kf-by-subject) below.
+
 ## By guide chapter
 
 | Guide chapter | Mussman (M) | Hart PBG (H, 1st ed.) | Hart PEG (HE) |
@@ -40,6 +42,8 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | App. E Period timeline | — | — | — (J: pp. 13–206) |
 | 28. Fake food | pp. 7–8, 156–157 | pp. 6, 181, 250–251 | — (FF: whole book, esp. pp. 3–22) |
 | App. F Fake food recipe cards | — | — | — (FF: pp. 26–222) |
+| 29. EVA foam props | — | pp. 53–55, 163–167, 172, 179–181, 236–237 | — (KF: whole book, pp. 2–47) |
+| App. G EVA foam build walkthroughs | — | — | — (KF: pp. 10–13, 15, 19–23, 25, 30, 32–47) |
 
 ## By topic (quick lookup)
 
@@ -157,3 +161,27 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | Icing, whipped cream, piping | 74, 194–200, 205–217 | 28 |
 | Edible inset in a fake cake | 194–200 | 26, 28 |
 | Companion website, resources, bibliography | 223–226 | App. C |
+
+## Quindt (KF) by subject
+
+| Subject | KF pages | Related guide chapters |
+|---|---|---|
+| Purpose; props vs. armor; why EVA foam | 2, 4 | 29, 16 |
+| Convention and competition weapon rules | 5 | 29, 26 |
+| Materials: EVA densities and thicknesses, foam clay, dowels, cores, contact cement, fillers, primers, paint | 6–7 | 29, 13, 16, 23, 24 |
+| Tools: rotary tool, knives, foam cutters, marking, heat gun, soldering iron, hot glue | 8–9 | 29, 9 |
+| Safety: sanding dust, PPE, vacuum extraction | 9, 22 | 29, 10 |
+| Blueprints: reference gathering, vector tracing, side views, perspective distortion, tiled printing | 10–12 | 29, 12, 4 |
+| Choosing size: paper dummies, mirror and photo tests | 13, 38 | 29, 12, 11 |
+| Cutting, blade sharpening, sanding bevels, contact-cement gluing | 14–15 | 29, 9, 13 |
+| PVC pipe: heat bending, wrapping in foam | 16–17 | 29, 16, 17 |
+| Magnet joints and other ways to split props | 18–19 | 29, 11, 13 |
+| Blade cores and laminated blades | 20–21, 46 | 29, 17 |
+| Textures: wood grain, burned scales, foil leather, hammered metal, layered scales | 24–25, 43–44 | 29, 23 |
+| Foam clay | 27, 39, 47 | 29, 20, 21 |
+| Heat sealing | 9, 23, 35 | 29, 23 |
+| Filling (Kwikseal, foam clay) and priming (Flexbond, PlastiDip) | 28–29 | 29, 23, 24 |
+| Painting and sealing: flexible paints, airbrush and masking, oil wipe-back, varnish | 7, 30, 36, 40 | 29, 24 |
+| Locking curves by laminating; building curve into a seam | 32–33, 43 | 29, 19 |
+| Hollow scabbards | 46 | 29 |
+| Worked builds: sword, shield, claws, spear, short swords | 20–23, 30, 32–36, 38–40, 42–44, 46–47 | App. G |

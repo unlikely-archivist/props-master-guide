@@ -92,6 +92,8 @@ Hobby, model and craft stores carry small thin sheets. Home centers carry some a
 - **Thick sharp bends**: cut a V-groove ¾ of the way through on the inside, bend, then seal it with water-thin cement (H 173).
 - **Hold the shape while it cools** with jigs, formers and clamps, because the plastic springs back. Cover formers with cardstock, since hot plastic picks up texture. Drape over a pipe for a simple radius. **Press forming** uses matched male and female forms (H 173–174).
 
+KF heat-bends **PVC pipe** for curved grips, bows and staffs with a heat gun, keeping it moving and filling the pipe with sand for tight bends (KF 16). See [ch. 29](29-eva-foam-props.md#heat-bending-pvc-pipe-kf-16), and its source-disagreement table on fume protection.
+
 ## Vacuum forming (H 174–175)
 
 Heated sheet is pulled over a **buck** (positive "drape" forming) or into a female mold. The vacuum sucks it tight until it cools. Results are **one-sided, with no undercuts**.
@@ -128,13 +130,15 @@ Heated sheet is pulled over a **buck** (positive "drape" forming) or into a fema
 | **Neoprene, nitrile** | Casting (neoprene); chemical gloves |
 | **EPDM** (pond liner, roofing rubber) | Durable elastic parts, padding |
 | **Polyethylene foam**: Ethafoam backer rod, pool noodles, yoga mats | **Halved backer rod makes curved molding.** Thermoformable |
-| **EVA foam** ("craft foam", floor mats) | **Lightweight armor, masks, character heads.** Heat-formable. **Hot glue bonds it** (the same polymer). Pattern it like paper, beveling convex joints ([ch. 19](19-patterning.md)) |
+| **EVA foam** ("craft foam", floor mats) | **Lightweight armor, masks, character heads.** Heat-formable. **Hot glue bonds it** (the same polymer). Pattern it like paper, beveling convex joints ([ch. 19](19-patterning.md)). KF uses contact cement as its main EVA adhesive instead (KF 15; [ch. 29](29-eva-foam-props.md#where-the-sources-disagree)) |
 | **Soft polyurethane foam** ("polyfoam") | Upholstery, puppets |
 | **Rigid polyurethane foam** | Fine-detail carving. More toxic. Taxidermy suppliers stock it |
 
 **Cutting foam**: band saw for dense foam; a **knife-edged blade** for soft foam (coarse teeth can grab and drag soft foam into the blade); a foam cutter; or a fully extended snap knife with a drop of sewing-machine oil on the blade (H 181).
 
 For food props made from XPS, upholstery foam, backer rod and expanding urethane foam (FlexFoam-iT!), see [ch. 28](28-fake-food.md) (FF).
+
+For building whole props from EVA foam (densities and thicknesses, PVC and rod cores, carving, textures, foam clay, heat sealing and flexible primers), see [ch. 29](29-eva-foam-props.md) (KF).
 
 ## 3D printing note [check current]
 

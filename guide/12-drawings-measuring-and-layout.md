@@ -24,6 +24,7 @@ Your starting point is a reference: a drafting, a sketch, a photo, a real object
   - Include a **scale reference** (a ruler, your hand, a coin).
 - **Lens distortion.** Phone and consumer cameras shoot wide-angle, which exaggerates depth. Step back and zoom in, or use a "normal" lens. Shoot square-on to avoid converging lines (H 82).
 - **Draw it yourself.** Your own drawings resolve the measurements and expose impossibilities before you commit materials (H 83).
+- **Blueprints from screen references.** KF traces game screenshots, 3D models and action figures into a clean front and side view in vector software, redraws any perspective-distorted parts true, and prints the result tiled at full size (KF 10–12). See [ch. 29](29-eva-foam-props.md#from-reference-to-blueprint-kf-1013).
 
 ## Measuring tools and accuracy (H 83–86; M 56–57)
 
@@ -84,6 +85,7 @@ Lay the parts out on a 4'×8' sheet to maximize usable offcuts, and **label your
 ## Mock-ups and patterns (H 95–97)
 
 - **Mock-ups** in cardboard or scrap test scale, balance and feel, especially before committing expensive materials. A cardboard saddle mock-up is one example. See [ch. 7](07-rehearsals-tech-and-performance.md) for rehearsal use.
+- **Paper dummies for scale.** KF prints the blueprint at several sizes and holds each one in front of a mirror, or tapes it to the arm and photographs it, before choosing a size. The right size depends on the holder's height and on how the prop will travel (KF 13, 38; [ch. 29](29-eva-foam-props.md#choosing-the-size-kf-13-38)).
 - **Patterns** record full-size shapes: a paper chair-leg template traced several times, or a cardstock armor pattern before cutting steel. A **flush-trim router bit** can copy a template exactly.
 - **CAD and 3D software** let you mock up virtually, show the designer your intent, solve angles and hypotenuses, print templates, and drive CNC or laser machines. They don't replace knowing materials (H 97).
 

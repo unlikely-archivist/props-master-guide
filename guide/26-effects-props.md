@@ -41,6 +41,7 @@ What the sources establish:
 - **Lock up all weapons, real or not**, every night (M 148–149; see also [ch. 7](07-rehearsals-tech-and-performance.md#performances-m-137138)).
 - Coordinate weapons, breakaways and fights with the **fight director**, or the **stunt department** in film (H 4).
 - For period names and dates of armor, polearms, swords and firing mechanisms (matchlock, wheel lock, flintlock), see [Appendix E §11](../appendices/E-period-props-timeline.md#11-arms-and-armor) and [ch. 27](27-period-research.md#arms-armor-and-authority-vocabulary-first). Accuracy never overrides the safety rules above.
+- **Lightweight foam weapons.** KF builds large swords, shields, claws and spears from EVA foam over rod or PVC cores, and summarises convention weapon checks (no functional weapons or projectiles, some events ban hard materials or limit size) (KF 5). **[Added best practice]** A foam skin doesn't make a rigid core safe for contact; see [ch. 29](29-eva-foam-props.md#adapting-kfs-methods-for-a-production-shop).
 
 ## Breakaways (H 3–4; H 77, 190–191, 274–275)
 

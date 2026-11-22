@@ -30,6 +30,7 @@ How does it **sound**? Coins dropping on a metal plate can't be faked with paint
 - **Weight**: lighter is usually better, but add weight outdoors so it won't blow away, or for realism, such as a "packed" suitcase (H 14).
 - **Balance**: combat weapons are weighted toward the hand; tall items are weighted low (H 15).
 - **Offstage path**: it must fit through the smallest door, elevator or car trunk between shop and stage, so design it to knock down if needed. Consider backstage storage and how much the crew can lift (H 15).
+  - KF splits long foam props for travel with nested PVC pipes held by embedded magnets, and lists other knock-down options (KF 18–19; [ch. 29](29-eva-foam-props.md#making-props-come-apart-kf-1819-42)).
 
 ### Medium-specific needs (H 15–16)
 

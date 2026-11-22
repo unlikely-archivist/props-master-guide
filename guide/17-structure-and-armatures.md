@@ -39,6 +39,8 @@ Design so the **cheap, replaceable part fails first**: a bolt rated below the le
 ### Rigid vs. flexible (H 190–191)
 Rigid materials either hold or shatter. Flexible ones absorb impact and spring back, which is why papier-mâché can outlast fiberglass in a prop that gets hit. **Add give**, and **cushion** strike points. Film stunt weapons are often single castings of foam rubber: in effect, a weapon-shaped cushion.
 
+KF puts a rod or pipe **core** inside nearly every foam prop and matches its stiffness to the prop's length. A thin aluminium rod was fine in short swords but wobbled in a 100 cm sword (KF 7, 21, 46; [ch. 29](29-eva-foam-props.md#cores-and-pvc-pipe-kf-7-1617-21-46)).
+
 ### "Tech it out" (H 190)
 Borrow the technical director's habit. Before making a cut list for a big prop, **redraw the design to work out all the hidden structure**.
 

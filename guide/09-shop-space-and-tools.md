@@ -82,7 +82,7 @@ Organize however works for your team, and feel free to reorganize an inherited s
 | Family | Examples | Notes |
 |---|---|---|
 | **Cutting** | Saws, knives, shears, routers, hot wire, plasma, laser | Blade vocabulary: **TPI** (keep ~3 teeth in the material; more TPI = smoother but slower and clogs more), **gullet**, **kerf**, **set** (H 53) |
-| **Knives** | Utility/box cutter, **snap knife** (long fresh edge, good for foam), hobby/X-Acto, mat knife | |
+| **Knives** | Utility/box cutter, **snap knife** (long fresh edge, good for foam), hobby/X-Acto, mat knife | KF instead resharpens a box-cutter blade on a stone or 1200-grit paper every few cuts for EVA foam (KF 8, 14; [ch. 29](29-eva-foam-props.md#where-the-sources-disagree)) |
 | **Shearing** | Scissors, tin snips, paper guillotine | Clean cut, thin stock only (H 55) |
 | **Rotary cutters** | Router, router table, shaper, planer, jointer | **Router**: loud, unguarded, torquey; a loose collet can launch a bit. Also extraordinarily versatile (H 55) |
 | **Gripping/turning** | Pliers, wrenches, screwdrivers | Everyone in entertainment should carry an **adjustable ("crescent") wrench** (H 55; M 61) |

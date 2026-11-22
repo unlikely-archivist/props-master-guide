@@ -104,6 +104,7 @@ Prime → base coat → overpaint → break down.
 - Latex or water-based contact cement as a primer on fabric. **50/50 PVA and water on MDF edges.**
 - Brush in figure-eights for flat color, and sand between coats for ultra-smooth results. Two or three coats, until it's no longer blotchy.
 - Sometimes the primer *is* the base coat; sometimes you skip priming entirely (glazing over bare wood to show the grain).
+- On flexible EVA foam, KF uses only flexible primers and paints, avoids most spray paints (which crack when the foam is pressed), and seals with a flexible spray varnish (KF 7, 29–30; [ch. 29](29-eva-foam-props.md#painting-and-sealing-kf-7-30-36-40-44-47)).
 
 ### Base coat (H 334–335)
 - The flat "average" color. Some treatments build light to dark, others dark to light.
@@ -118,6 +119,7 @@ Prime → base coat → overpaint → break down.
 - **Wash vs. glaze**: a wash is thinned with more vehicle (water); a glaze is made translucent with clear **medium**. Thin acrylic too much with water alone and there isn't enough binder left to stick (H 336).
 - **Overall glaze** to tone and unify (a brown glaze warms everything).
 - **Shadow washes** into recesses: thin with half water, half alcohol for flow and working time; add a drop of dish soap; wipe the high points with a dry brush or rag (H 337).
+- **Oil-paint wipe-back** (KF 40): over a varnished base, smear dark oil paint everywhere and wipe most of it off with paper and a little turpentine, leaving it in recesses. See [ch. 29](29-eva-foam-props.md#painting-and-sealing-kf-7-30-36-40-44-47).
 - **Highlights**:
   - **Scumbling**: a nearly dry brush jabbed on, stipple-fashion.
   - **Drybrushing**: a nearly dry brush dragged lightly so it catches raised texture.

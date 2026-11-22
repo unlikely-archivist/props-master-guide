@@ -124,6 +124,8 @@ If you can smell it or see dust or fumes, you are breathing it, and some hazards
 - Some hazards **no cartridge stops**, including **isocyanates** (urethane foams and resins) and **MEKP** (polyester catalyst). These need supplied air or enclosure (H 41, 279).
 - **Respirator programs**: in US workplaces, OSHA requires a medical evaluation, **fit testing** and training before anyone wears a respirator, including a disposable dust mask, and **no facial hair at the seal** (H 27, 40). In a university, EHS runs this program.
 
+For EVA-foam hazards (rotary-sanding dust, fumes from burning textures in with a soldering iron, heated PVC pipe and puzzle mats, spray rubber primers), see [ch. 29](29-eva-foam-props.md#safety-kf-9-15-16-22-24-29-36-40) (KF 6, 9, 16, 24, 29).
+
 ## Fire safety (H 42–44; M 149–151)
 
 **Extinguishers.** Have the right types, in the right number, at the right locations (near ignition sources and throughout the shop).

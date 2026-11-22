@@ -87,6 +87,7 @@ Collect parts as you find them, and organize them so you can find them again (H 
 - **Polyethylene (#2, HDPE) and polypropylene won't bond with any adhesive**, and paint won't stick to them either.
 - "Wood" on a craft-glue label means small decorative bits, not furniture joints.
 - Consider whether glue is even the right joint. Welding, fasteners, tying, sewing or taping may be better.
+- **EVA foam.** KF uses contact cement as its main foam adhesive: very thin on both faces, touch-dry in 1–15 minutes depending on brand, then pressed. It keeps hot glue for parts that won't stick otherwise (KF 7, 9, 15). Hart joins EVA with hot glue ([ch. 16](16-plastics-and-foams.md#rubbers-and-foams-h-179181-h-236)). See [ch. 29](29-eva-foam-props.md#where-the-sources-disagree).
 
 ### Removing glue (H 69)
 Heat (hot melts), the original solvent (water or a solvent), dedicated debonders (CA), or mechanical removal by cutting or sanding.
@@ -122,6 +123,8 @@ Fasteners hold by **friction** (nails) or by **capture** (bolts, rivets). Use th
 | **Monofilament (fishing line)** | Nearly invisible support or tension |
 | **Capture** | Build around a part so it can't move, like a picture held in its frame |
 | **Magnets** | Removable attachments and breakaways. **Rare-earth magnets** are very strong: embed them or epoxy them in, and mount them more strongly than their pull. **Pinch and crush hazard** |
+
+KF sets neodymium magnets in holes drilled through nested PVC pipes, fixing them with super glue, to make foam props that pull apart for travel (KF 18–19; [ch. 29](29-eva-foam-props.md#making-props-come-apart-kf-1819-42)).
 
 ## Securing props onstage
 

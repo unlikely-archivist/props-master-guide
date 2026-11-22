@@ -49,6 +49,7 @@ From the sheet-metal trade: unfold every surface of a 3D shape into a flat **dev
 ## Foam patterning (H 236–237)
 
 - **EVA foam** is patterned like paper (paper pattern → trace → cut → hot-glue). Its thickness means convex joints need **beveled edges** (harder when the foam is also curved). Rigid fillers defeat the foam's flexibility — cover the piece with fabric or a flexible coating instead, or accept some gaps. Layer thin EVA for raised details.
+- KF patterns EVA props from a full-size printed **blueprint**, cutting the paper into smaller and smaller pieces to mark bevel lines and detail placement, and keeping a second uncut copy for reference (KF 20–22, 34, 44). It builds curves into seams and locks large curves by laminating two curved layers (KF 32–33, 43). See [ch. 29](29-eva-foam-props.md#building-volume-and-holding-curves-kf-2023-3235-43-46).
 - **Puppet polyfoam** (soft PU): thick enough for glued edge joints (contact cement); spray-mount stretch knit fabric to the hidden side for strength, especially when stitching; shape by **pulling and pinching** (glue/stitches) or by **carving**; multiple darts make domes.
 
 ## Patterns for hard materials (H 95–97, 140)
