@@ -64,7 +64,7 @@ Employees should follow shop procedures, use the PPE provided, **report injuries
 - **"Just this once"** is how injuries happen. So is the inattention of habit.
 - **Ladders**: use them only as designed, with latches locked and both hands for climbing. *Never* stand an extension ladder on an A-frame (M 146).
 
-Table-saw specifics are in [ch. 29](../5-materials/29-wood.md#the-table-saw); welding specifics are in [ch. 30](../5-materials/30-metal.md#welding-safety-h-142144).
+Table-saw specifics are in [ch. 29](../5-materials/29-wood.md#the-table-saw); welding specifics are in [ch. 30](../5-materials/30-metal.md#welding-safety-h-142144-w-62).
 
 ## Chemicals and hazardous substances
 

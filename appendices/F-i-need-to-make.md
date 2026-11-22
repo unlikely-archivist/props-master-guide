@@ -86,5 +86,5 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | I need… | Usual routes | Read | Watch out for |
 |---|---|---|---|
 | A jig, clamp or measuring aid | Build in wood; 3D print | [ch. 23](../guide/4-fabrication-core/23-drawings-measuring-and-layout.md#jigs-h-9799), [ch. 40](../guide/5-materials/40-3d-printing.md#further-projects-b-102116) | Does it actually save time? (B 115) |
-| A curved form or rib | Bending ply, kerfing, laminating | [wood projects](../guide/5-materials/29-wood-projects.md#project-5-a-curved-form-h-107110), [ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md) | |
+| A curved form or rib | Bending ply, kerfing, laminating | [wood projects](../guide/5-materials/29-wood-projects.md#project-5-a-curved-form-h-107110-w-3940), [ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md) | |
 | A matching repeat finish | Paint recipe | [ch. 28 recipes](../guide/4-fabrication-core/28-painting-and-finishing-recipes.md) | Keep it simple enough to reproduce (H 333) |

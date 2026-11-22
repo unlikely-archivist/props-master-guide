@@ -49,7 +49,7 @@ Borrow the technical director's habit. Before making a cut list for a big prop, 
 ## Building curves: formers and stringers (H 191–192)
 
 - **Formers** are profile-cut ribs, usually plywood, that set the shape of a curved surface. **Stringers** connect the formers and add places to staple or glue the skin.
-- Skin with **bending plywood**, lauan, cardboard, or laminates ([ch. 29](../5-materials/29-wood.md#bending-wood-h-107110)).
+- Skin with **bending plywood**, lauan, cardboard, or laminates ([ch. 29](../5-materials/29-wood.md#curved-surfaces-and-bending-wood-h-107110-w-3940)).
 - Formers can follow the inside or the outside of the skin, whichever is easier to attach to.
 
 ## Armatures and mesh frameworks (H 191–193; H 243–246)
