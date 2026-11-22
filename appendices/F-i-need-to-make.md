@@ -32,10 +32,21 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | A table or bench built to size | Build in wood | [ch. 29](../guide/5-materials/29-wood.md), [wood projects](../guide/5-materials/29-wood-projects.md) | Break edges; compression legs ([ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md)) |
 | A dresser, wardrobe or cabinet | Build a carcass and layer detail | [wood projects](../guide/5-materials/29-wood-projects.md#project-4-a-dresser-with-one-working-drawer-h-117119) | Cumulative width; one working drawer |
 | A recovered or new upholstered seat | Upholster | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md), [fabric projects](../guide/5-materials/34-fabric-and-upholstery-projects.md) | Flame retardancy |
+| A deep-buttoned chesterfield-style back or seat | Upholster | [deep buttoning](../guide/5-materials/34-fabric-and-upholstery-projects.md#project-4-a-deep-buttoned-panel-h-215217-w-155) | Plan from the start; 40% cover allowance (W 155) |
+| A sofa actors can get up from quickly | Upholster over plywood | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md#upholstery-the-props-approach-h-212217-w-142155) | Ply under cushions (W 142) |
+| Turned legs, spindles, finials or a candlestick | Buy ready-made parts; turn on a lathe | [ch. 29](../guide/5-materials/29-wood.md#woodturning-w-4049), [turned leg](../guide/5-materials/29-wood-projects.md#project-8-a-turned-table-leg-with-a-pommel-w-4549) | Sound glued-up blanks; lathe guards (W 41) |
+| Cabriole legs | Buy; band-saw | [cabriole leg](../guide/5-materials/29-wood-projects.md#project-6-a-band-sawn-cabriole-leg-w-33) | |
+| Furniture for a raked stage | Anti-rake legs | [anti-raking](../guide/5-materials/29-wood-projects.md#project-7-anti-raking-a-table-w-3739) | Level only in one orientation (W 37) |
+| A chair that's broken in a fight or dance | Reinforce, don't just repair | [ch. 29](../guide/5-materials/29-wood.md#mending-and-reinforcing-furniture-w-3436) | It will break again (W 36) |
+| A chandelier | Bent steel, turning, resin drops, leaf | [cold-bending steel](../guide/5-materials/30-metal-projects.md#project-5-cold-bent-semicircles-and-s-scrolls-w-5660), [clear casting](../guide/5-materials/38-molding-and-casting.md#clear-casting-w-120121), [ch. 28](../guide/4-fabrication-core/28-painting-and-finishing.md#metallic-finishes-w-164171) | Weight if flown; wiring by electrics |
+| A gilded picture frame | Mouldings or vac-form; Dutch metal | [gilding](../guide/4-fabrication-core/28-painting-and-finishing-recipes.md#tutorial-dutch-metal-leaf-oil-gilding-method-w-166169) | Acrylic size never hardens on handled props (W 167) |
 | Curtains, drapes, cushions | Sew or buy | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md) | Flame retardancy ([ch. 27](../guide/4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320-w-1718)) |
 | A room full of dressing | Pull and rent kits | [ch. 51](../guide/8-wider-craft/51-set-dressing.md) | Securing; "hide the uglies" |
 | Plants or flowers | Artificial; real for short runs | [ch. 52](../guide/8-wider-craft/52-greens-and-florals.md) | Fire; allergies |
 | Rocks, gravestones, statues | Carve foam; cast | [foam projects](../guide/5-materials/32-foams-and-rubbers-projects.md), [ch. 37](../guide/5-materials/37-sculpting.md), [ch. 40](../guide/5-materials/40-3d-printing.md#large-prints-on-small-printers-b-90101) | Coat foam; weight if actors sit on it |
+| Columns, urns, large finials | Turn polystyrene | [turning polystyrene](../guide/5-materials/32-foams-and-rubbers-projects.md#project-6-turning-polystyrene-w-128130) | Dust and mess (W 130) |
+| A figure or animal larger than life | Carve polystyrene from profiles or a kit-form rough; coat | [ch. 37](../guide/5-materials/37-sculpting.md#subtractive-techniques-h-242243-w-132136), [ch. 27](../guide/4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317-w-136141) | Hot-wire fumes; FRA foam (W 125, 131) |
+| A "porcelain" sink, vase or bath | Carved foam, scrim and size gesso, glazed | [ch. 27](../guide/4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317-w-136141) | Delicate unless glazed (W 139) |
 
 ## Household objects and gadgets
 
@@ -57,6 +68,9 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | Jewellery, a crown, a medal | Buy; cast; 3D print; buckram | [ch. 40](../guide/5-materials/40-3d-printing.md#further-projects-b-102116), [shells projects](../guide/5-materials/36-shells-and-laminates-projects.md#project-2-a-buckram-crown-h-292-general-knowledge), [ch. 28 recipes](../guide/4-fabrication-core/28-painting-and-finishing-recipes.md) | Fit on the actor; detail the audience can read |
 | A bag, pouch, belt or holster | Leather | [leather projects](../guide/5-materials/35-leather-projects.md) | Costume coordination |
 | A mask or helmet | Papier-mâché, leather, EVA, thermoplastic, 3D print | [shells projects](../guide/5-materials/36-shells-and-laminates-projects.md), [ch. 33](../guide/5-materials/33-eva-foam.md), [ch. 40 projects](../guide/5-materials/40-3d-printing-projects.md#level-4-makeup-prosthesis-or-mask-b-7080) | Breathing, sight, sweat, voice |
+| A mask fitted to an actor's face | Life-cast the face, model on the cast, mold, cast in paper, latex or resin | [face life mold](../guide/5-materials/38-molding-and-casting-projects.md#project-8-a-life-mold-of-a-face-w-99102), [slush-cast latex](../guide/5-materials/38-molding-and-casting-projects.md#project-9-a-slush-cast-latex-mask-w-117119) | Breathing straws; never encase in plaster; chopped-glass casts are too sharp to wear (W 101, 115) |
+| A body cast or "statue" of a cast member | Plaster-bandage life mold in registered sections | [ch. 38](../guide/5-materials/38-molding-and-casting.md#molding-the-human-body-h-286290) | Model support and stamina; teams (W 102–103) |
+| Costume jewellery in metal | White-metal casting | [ch. 38](../guide/5-materials/38-molding-and-casting.md#white-metals-w-121123) | Lead-free alloys; bone-dry molds (W 123) |
 | Armour | EVA, thermoplastic, leather, vacuum-formed plastic | [ch. 45](../guide/6-weapons/45-other-weapons.md#armour-general-knowledge) | Movement and fittings |
 | A prosthetic nose or wound | 3D print TPU; gelatin; silicone | [ch. 40 projects](../guide/5-materials/40-3d-printing-projects.md), [ch. 38](../guide/5-materials/38-molding-and-casting.md), [ch. 50](../guide/7-effects/50-blood-and-messy-effects.md) | **Skin safety; patch tests** |
 
@@ -77,6 +91,9 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | I need… | Usual routes | Read | Watch out for |
 |---|---|---|---|
 | Something that breaks on cue | Breakaway glass; rigged furniture | [ch. 46](../guide/7-effects/46-effects-and-breakaways.md) | Clean up shards; budget for the run |
+| A china ornament smashed nightly | Hollow plaster or polymer-plaster casts | [ch. 46](../guide/7-effects/46-effects-and-breakaways.md#breakaways-h-34-h-77-190191-274275) | Sweep before it's walked on; latex layer if debris is dangerous (W 121) |
+| A prop that holds a real fire | Fire cement over foil or expanded metal | [ch. 48](../guide/7-effects/48-flame-smoke-and-sound.md#props-that-hold-real-fire-w-7980) | **Fire marshal approval** |
+| Fake glass, crystal or gems | Clear resin casting | [ch. 38](../guide/5-materials/38-molding-and-casting.md#clear-casting-w-120121) | Polyester is fragile; urethane isocyanates (W 120–121) |
 | Blood | Commercial stage blood; capsules; rigs | [ch. 50](../guide/7-effects/50-blood-and-messy-effects.md) | Costume staining; slip hazard; mouth-safe only in mouths |
 | Fire, smoke or steam | LED, silk flame, fog, misters | [ch. 48](../guide/7-effects/48-flame-smoke-and-sound.md) | **Fire marshal; alarms; pyro needs a licence** |
 | A live sound effect | Crash box, thunder sheet, slam box | [ch. 48](../guide/7-effects/48-flame-smoke-and-sound.md#live-sound-effects-in-practice-general-knowledge) | Who operates it, and on what cue |
@@ -86,5 +103,8 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | I need… | Usual routes | Read | Watch out for |
 |---|---|---|---|
 | A jig, clamp or measuring aid | Build in wood; 3D print | [ch. 23](../guide/4-fabrication-core/23-drawings-measuring-and-layout.md#jigs-h-9799), [ch. 40](../guide/5-materials/40-3d-printing.md#further-projects-b-102116) | Does it actually save time? (B 115) |
-| A curved form or rib | Bending ply, kerfing, laminating | [wood projects](../guide/5-materials/29-wood-projects.md#project-5-a-curved-form-h-107110-w-3940), [ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md) | |
+| A curved form or rib | Bending ply, kerfing, laminating, stressed skin, staving | [wood projects](../guide/5-materials/29-wood-projects.md#project-5-a-curved-form-h-107110-w-3940), [ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md) | |
+| Steel hoops, scrolls or curved arms | Cold-bend over ply formers; ring roller for big work | [metal projects](../guide/5-materials/30-metal-projects.md#project-5-cold-bent-semicircles-and-s-scrolls-w-5660) | Spring-back; thin tube buckles (W 60) |
+| A hot-wire cutter | Build one | [hot-wire bow](../guide/5-materials/32-foams-and-rubbers-projects.md#project-5-a-homemade-hot-wire-bow-w-130131) | Low voltage; never let the wire glow (W 131) |
+| Cheap modelling clay in bulk | Make oil clay | [recipe](../guide/5-materials/37-sculpting-projects.md#recipe-cards) | Molten wax is flammable (W 75) |
 | A matching repeat finish | Paint recipe | [ch. 28 recipes](../guide/4-fabrication-core/28-painting-and-finishing-recipes.md) | Keep it simple enough to reproduce (H 333) |
