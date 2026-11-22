@@ -39,7 +39,7 @@ For building whole props from EVA foam (densities and thicknesses, PVC and rod c
 
 Full carving methods are in [ch. 37](37-sculpting.md). Laminating tables for XPS are in [ch. 41](41-prop-food.md#rigid-foam-xps-ff-13-and-chs-4-17-22-23-27-30-39-41).
 
-**Safety** (H 243; M 143–144): hot-wiring or hot-knifing polystyrene releases styrene vapour; rasping makes dust. Ventilate (local exhaust for big hot-wire rigs), use an organic-vapour respirator per the SDS for hot cutting, and a particulate mask and goggles for rasping ([ch. 37](37-sculpting.md#polystyrene-safety-h-243-m-143144)).
+**Safety** (H 243; M 143–144): hot-wiring or hot-knifing polystyrene releases styrene vapour; rasping makes dust. Ventilate (local exhaust for big hot-wire rigs), use an organic-vapour respirator per the SDS for hot cutting, and a particulate mask and goggles for rasping ([ch. 37](37-sculpting.md#polystyrene-safety-h-243-m-143144-w-131-136)).
 
 ## Coating foam (H 315–317)
 

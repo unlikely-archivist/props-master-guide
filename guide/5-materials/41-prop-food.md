@@ -99,7 +99,7 @@ Yaley **Gel Wax** is translucent and pourable, and has a realistic weight. Yaley
 
 ### Rigid foam (XPS) (FF 13, and chs. 4, 17, 22, 23, 27, 30, 39, 41)
 
-Pink (Owens Corning Foamular) or blue (Dow Styrofoam) insulation board. Use **1" sheet** for carving (FF 145). It's the base for **bread, roasts, ham, turkey, salami, potatoes, cakes and filler blocks**. See Hart's general guidance on polystyrene and safety ([ch. 31](31-plastics.md), [ch. 37](37-sculpting.md#polystyrene-safety-h-243-m-143144)).
+Pink (Owens Corning Foamular) or blue (Dow Styrofoam) insulation board. Use **1" sheet** for carving (FF 145). It's the base for **bread, roasts, ham, turkey, salami, potatoes, cakes and filler blocks**. See Hart's general guidance on polystyrene and safety ([ch. 31](31-plastics.md), [ch. 37](37-sculpting.md#polystyrene-safety-h-243-m-143144-w-131-136)).
 
 **Laminating** (FF 26–29, 95, 130, 157, 195):
 

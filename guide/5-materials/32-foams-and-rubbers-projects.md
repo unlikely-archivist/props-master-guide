@@ -9,7 +9,7 @@ Starter projects for [ch. 32](32-foams-and-rubbers.md). EVA foam builds have the
 **Teaches:** laminating, carving, hard-coating, painting.
 1. **Laminate** 1" or 2" XPS sheets into a block with water-based contact cement ("green glue") or wood glue. Don't use solvent sprays: they dissolve XPS (H 252–253; FF 26–29, 157).
 2. Clamp with cauls or a strap over boards so the clamps don't dent the foam (FF 11, 125, 157).
-3. Draw the outline on two faces. Rough-cut with a hot-wire cutter, band saw or pull saw ([ch. 37](37-sculpting.md#subtractive-techniques-h-242243)).
+3. Draw the outline on two faces. Rough-cut with a hot-wire cutter, band saw or pull saw ([ch. 37](37-sculpting.md#subtractive-techniques-h-242243-w-132136)).
 4. Shape with a Surform or rasp; a rasped face hides glue lines (FF 146).
 5. **Coat it** so it survives handling: scenic dope or joint compound with PVA for a hard shell, or cheesecloth-mâché for strength ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317); [ch. 27 recipes](../4-fabrication-core/27-surfaces-and-texture-recipes.md)).
 6. Base-coat, wash and drybrush to look like stone ([ch. 28 recipes](../4-fabrication-core/28-painting-and-finishing-recipes.md)).
