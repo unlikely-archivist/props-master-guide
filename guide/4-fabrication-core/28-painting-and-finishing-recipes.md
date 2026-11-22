@@ -36,14 +36,14 @@ Paint "recipes" and step-by-step finishes for [ch. 28](28-painting-and-finishing
 
 1. Seal the MDF edges with 50/50 PVA and water; prime (H 334).
 2. Base-coat in the lightest wood colour, **brushing in the direction the grain will run** (H 335). Wilson makes the base slightly paler and brighter than the palest colour in the real wood, in two thin coats, rubbed smooth with wire wool for fine work (W 162).
-2a. Glaze the base so the grain layer can be wiped back cleanly (W 160).
-3. Mix a darker, thinner grain colour (a glaze).
-4. Brush the glaze over one section at a time.
-5. While wet, drag a **rubber rocker grainer** through it, rocking it for knots, or comb it, shifting the comb for variation (H 339).
-6. Soften with a dry brush if needed; let dry.
-6a. For pores, brush on a thin transparent layer, wipe it along the grain, and pull a fine comb, steel wool or bubblewrap through it; mask off where grain directions meet (W 162–164).
-7. Start high-contrast, then unify with an overall brown glaze (H 336, 339), or a toning coat (W 161–162).
-8. Seal with a satin clear coat (H 319; [ch. 27](27-surfaces-and-texture.md#protective-coats-h-319320)).
+3. Glaze the base so the grain layer can be wiped back cleanly (W 160).
+4. Mix a darker, thinner grain colour (a glaze).
+5. Brush the glaze over one section at a time.
+6. While wet, drag a **rubber rocker grainer** through it, rocking it for knots, or comb it, shifting the comb for variation (H 339).
+7. Soften with a dry brush if needed; let dry.
+8. For pores, brush on a thin transparent layer, wipe it along the grain, and pull a fine comb, steel wool or bubblewrap through it; mask off where grain directions meet (W 162–164).
+9. Start high-contrast, then unify with an overall brown glaze (H 336, 339), or a toning coat (W 161–162).
+10. Seal with a satin clear coat (H 319; [ch. 27](27-surfaces-and-texture.md#protective-coats-h-319320)).
 
 ## Tutorial: aged brass on a plastic or foam prop (H 333–339)
 
