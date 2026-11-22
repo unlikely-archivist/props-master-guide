@@ -8,66 +8,68 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 
 **B** = Berls, *Teaching Practical Theatrical 3D Printing* (2024), book pages. See the [B table](#berls-b-by-subject) below.
 
+**W** = Wilson, *Making Stage Props* (2003), book pages (PDF page minus 1). See the [W table](#wilson-w-by-subject) below.
+
 ## By guide chapter
 
 | Guide chapter | Mussman (M) | Hart PBG (H, 1st ed.) | Other sources |
 |---|---|---|---|
 | **Part 1: Intro** | | | |
-| 1. What is a prop? | ch.1, pp. 5–14 | ch.1, pp. 1–10 | — |
+| 1. What is a prop? | ch.1, pp. 5–14 | ch.1, pp. 1–10 | W 7–11, 174–184 |
 | 2. The prop master and the department | ch.2, pp. 15–25; ch.4, pp. 36–45 | ch.1, pp. 6–10 | — |
-| 3. Theatre, film and television | ch.1, pp. 6–11; p. 37 | ch.1, pp. 2–8; ch.2, pp. 15–16 | General knowledge |
+| 3. Theatre, film and television | ch.1, pp. 6–11; p. 37 | ch.1, pp. 2–8; ch.2, pp. 15–16 | General knowledge; W 36–39 |
 | 4. Theory and philosophy | pp. 12–13, 16, 120–121, 149 | pp. 1–24, 362 | J 9–10; FF 4–5; KF 2; B 23–32, 47, 57, 115 |
-| 5. History of props | pp. 17, 31–32 | pp. 4, 10, 15, 58 | J; mostly general knowledge |
+| 5. History of props | pp. 17, 31–32 | pp. 4, 10, 15, 58 | J; mostly general knowledge; W 16 |
 | **Part 2: Admin** | | | |
-| 6. Script breakdown and prop list | ch.7, pp. 92–103 | pp. 12–17, 79–83 | — |
+| 6. Script breakdown and prop list | ch.7, pp. 92–103 | pp. 12–17, 79–83 | W 9, 18–19, 181 |
 | 7. Research and period accuracy | pp. 78–82, 95 | — | J: whole book, esp. pp. 9–10 |
-| 8. Budgets and paperwork | pp. 39–40, 83–91, 104–108, 127 | pp. 18–21; ch.19, pp. 361–364 | — |
-| 9. Staffing, time and scheduling | pp. 19–20, 40–45, 104–107 | pp. 20, 364–366 | General knowledge |
-| 10. Working with other departments | ch.3, pp. 26–35; pp. 102, 107–108, 119, 124–127 | pp. 13–14, 80–81, 353 | — |
-| 11. Buy, source or build? | ch.8, pp. 109–112, 115–117 | pp. 4–6 | — |
-| 12. Rehearsals, tech and performance | ch.9, pp. 120–139 | pp. 2, 13, 15–16, 95–96 | — |
+| 8. Budgets and paperwork | pp. 39–40, 83–91, 104–108, 127 | pp. 18–21; ch.19, pp. 361–364 | W 11–14, 51 |
+| 9. Staffing, time and scheduling | pp. 19–20, 40–45, 104–107 | pp. 20, 364–366 | General knowledge; W 11–14 |
+| 10. Working with other departments | ch.3, pp. 26–35; pp. 102, 107–108, 119, 124–127 | pp. 13–14, 80–81, 353 | W 7–8, 18–19 |
+| 11. Buy, source or build? | ch.8, pp. 109–112, 115–117 | pp. 4–6 | W 8, 22, 30–31 |
+| 12. Rehearsals, tech and performance | ch.9, pp. 120–139 | pp. 2, 13, 15–16, 95–96 | W 13, 36, 181 |
 | 13. Strike, storage and records | pp. 70–77, 78–83, 139–140 | pp. 9, 20, 290 | — |
 | 14. Rules to live by | throughout | throughout | all sources |
 | **Part 3: Sourcing** | | | |
-| 15. Shopping | pp. 78–83, 115–118 | pp. 363–364 | — |
-| 16. Renting | pp. 39–40, 90–91, 113–115 | — | — |
+| 15. Shopping | pp. 78–83, 115–118 | pp. 363–364 | W 22, 51, 125, 132, 185 |
+| 16. Renting | pp. 39–40, 90–91, 113–115 | — | W 8 |
 | 17. Borrowing | pp. 112–115 | — | — |
-| 18. Pulling, altering and kitbashing | pp. 118–119 | pp. 6, 60–62 | — |
-| 19. Recycling, reusing and stock | pp. 13–14, 73–77, 139–140 | p. 61 | FF 4, 22 |
+| 18. Pulling, altering and kitbashing | pp. 118–119 | pp. 6, 60–62 | W 8, 34–39 |
+| 19. Recycling, reusing and stock | pp. 13–14, 73–77, 139–140 | p. 61 | FF 4, 22; W 15, 51, 73–74, 92, 123 |
 | **Part 4: Fabrication core** | | | |
-| 20. Health and safety | ch.10, pp. 141–151 | ch.3, pp. 25–44 (and safety boxes in chs. 8–17) | B 14–15, 118 |
-| 21. Shop space and tools | ch.5, pp. 46–72 | ch.4, pp. 45–58; p. 61 | — |
-| 22. The build method | pp. 115–117 | ch.2, pp. 11–24; pp. 182–191 | HE ch.1 |
-| 23. Drawings, measuring, jigs | pp. 56–57, 159–162 | ch.6, pp. 78–99 | — |
+| 20. Health and safety | ch.10, pp. 141–151 | ch.3, pp. 25–44 (and safety boxes in chs. 8–17) | B 14–15, 118; W 16–18, 22, 28, 54–56, 62, 76, 91, 97, 108–110, 114, 123, 131, 136, 157, 160, 171 |
+| 21. Shop space and tools | ch.5, pp. 46–72 | ch.4, pp. 45–58; p. 61 | W 15–16, 24, 146, 157 |
+| 22. The build method | pp. 115–117 | ch.2, pp. 11–24; pp. 182–191 | HE ch.1; W 11–13 |
+| 23. Drawings, measuring, jigs | pp. 56–57, 159–162 | ch.6, pp. 78–99 | W 18–19, 24–26, 52–53, 58, 183 |
 | 24. Patterning | — | ch.12, pp. 225–237; pp. 95–97, 140 | — |
-| 25. Adhesives and fasteners | p. 51; pp. 131–132 | ch.5, pp. 59–77 | — |
-| 26. Structure and armatures | pp. 152–154 | ch.10, pp. 182–197; pp. 243–246 | HE chs. 4–5 |
-| 27. Surfaces and texture | pp. 52, 158–159 | ch.16, pp. 307–320 | — |
-| 28. Painting and finishing | pp. 57–59, 158–159 | ch.17, pp. 321–351 | — |
+| 25. Adhesives and fasteners | p. 51; pp. 131–132 | ch.5, pp. 59–77 | W 12, 28–30, 39, 132, 137, 146, 158 |
+| 26. Structure and armatures | pp. 152–154 | ch.10, pp. 182–197; pp. 243–246 | HE chs. 4–5; W 30, 39, 50–51, 69, 79, 81–83 |
+| 27. Surfaces and texture | pp. 52, 158–159 | ch.16, pp. 307–320 | W 17–18, 125–128, 136–141, 143, 147–148, 159, 171–173, 176–179 |
+| 28. Painting and finishing | pp. 57–59, 158–159 | ch.17, pp. 321–351 | W 156–173 |
 | **Part 5: Materials** | | | |
-| 29. Wood | pp. 55–66, 152–156 | ch.7, pp. 100–128 | — |
-| 30. Metal | p. 63 (soldering) | ch.8, pp. 129–160 | HE ch.2 |
-| 31. Plastics | p. 54 | ch.9, pp. 161–178 | — |
-| 32. Foams and rubbers | pp. 143–144 | pp. 179–181, 236, 243, 252–254, 315–317 | FF; KF |
+| 29. Wood | pp. 55–66, 152–156 | ch.7, pp. 100–128 | W 20–49 |
+| 30. Metal | p. 63 (soldering) | ch.8, pp. 129–160 | HE ch.2; W 50–67, 83 |
+| 31. Plastics | p. 54 | ch.9, pp. 161–178 | W 15, 80–81, 116, 119–121, 156 |
+| 32. Foams and rubbers | pp. 143–144 | pp. 179–181, 236, 243, 252–254, 315–317 | FF; KF; W 116, 125–136, 143–147 |
 | 33. EVA foam (+ projects) | — | pp. 53–55, 163–167, 172, 179–181, 236–237 | KF: whole book |
-| 34. Fabric and upholstery | pp. 67–69, 160–161 | ch.11, pp. 198–217, 220–224 | — |
-| 35. Leather | — | pp. 218–220, 293 | — |
-| 36. Shells and laminates | — | ch.15, pp. 291–306 | — |
-| 37. Sculpting | pp. 53–54, 143–144 | ch.13, pp. 238–254 | — |
-| 38. Molding and casting | p. 54 | ch.14, pp. 255–290 | — |
+| 34. Fabric and upholstery | pp. 67–69, 160–161 | ch.11, pp. 198–217, 220–224 | W 142–155 |
+| 35. Leather | — | pp. 218–220, 293 | W 147–148, 173 |
+| 36. Shells and laminates | — | ch.15, pp. 291–306 | W 80–81, 105–121, 139–141 |
+| 37. Sculpting | pp. 53–54, 143–144 | ch.13, pp. 238–254 | W 12, 69–84, 120, 132–136, 140 |
+| 38. Molding and casting | p. 54 | ch.14, pp. 255–290 | W 85–123 |
 | 39. Paper and graphics | pp. 80, 158 | ch.18, pp. 352–360 | — |
 | 40. 3D printing (+ projects) | — | pp. 10, 58, 66, 68, 165, 172 | B: whole book |
 | 41. Prop food (+ recipes) | pp. 7–8, 156–157 | pp. 6, 181, 250–251 | FF: whole book |
 | **Part 6: Weapons** | | | |
 | 42. Weapons safety and policy | pp. 147–149 | pp. 4, 7, 158–160 | J; KF 5 |
-| 43. Firearms | pp. 147–148 | p. 7 | J; mostly general knowledge |
+| 43. Firearms | pp. 147–148 | p. 7 | J; mostly general knowledge; W 94 |
 | 44. Swords, daggers and blades | p. 148 | pp. 3–4, 158–160, 190–191 | KF; J |
-| 45. Other weapons and armour | — | pp. 159, 190–191, 291–306 | KF; J; mostly general knowledge |
+| 45. Other weapons and armour | — | pp. 159, 190–191, 291–306 | KF; J; mostly general knowledge; W 106, 110, 165 |
 | **Part 7: Effects** | | | |
-| 46. Effects and breakaways | pp. 7–10, 149 | pp. 2–7, 9–10, 77, 190–191, 274–275 | HE: all chapters (pending) |
+| 46. Effects and breakaways | pp. 7–10, 149 | pp. 2–7, 9–10, 77, 190–191, 274–275 | HE: all chapters (pending); W 77, 121, 183 |
 | 47. Eating, drinking and smoking | pp. 7–8, 129, 149–150, 156–157 | pp. 6, 181, 250–251 | FF 194–200 |
-| 48. Flame, smoke and sound | pp. 9–10, 34, 150–151 | p. 7 | HE chs. 9–10 (pending) |
-| 49. Practicals and mechanisms | pp. 10, 32 | pp. 2, 77 | B 81–89; HE chs. 2–6, 11 (pending) |
+| 48. Flame, smoke and sound | pp. 9–10, 34, 150–151 | p. 7 | HE chs. 9–10 (pending); W 79–80 |
+| 49. Practicals and mechanisms | pp. 10, 32 | pp. 2, 77 | B 81–89; HE chs. 2–6, 11 (pending); W 8, 11–12 |
 | 50. Blood and messy effects | p. 8 | pp. 3, 274–275 | HE ch.7 (pending) |
 | **Part 8: The wider craft** | | | |
 | 51. Set dressing | pp. 10–11, 128–134 | pp. 4, 7 | — |
@@ -245,3 +247,64 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | Printed shop tools: clamps, measuring aids, centering jigs; labor-cost reasoning | 110–116 | 40 (projects), 23, 22 |
 | Course planning, troubleshooting summary, safety escalation | 117–119 | 40, 20 |
 | Glossary | 120–122 | App. A |
+
+## Wilson (W) by subject
+
+| Subject | W pages | Related guide chapters |
+|---|---|---|
+| Who makes props; reasons to make; what makes a good prop | 7–11 | 1, 11 |
+| Deciding how to make something; questions to ask; samples | 11–13 | 22 |
+| Costing; sample costing | 13–14 | 8 |
+| Scheduling; time records | 11, 13–14 | 9 |
+| Tools and machines; workspace and facilities | 15–16 | 21 |
+| Traditional and modern materials | 16 | 5 |
+| Health and safety law; risk assessment | 16–17 | 20, App. B |
+| Fire regulations; flame retardants (borax recipe; additives) | 17–18 | 27, 20 |
+| Working with drawings and references | 18–19 | 23, 10 |
+| Timber types, sheet materials, MDF safety, sizes, mouldings | 21–23 | 29, 20 |
+| Measuring and marking out | 24–26 | 23 |
+| Cutting and shaping wood; band saw | 26–27 | 29 |
+| Wood safety | 28 | 20 |
+| Nails, screws, staples; wood glues | 28–30 | 25, 29 |
+| Furniture: materials, joints, mending and reinforcing | 30–36 | 29, 12, 18 |
+| Furniture on raked stages; anti-raking | 36–39 | 29, 3 |
+| Curved surfaces (solid, stressed skin, laminating, staving, kerfing) | 39–40 | 29, 26 |
+| Woodturning | 40–49 | 29 |
+| Buying, degreasing, marking and cutting steel | 51–54 | 30 |
+| Shaping and drilling steel | 54–56 | 30 |
+| Cold-bending curves in steel | 56–60 | 30 |
+| MIG welding: process, hazards, equipment, technique, faults, distortion | 60–67 | 30, 20 |
+| Modelling: natural clay, recycling clay | 69–74 | 37 |
+| Oil clays (recipe), modelling waxes | 74–75 | 37 |
+| Permanent modelling materials (polymer clay, air-drying clay, epoxy putty, modelling plaster, paper pulp, fire cement, polyester filler, PCL) | 75–81 | 37, 48 |
+| Armatures | 81–83 | 26, 37 |
+| Planning molds; undercuts | 85–87 | 38 |
+| Plaster molds (one-piece, clay-wall, fence); plaster safety | 87–91 | 38 |
+| Flexible mold materials and mold types; release agents | 91–95 | 38 |
+| Silicone skin molds; gelatin mold material | 95–97 | 38 |
+| Life casting (materials, face procedure, large life molds) | 97–103 | 38 |
+| GRP: glass, polyester, epoxy, fillers, pigments, cores, tools | 105–111 | 36 |
+| GRP casting procedures; resin safety | 111–115 | 36, 20 |
+| Urethane resins and foams | 115–116 | 38, 32 |
+| Plaster-based and polymer plaster casts | 116–117 | 36, 38 |
+| Absorption (slush) casting with latex | 117–119 | 38 |
+| Papier-mâché, Celastic, thermoplastics, PCL | 119–120 | 36, 31 |
+| Clear casting | 120–121 | 38 |
+| Breakaway ceramics | 121 | 46 |
+| White-metal casting | 121–123 | 38 |
+| Expanded and extruded polystyrene: availability, cutting tools | 125–128 | 32 |
+| Turning polystyrene; hot wires | 128–132 | 32 |
+| Joining polystyrene | 132 | 32, 25 |
+| Approaches to carving | 132–136 | 37 |
+| Coating polystyrene (scrim, size gesso, proprietary, plaster, GRP) | 136–141 | 27, 32 |
+| Upholstery basics; fire retardancy; foam grades | 142–145 | 34, 32 |
+| Cutting, joining and shaping foam; wadding; calico; faux hide | 145–148 | 34, 32 |
+| Covering: drop-in, stuffed-over, curved edges, bordered seats, piping | 148–153 | 34 |
+| Buttoning (surface and deep) | 153–155 | 34 |
+| Paints: water- and solvent-based, brushes, dry pigments, glazes | 156–160 | 28 |
+| Wood graining | 160–164 | 28 |
+| Metallic finishes; metal leaf; bronze powders | 164–171 | 28 |
+| Ageing: dirt washes, rust, patina, peeling, crackle | 171–173 | 27, 28 |
+| Glossary | 174–184 | App. A |
+| Further reading; UK suppliers | 185–189 | App. C |
+
