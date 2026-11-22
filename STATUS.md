@@ -8,6 +8,9 @@
 
 A **master reference** that stands in for reading every source: readable front to back, and organized so you can look up any part of the job (admin, sourcing, any material, weapons, effects) and find the reference information, methods, safety and projects in one place. See CLAUDE.md for how new sources are integrated toward that goal.
 
+## Ready for the next source
+Open a new chat and give the book. CLAUDE.md Step 3 now spells out the fold-in procedure: a topic map first, then agree → add a citation, adds → merge into the existing section, disagrees → neutral inline note plus a table row, fills a gap → replace [General knowledge], tutorials → the material's projects file, and new prop types → Appendix F. All `claude/*` branches are merged into the default branch.
+
 ## Done
 - **Restructure (Nov 2026).** The guide was reorganized from 30 chapters into **53 chapters in eight part folders** (`guide/1-intro` … `guide/8-wider-craft`): Intro, Admin, Sourcing, Fabrication core, Materials (one chapter per medium, with project files beside chs. 33, 40 and 41), Weapons, Effects, and The Wider Craft. Old Appendices F, G and H became the project files `41-prop-food-recipes.md`, `33-eva-foam-projects.md` and `40-3d-printing-projects.md`. All links and chapter references were rewritten; source citations were left untouched. Old-to-new chapter map: 1→1, 2→2, 3→10, 4→6, 5→8 (+9), 6→11 (+15–18), 7→12, 8→13, 9→21, 10→20, 11→22, 12→23, 13→25 (+18), 14→29, 15→30, 16→31 (+32), 17→26, 18→34 (+35), 19→24, 20→37, 21→38, 22→36, 23→27, 24→28, 25→39, 26→46 (+42, 47–50), 27→7, 28→41, 29→33, 30→40.
 - **Projects, recipes and finder (Nov 2026).** Added a projects or recipes file beside every material chapter (29–32, 34–39) and beside chs. 27 and 28 (texture and paint recipes), each with sourced recipe cards, step-by-step tutorials and quick references; general-knowledge steps are marked. Added [Appendix F: "I Need to Make…" Finder](appendices/F-i-need-to-make.md), mapping about 50 common props to routes, chapters, projects and safety notes. Every material chapter now ends with a "Projects and recipes" pointer.
@@ -30,6 +33,8 @@ A **master reference** that stands in for reading every source: readable front t
 7. **KF product names and convention rules are unverified.** One figure may be a typo: magnets "7 mm radius and 2 mm high" (KF 18).
 8. **B's software, prices and filament data are mostly unverified.** Only Meshmixer, Fusion 360, Slic3r, Creative Commons and NIOSH were checked. B's rubric tables were reconstructed from the layout text; the project file gives criteria names and score levels only. One figure may be a typo: "lower the height to 0.5mm" to reveal detail (B 65). B spells the wax-printer maker "Soldiscape" (B 109); the guide doesn't name it.
 9. **Restructure follow-ups.** Some chapters that were split (e.g. 11, 31, 34, 46) still have key-term lists or classroom prompts covering material that moved; tidy these on the next pass. Tutorial steps in the new projects files that aren't from a source are marked [General knowledge]; some sourced steps cite a section's page range rather than an exact page.
+
+10. **Single-source chapters.** Chs. 33 (EVA, from KF), 40 (3D printing, from B) and 41 (prop food, from FF) still read largely as one book's method ("KF says…"). When a new book covers those materials, fold it in and rewrite toward a single synthesis, per CLAUDE.md Step 3.
 
 ## Possible next steps (not started — ask before doing)
 - Extend the finder and projects files as new sources arrive (each new book's tutorials go in the matching projects file).

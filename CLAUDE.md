@@ -12,7 +12,7 @@ This repo is a **props master guide** for university teaching and a possible tex
 ## Step 0: get the real guide before doing anything
 
 The session's clone may start **empty** or on a branch without the guide. That caused a whole wasted pass once.
-1. `git fetch origin` and `git branch -r`. Find the default branch with `git remote show origin | grep "HEAD branch"`.
+1. `git fetch origin` and `git branch -r`. Find the default branch with `git ls-remote --symref origin HEAD` (or `git remote show origin | grep "HEAD branch"`). As of Nov 2026 it is `claude/eloquent-cray-cbyf6u`.
 2. Base your working branch (the one the session tells you to use) on `origin/<default branch>`. If your branch already exists with unrelated history, merge the default branch in.
 3. Read `README.md`, `STATUS.md` and `appendices/C-sources-and-editions.md` before writing.
 
@@ -43,7 +43,7 @@ Web-search for the book's current edition and any sequels or companion volumes. 
 
 Cite as `(CODE page)` or `(CODE page–page)`. Add the source's page ranges to section headings, e.g. `## Release agents (H 265–267)`.
 
-**Structure.** Chapters live in part folders, numbered continuously across the guide:
+**Structure.** Chapters live in part folders. Chapters 1–53 are numbered continuously; any new chapter takes the next free number (54+) inside the right part folder, so existing links never change:
 
 | Folder | Part | Chapters |
 |---|---|---|
@@ -56,10 +56,37 @@ Cite as `(CODE page)` or `(CODE page–page)`. Add the source's page ranges to s
 | `guide/7-effects/` | Breakaways, eating/drinking/smoking, flame/smoke/sound, practicals and mechanisms, blood | 46–50 |
 | `guide/8-wider-craft/` | Set dressing, greens and florals, careers | 51–53 |
 
-**Where the material goes**
-- **Topics that existing chapters already cover:** add passages there, citing the new code, so each chapter reads as one synthesis rather than a list of book summaries. Add the code to that chapter's `> **Sources:**` line if it's a substantial contribution. Where a chapter section is marked **[General knowledge]**, replace or support it with the sourced material and remove the marker where the source now covers it.
-- **Subjects the guide doesn't cover yet:** add a new chapter `guide/<part folder>/NN-slug.md` in the right part. Inserting a chapter means renumbering later chapters and every reference to them; prefer adding to an existing chapter, or append at the end of a part only if the numbers allow. If a source has project tutorials or reference-style detail (recipes, build walkthroughs, project briefs, catalogues), put them in a companion file beside the material chapter (`NN-slug-projects.md` or `NN-slug-recipes.md`) and link it from the chapter's `> **Companion:**` line. Every material chapter (and chs. 27–28) already has one; add new tutorials and recipes to the existing file rather than starting another. Use appendices only for guide-wide reference (glossary, templates, sources, concordance, timeline, and the "I need to make…" finder in Appendix F). When a source adds a buildable prop type, add or update its row in Appendix F.
-- **Disagreements:** collect them in a `## Where the sources disagree` table (`Topic | <new> says | Other source says`) and repeat them inline where they matter. Use neutral wording only (see Hard rules).
+**Fold it in, don't add it on.** The test of a good integration: a reader of any chapter can't tell which book arrived last. Work in this order.
+
+1. **Make a topic map first** (in your scratchpad, not the repo). For every section of the new book, write: what it teaches → the guide chapter and section it belongs in (use the routing table below) → whether it **agrees with**, **adds to**, or **disagrees with** what's already there, or **fills a [General knowledge] gap**. Only after the map is complete, start editing.
+2. **Agrees** → don't repeat it. Add the new citation to the existing sentence, e.g. "(H 66; NEW 12)". Add any extra detail (a number, a tip, an example) into that same bullet or table row.
+3. **Adds to** → put it inside the existing section: a new bullet in the list, a new row or column in the table, a new step in the procedure. Re-order or re-head the section if needed so it reads as one synthesis. Don't create "What NEW says" blocks; attribute through citations, not separate paragraphs. A distinctive named method can be introduced by name ("Quindt's magnet joint…") within the flow.
+4. **Disagrees** → state both positions neutrally inline where it matters, and add a row to that chapter's `## Where the sources disagree` table (`Topic | <new> says | Other source says`; create the table if the chapter has none, placed before Key terms). See Hard rules.
+5. **Fills a gap** → where a section or line is marked **[General knowledge]** and the new book covers it, rewrite it from the source with citations and remove the marker. Keep general-knowledge lines that the source doesn't cover, still marked.
+6. **Tutorials, recipes, worked builds** → add them to the matching companion file beside the material chapter (`NN-…-projects.md` or `NN-…-recipes.md`; every Part 5 chapter and chs. 27–28 already has one). Fold steps into an existing project when it's the same build; otherwise add a new numbered project. Add or update rows in [Appendix F](appendices/F-i-need-to-make.md) for any prop type the book teaches you to make.
+7. **Genuinely new subjects only** → if no chapter covers a subject, first try a new section in the closest chapter. Only if it's a whole new area, add a chapter in the right part folder with the **next free number (54, 55…)**, so existing numbers and links don't change, and add it to the README contents under its part.
+8. **Update `> **Sources:**` lines** of every chapter you contributed to substantively.
+9. **Self-check before Step 4:** `grep -c "(CODE " guide -r` should show the new code spread across many chapters, not concentrated in one. Re-read each touched section once to make sure it flows as a single text.
+
+**Routing table: where does it go?**
+
+| The book covers… | Goes in |
+|---|---|
+| Definitions, categories, the job, film/TV differences, theory, history | chs. 1–5 |
+| Script breakdown, research, budgets, scheduling, staffing, departments, rehearsals, strike, storage | chs. 6–13 (and rules worth quoting → ch. 14) |
+| Shopping, rental, borrowing, alteration, reuse | chs. 15–19 |
+| Safety, PPE, ventilation, chemicals | ch. 20 (plus a short pointer in the material chapter) |
+| Tools and shop setup | ch. 21 |
+| Design process, drawings, patterns | chs. 22–24 |
+| Glues, fasteners, tapes | ch. 25 |
+| Structure, armatures | ch. 26 |
+| Fillers, texture, distressing, coatings, flame-proofing | ch. 27 (+ recipes file) |
+| Paint, dye, faux finishes, stain | ch. 28 (+ recipes file) |
+| A specific material (wood, metal, plastics, foams, EVA, fabric, leather, shells, sculpting, casting, paper, 3D printing, food) | its Part 5 chapter, chs. 29–41 (+ projects file) |
+| Weapons, stage combat, firearms, armour | chs. 42–45 |
+| Breakaways, food/drink/smoking onstage, flame/smoke/sound, practicals/electrics/mechanisms, blood | chs. 46–50 |
+| Set dressing, greens, careers | chs. 51–53 |
+| Dates and period objects | ch. 7 and Appendix E |
 
 **Chapter format** (copy any existing chapter, e.g. `guide/5-materials/41-prop-food.md`):
 ```
@@ -88,9 +115,11 @@ term · term · term
 
 ## Step 4: update every shared file (checklist)
 
-- [ ] **README.md:** the source count ("brings N books together"), the Part and chapter list, the appendix list, the citation-key table row (with edition notes), the example citation line, and the status line.
+- [ ] **README.md:** the source count ("brings N books together"), the chapter list (only if you added a chapter), the appendix list, the citation-key table row (with edition notes), the example citation line, and the status line.
 - [ ] **appendices/C-sources-and-editions.md:** a core-sources table row (edition used, current edition, ISBNs, page offset, scan quality, which chapters use it), verification-source URLs, and rows in the volatile-information register.
-- [ ] **appendices/D-concordance.md:** the code in the intro paragraph, a row in "By guide chapter" for any new chapter or appendix, and a new `## <Author> (CODE) by subject` table (Subject | pages | related chapters).
+- [ ] **appendices/D-concordance.md:** the code in the intro paragraph; add the code's pages to the "Other sources" column of each chapter row it contributes to (and a row for any new chapter); and a new `## <Author> (CODE) by subject` table (Subject | pages | related guide chapters).
+- [ ] **Companion files and finder:** tutorials and recipes in the matching projects/recipes files; new rows in Appendix F.
+- [ ] **[General knowledge] markers:** removed wherever the new source now covers the content; STATUS item 1 updated to match.
 - [ ] **appendices/A-glossary.md:** new terms in **alphabetical order**, formatted `**Term** — definition. (ch. N)`. Extend existing entries rather than duplicating them.
 - [ ] **STATUS.md:** under Done, what was added. Under Blocked/open, any OCR gaps, truncation or unverified facts. Update "Last updated". STATUS is handoff context; stable facts belong in the README and Appendix C.
 - [ ] **Cross-references:** add one- or two-line pointers from related existing chapters to the new material.
@@ -100,4 +129,4 @@ term · term · term
 1. Run `python3 tools/check_links.py`. It must report 0 broken links. Anchors use GitHub slugs: lowercase, punctuation dropped (en dashes too), spaces become hyphens.
 2. Commit with a descriptive message and push your working branch.
 3. **Merge everything into the default branch.** Fast-forward or merge your branch into `origin/<default>` and push. Then check `git branch -r`: every `claude/*` branch with work should be merged into the default branch, and the default branch should be up to date.
-4. Report back briefly: what was added and where, the disagreements found (stated neutrally), OCR or truncation gaps, the edition-check result, and anything left open.
+4. Report back briefly: how the book was folded in (which chapters and companion files it touched, and which [General knowledge] sections it replaced), the disagreements found (stated neutrally), OCR or truncation gaps, the edition-check result, and anything left open.
