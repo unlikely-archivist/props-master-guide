@@ -10,6 +10,9 @@ Recipes and starter projects for [ch. 36](36-shells-and-laminates.md). Hart advi
 | **PVA mâché binder** | White glue thinned with water (H 297–301) | Strong and flexible. Carpenter's glue is stiffer and sands better |
 | **Paper pulp** | Blended paper + binder (H 297–301) | Sculpt features; final skim coat |
 | **Felt stiffener** | PVA diluted up to 1 part water : 2 parts glue (H 292–293) | Soak industrial wool felt, wring out, mould like wet leather |
+| **Size-and-paste mâché binder** | Strong glue size mixed with wallpaper paste (W 119) | Cheap, easy and particularly tough. Size recipe in [ch. 27 recipes](../4-fabrication-core/27-surfaces-and-texture-recipes.md) |
+| **DIY polyester filler** | General-purpose laminating resin + 0.5–1% MEKP + talc, whiting, dry clay or other cheap filler (W 80–81) | A cheap body-filler substitute for quick repairs; carves and sands soon after setting |
+| **Metal-filled gel coat (cold casting)** | Metal powder at least equal to resin by volume, in laminating resin; raise polyester's catalyst per the supplier (W 110) | Brush into the mould first; polish after curing with steel wool, wet-and-dry and metal polish |
 
 ## Project 1: a papier-mâché bowl or mask (H 9, 297–301)
 
@@ -46,8 +49,36 @@ Hart recommends water-based resins for beginners, because they're far less toxic
 4. Lay the next layer crosswise over the previous seams. Two layers suffice for most hand props (H 303–305).
 5. Demold at the green stage, trim, and **seal every edge**: protruding strands are like needles (H 305–306).
 
+## Project 5: a polyester GRP cast in a plaster waste mould (W 111–112)
+
+**Teaches:** gel coat, lay-up, flow coat, breaking out a waste mould. Polyester needs proper ventilation ([ch. 20](../4-fabrication-core/20-health-and-safety.md)); a water-based resin can stand in for the same sequence (H 303).
+1. Make sure the mould is **dry**. Apply release: a water-based film-forming product (such as one based on sodium alginate) or a soft wax (W 111).
+2. Catalyse some **gel coat** resin, adding pigment if wanted, and brush it into the mould. For metal powders, use laminating resin instead of gel coat. Let it gel (W 111).
+3. Catalyse laminating resin. Mix some with talc and **fillet sharp corners** (W 111).
+4. Press pieces of **torn** glass mat into the tacky gel coat and paint on laminating resin. Work with a brush or roller until the binder dissolves and the glass **turns transparent**. Add layers as needed, with core layers or extra glass for a thicker sandwich (W 111).
+5. Smooth the back with a **flow coat** (laminating resin with pigment and a little silica), or spread heavily thickened paste and press polypropylene sheet over it for a very smooth finish (W 111).
+6. Wash tools in hot water and washing-up liquid, or acetone if needed again right away (W 111).
+7. When cured, trim excess glass with scissors, grinder or sander. Break the mould away under **running water**, which helps separate it and washes off the parting film (W 112).
+
+## Project 6: epoxy and chopped glass in a silicone mould (W 112–115)
+
+**Teaches:** fast paste lay-up. Not for masks that will be worn (W 115).
+1. Brush a "gel coat" of slightly thickened, pigmented epoxy into the silicone mould to pick up detail and hide the glass (W 112).
+2. Mix resin and hardener (pigment if wanted, ideally a **different colour** from the gel coat so thin spots show) (W 112, 115).
+3. Stir in chopped strands until the mix forms **soggy, wafer-like mats** on the stick: just enough resin to hold the glass together (W 112).
+4. Lay it into the mould with a wooden spatula, spreading the self-forming layers evenly (W 115).
+5. After curing, demould wearing gloves and file or belt-sand off the **razor-sharp glass spikes** before anyone handles it bare-handed (W 115).
+
 ## Quick reference
 
 **Papier-mâché vs. fiberglass** (H 299, 302): a well-sealed mâché prop can outlast fiberglass because it flexes under impact instead of shattering.
 
 **Polyester resin conditions** (H 303): 60–85°F and under 60% relative humidity. Petroleum jelly inhibits its surface cure (H 303–305).
+
+**Polyester catalyst** (W 108): MEKP at 0.5–3%. Never let neat accelerator and catalyst touch.
+
+**Resin per layer** (W 107): CSM takes about twice its own weight of resin; glass cloth about its own weight. 300 g/m² CSM for complex shapes, 600–900 g/m² for plain areas.
+
+**Pigment limit** (W 110): no more than about 10% pigment by weight.
+
+**Runaway pot** (W 114): cover with cold water and take it outside.
