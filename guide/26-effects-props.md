@@ -40,6 +40,7 @@ What the sources establish:
 - **Dull every blade and sharp edge** on onstage knives, swords and axes (bench grinder, stone, metal sandpaper) (M 148). Stage-combat blades are made of **spring steel** (e.g., 5160) so they flex instead of snapping (H 158). Film combat blades in 7075 aluminum read as steel on camera, but dent too quickly for a stage run (H 160). An axe that really splits a melon nightly needs a genuine tool-steel edge (H 159), which is exactly the kind of prop that needs a careful safety plan.
 - **Lock up all weapons, real or not**, every night (M 148–149; see also [ch. 7](07-rehearsals-tech-and-performance.md#performances-m-137138)).
 - Coordinate weapons, breakaways and fights with the **fight director**, or the **stunt department** in film (H 4).
+- For period names and dates of armor, polearms, swords and firing mechanisms (matchlock, wheel lock, flintlock), see [Appendix E §11](../appendices/E-period-props-timeline.md#11-arms-and-armor) and [ch. 27](27-period-research.md#arms-armor-and-authority-vocabulary-first). Accuracy never overrides the safety rules above.
 
 ## Breakaways (H 3–4; H 77, 190–191, 274–275)
 

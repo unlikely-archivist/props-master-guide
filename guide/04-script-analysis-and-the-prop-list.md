@@ -33,7 +33,7 @@ Expect the list to grow throughout rehearsal. Stay in close contact with the dir
 
 For every prop, think about:
 
-- **Period and style.** Confirm the production's period early, because directors often relocate classics (M 95).
+- **Period and style.** Confirm the production's period early, because directors often relocate classics (M 95). Then check every object against it: see [ch. 27](27-period-research.md) for research methods and [Appendix E](../appendices/E-period-props-timeline.md) for quick dates.
 - **Function and action.** What does it *do*? Mussman's example is an armchair that a heavy chef dances on in the last scene: it must be reinforced and checked throughout the run. Newspapers with specific headlines may be read up close (M 96). Hart's rule is to **plan for the worst case**: "If you are told the actor will stand on a table, assume they will jump on it" (H 13).
 - **Consumables.** How many does each performance use? Multiply by every rehearsal, dress, preview and performance (M 8, 96).
 - **Effects.** "If it shoots, catches fire, creates smoke, changes shape, or performs a trick," flag it for extra planning (M 96).

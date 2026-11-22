@@ -2,9 +2,9 @@
 
 A consolidated, topic-organized guide to **theatrical properties (props)** — managing a props department and building props — written for teaching at the university level and as groundwork for a possible textbook.
 
-It synthesizes three books into one structure, with page citations so every point can be traced to its source, plus classroom prompts, key-term lists, original paperwork templates, and flags on information that may be out of date.
+It brings four books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, and flags on information that may be out of date.
 
-> **Status:** Draft complete for management and fabrication. The effects-props chapter is partial (one source file was truncated). See [STATUS.md](STATUS.md).
+> **Status:** Draft complete for management, fabrication and period research. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
 
 ---
 
@@ -46,11 +46,15 @@ It synthesizes three books into one structure, with page citations so every poin
 ### Part 5 — Effects
 26. [Effects Props: Weapons, Food, Flame, and Tricks](guide/26-effects-props.md) *(partial)*
 
+### Part 6 — Period Research
+27. [Period Research and Historical Accuracy](guide/27-period-research.md)
+
 ### Appendices
 - A. [Glossary](appendices/A-glossary.md)
 - B. [Paperwork Templates](appendices/B-paperwork-templates.md) — prop list, cost breakdown, to-do list, ledger, loan-agreement checklist, check-out form, rehearsal-note log, preset sheet, prop bible checklist, strike checklist, tool kit, effect safety plan, handoff inspection
 - C. [Sources, Editions, and What to Verify](appendices/C-sources-and-editions.md)
 - D. [Concordance (Topic → Source Pages)](appendices/D-concordance.md)
+- E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
 
 Every chapter follows the same pattern: a sources line, the content, a **Key terms** list, and **For the classroom** prompts (discussion questions and hands-on projects).
 
@@ -63,8 +67,9 @@ Every chapter follows the same pattern: a sources line, the content, a **Key ter
 | **M** | Amy Mussman, *The Prop Master: A Guidebook for Successful Theatrical Prop Management*. Meriwether, 2008. | 1st (only) edition |
 | **H** | Eric Hart, *The Prop Building Guidebook: For Theatre, Film, and TV*. Focal Press, **2013 (1st ed.)**. | 1st edition — **current edition is the 3rd (Routledge, 2024)**; page numbers differ |
 | **HE** | Eric Hart, *The Prop Effects Guidebook: Lights, Motion, Sound, and Magic*. Routledge, 2018 (1st ed.); 2nd ed. 2025. | Not yet incorporated (file was truncated) |
+| **J** | Thurston James, *The What, Where, When of Theater Props: An Illustrated Chronology from Arrowheads to Video Games*. Betterway Books, **1992 (1st ed.)**. | 1st edition. A revised 2nd edition (Players Press, 2000/2001) appears as *The Theater Props What, Where, When*; its page numbers may differ |
 
-Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13.
+Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92.
 
 **Markers used in the text**
 - **[Check current]** — information that changes (regulations, product names, prices, technology, law). See the [volatile-information register](appendices/C-sources-and-editions.md#volatile-information-register).
@@ -75,7 +80,7 @@ Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 
 
 ## Using this for teaching
 
-- **Course spine:** Parts 1–3 suit an introductory props or production-management unit; Part 4 maps onto a studio/shop course; the classroom prompts are ordered roughly from discussion to hands-on.
+- **Course spine:** Parts 1–3 suit an introductory props or production-management unit. Part 4 maps onto a studio or shop course. Part 6 and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 4](guide/04-script-analysis-and-the-prop-list.md)). The classroom prompts run roughly from discussion to hands-on.
 - **Safety first:** Make [ch. 10](guide/10-health-and-safety.md) and machine checkouts a prerequisite for shop work, and align them with your institution's Environmental Health & Safety (EHS) office.
 - **Project-based learning:** Hart recommends learning each craft by making a small, complete object (a birdhouse for woodworking, a soap carving for sculpting, a pillowcase for sewing, a recovered drop seat for upholstery, a plaster press-mold for casting, papier-mâché before fiberglass) rather than drilling isolated techniques (H 9). Many classroom prompts follow that model.
 - **Assigning the books:** If students buy Hart, assign the current editions; the chapter topics here line up with Hart's chapter titles even where page numbers don't.

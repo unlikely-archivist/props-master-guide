@@ -7,6 +7,7 @@
 | **M** | Amy Mussman, *The Prop Master: A Guidebook for Successful Theatrical Prop Management* (Meriwether Publishing) | 1st ed., 2008. ISBN 978-1-56608-154-2 | Same. No later edition found | Management and process focus, theatre only. Page numbers in this guide are the printed book pages (the scanned PDF's page minus 6) |
 | **H** | Eric Hart, *The Prop Building Guidebook: For Theatre, Film, and TV* (Focal Press/Routledge) | **1st ed., 2013** (the uploaded file was labeled "2020," but its copyright page reads 2013) | **3rd ed., Routledge, 2024**; 2nd ed. 2017 | Fabrication focus. **Page numbers in this guide refer to the 1st edition** (the PDF's page minus 8) and will not match later editions. Later editions add step-by-step photo sequences (upholstery, mold making, faux finishing) and expand thermoplastics, foam and water-based coatings |
 | **HE** | Eric Hart, *The Prop Effects Guidebook: Lights, Motion, Sound, and Magic* (Routledge) | Uploaded 1st-edition (2018) EPUB was **truncated**; only the table of contents survived | **2nd ed., Routledge, 2025** | Not yet incorporated. See [ch. 26](../guide/26-effects-props.md) and [STATUS.md](../STATUS.md) |
+| **J** | Thurston James, *The What, Where, When of Theater Props: An Illustrated Chronology from Arrowheads to Video Games* (Betterway Books, Cincinnati) | 1st ed., 1992. ISBN 1-55870-258-X (hardcover) / 1-55870-257-1 (paperback) | **Revised 2nd ed., Players Press, 2000/2001**, cataloged as *The Theater Props What, Where, When* (ISBN 978-0-88734-935-5). Catalogs list the same page count (222); the changes are unknown | An illustrated dictionary and chronology of period objects (Western focus; ends in 1992). The author was UCLA's prop master. Page numbers in this guide are the printed pages (the scanned PDF's page minus 6). Used for [ch. 27](../guide/27-period-research.md) and [Appendix E](E-period-props-timeline.md). **Some dates are popular-history approximations, and a few are wrong** (see ch. 27's spot-check table). One entry (p. 165) uses an ethnic slur, so preview before assigning |
 
 **Recommendation for teaching:** if you assign Hart, use the **current editions** (PBG 3rd ed., 2024; PEG 2nd ed., 2025) and expect chapter and page numbers to differ from the citations here. The chapter *topics* in this guide map closely onto Hart's chapter structure, so students can find the matching sections. Mussman's book remains the only edition.
 
@@ -16,6 +17,14 @@
 - Hart PEG 1st ed. (2018) and 2nd ed. (2025): [Schweitzer listing, 2nd ed.](https://www.schweitzer-online.de/en/buch/Hart/Prop-Effects-Guidebook/9781032714820/A72953035/); [Routledge](https://www.routledge.com/The-Prop-Effects-Guidebook-Lights-Motion-Sound-and-Magic/Hart/p/book/9781032714844)
 - Mussman (2008, no later edition found): [Barnes & Noble listing](https://www.barnesandnoble.com/w/the-prop-master-amy-mussman/1008979551)
 - Rossol, *Health & Safety Guide for Film, TV & Theater*, 2nd ed. (2011) appears to be the latest: [Everand listing](https://www.everand.com/book/396764971/The-Health-Safety-Guide-for-Film-TV-Theater-Second-Edition)
+- James (1992 1st ed.; revised 2nd ed. Players Press, 2000/2001): [Open Library work record](https://openlibrary.org/works/OL544822W); [East Carolina University catalog](https://lib.ecu.edu/catalog-preview/catalog/489865); [BooksRun listing, 1st ed.](https://booksrun.com/9781558702585-the-what-where-when-of-theater-props-an-illustrated-chronology-from-arrowheads-to-video-games-1st-edition)
+
+### Date spot-checks for ch. 27 and Appendix E (Nov 2026)
+- US flag proportions (hoist 1.0 : fly 1.9), Executive Order 10834 (1959): [National Archives](https://www.archives.gov/federal-register/codification/executive-order/10834.html)
+- Minute hands spread from the 1650s to about 1690, after Huygens's 1656 pendulum: [Wikipedia, "Pendulum clock"](https://en.wikipedia.org/wiki/Pendulum_clock); [Britannica, "Clock"](https://www.britannica.com/technology/clock/Introduction)
+- Spectacle temples c. 1727 (Edward Scarlett): [College of Optometrists](https://www.college-optometrists.org/history-of-spectacles)
+- Envelopes rare before the 1840 penny post; Mulready pre-paid envelopes 1840: [National Postal Museum](https://postalmuseum.si.edu/exhibition/the-queen%E2%80%99s-own-postal-reforms-that-transformed-the-mail/mulready-stationery); [UK National Archives](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/victorians/victorian-envelopes/)
+- Good Friday color: black before the reforms, red from the 1970 Roman Missal: [Wikipedia, "Liturgical colours"](https://en.wikipedia.org/wiki/Liturgical_colours)
 
 ## Further reading cited by the sources
 
@@ -50,6 +59,7 @@ Both bibliographies are dated. **Check for newer editions before assigning.** St
 
 **Reference and research**
 - Aronson, *The Encyclopedia of Furniture* (1961); Miller, *The Style Sourcebook* (1998); the 1897 Sears, Roebuck catalog reprint; Taschen's *All American Ads* series; Dover Publications image books.
+- Selected from James's bibliography (J 207–209): Panati, *Extraordinary Origins of Everyday Things* (1987); Gloag, *A Short Dictionary of Furniture* (1965); Miller & Miller, *The Antiques Directory* (1988); Milham, *Time and Timekeepers* (1923); Hayward, *Colonial Lighting* (Dover); Cuffley, *Oil and Kerosene Lamps* (1982); Crampton, *The Complete Guide to Flags* (1989); Norman & Pottinger, *English Weapons and Warfare* (1979); Stone, *A Glossary of the Construction, Decoration and Use of Arms and Armour*; Povey & Earl, *Vintage Telephones of the World* (1988); Sears catalog reprints (1902, 1908). These are popular and collector references; check for newer scholarship.
 
 **Careers and portfolios**
 - Lawler, *Careers in Technical Theater* (2007); Moody, *The Business of Theatrical Design* (2002); Jaen, *Show Case* (portfolio guide, 2012).
@@ -75,6 +85,8 @@ The guide flags these items with **[Check current]**. Re-verify them before teac
 | 3D printing and digital fabrication | Changed dramatically since 2013 (PLA/PETG/resin printers now common) | chs. 9, 16 |
 | Copyright and trademark clearance | Jurisdiction- and case-specific | ch. 25 |
 | Website availability (companion sites, forums) | Link rot | this appendix |
+| **Historical object dates** | James (1992) uses popular histories; some dates are disputed or wrong; nothing after 1992 | ch. 27, App. E |
+| Religious practice and ritual objects | Practice changes (e.g., post-1960s Catholic reforms) and varies by community; needs consultation | ch. 27 |
 
 ## Copyright note (for the textbook)
 

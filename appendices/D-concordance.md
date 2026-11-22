@@ -1,6 +1,6 @@
 # Appendix D: Concordance (Topic → Source Pages)
 
-Use this to trace any topic back to the source books. **M** = Mussman (2008), book pages. **H** = Hart, *Prop Building Guidebook*, **1st ed. (2013)** pages. Later editions are paginated differently, but Hart's chapter titles remain a good guide. **HE** = Hart, *Prop Effects Guidebook*, chapter numbers from the 1st-edition table of contents (text not yet incorporated).
+Use this to trace any topic back to the source books. **M** = Mussman (2008), book pages. **H** = Hart, *Prop Building Guidebook*, **1st ed. (2013)** pages. Later editions are paginated differently, but Hart's chapter titles remain a good guide. **HE** = Hart, *Prop Effects Guidebook*, chapter numbers from the 1st-edition table of contents (text not yet incorporated). **J** = James, *The What, Where, When of Theater Props* (1992), book pages. See the [James table](#james-j-by-subject) below.
 
 ## By guide chapter
 
@@ -32,8 +32,10 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | 24. Painting, dyeing, finishing | pp. 57–59, 158–159 | ch.17, pp. 321–351 | — |
 | 25. Graphics & paper props | pp. 80, 158 | ch.18, pp. 352–360 | — |
 | 26. Effects props | pp. 7–10, 147–151, 156–157 | pp. 2–7, 77, 190–191, 274–275 | chs. 2–11 (all) |
+| 27. Period research | pp. 78–82, 95 | — | — (J: whole book, esp. pp. 9–10) |
 | App. A Glossary | glossary pp. 163–180 | throughout | — |
-| App. C Sources | bibliography pp. 181–182 | bibliography pp. 368–370 | — |
+| App. C Sources | bibliography pp. 181–182 | bibliography pp. 368–370 | — (J: bibliography pp. 207–209) |
+| App. E Period timeline | — | — | — (J: pp. 13–206) |
 
 ## By topic (quick lookup)
 
@@ -99,3 +101,34 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | Vacuum forming | — | 174–175, 178 |
 | Welding | 66 | 142–154 |
 | Wood types & lumber | 55 | 122–128 |
+
+## James (J) by subject
+
+| Subject | J pages | Related guide chapters |
+|---|---|---|
+| Introduction: why prop masters need a chronology; research files; limits of the book | 9–10 | 27, 6 |
+| Eating: foods timeline, utensils | 13–15 | 26 (food), App. E §1 |
+| Drinking: spirits, period drinks, beer/wine/cocktail glassware and sizes, garnishes, historical vessels, volume chart | 16–31 | 26 (stage drinks), App. E §1 |
+| Smoking pipes, tobacco, snuff, cigarettes | 32–39 | 26 (smoking), App. E §2 |
+| Games and gambling; cards | 40–46 | App. E §8 |
+| Toys | 47 | App. E §8 |
+| Furniture: bathroom, beds, benches and sofas, cabinets, chairs and stools, chests, tables and desks | 48–86 | 14, 18, 27, App. E §9 |
+| Furniture styles | 87–91 | 27, App. E §10 |
+| Clocks and watches | 92–97 | 27, App. E §4 |
+| Lamps and lanterns | 98–104 | 26 (practicals, flame), App. E §3 |
+| Matches and fire-starting | 105–107 | 26 (live flame), App. E §3 |
+| Writing tools and supplies | 108–111 | 25, App. E §5 |
+| Eyeglasses; hearing aids | 112–115 | 27, App. E §6 |
+| Appliances: brooms and vacuums, can openers, irons, coffeemakers, mixers, phonographs, refrigerators, razors, sewing machines, toasters, toothbrushes, washing machines | 116–128 | App. E §7–8 |
+| Scepters and crowns | 131–134 | App. E §12 |
+| Standards and flags (incl. flag vocabulary) | 135–140 | 25, App. E §12 |
+| Punishments | 141–145 | App. E §12 |
+| Armor (incl. helmets, horse barding) | 149–153 | 26, App. E §11 |
+| Weapons: bows, guns, cannon chart, hand weapons, knives, polearms, shields, siege machines, swords | 154–176 | 26, App. E §11 |
+| Stone Age tools | 179–180 | App. E §13 |
+| Alchemy apparatus | 181–185 | App. E §13 |
+| Dowsing | 186–187 | App. E §13 |
+| Telephones (Bell System) | 188–191 | 27, App. E §8 |
+| Catholic ceremonial objects (altar, crosses, symbols, liturgical colors, implements of the Mass) | 195–202 | 27 |
+| Jewish ceremonial objects (home and synagogue) | 203–206 | 27 |
+| Sources | 207–209 | App. C |

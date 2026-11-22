@@ -124,7 +124,7 @@ Buying tips (M 117):
 Manufacturers will usually tell you which retailers stock their products. Weigh shipping costs and delivery time against driving time. **Keep a vendor list** (H 364) and a contacts list: antique shops, area prop masters, designers, rental houses, repair shops, other theatres and freelancers (M 83).
 
 ### Catalogs and references (M 78–82)
-Keep a working library of how-to and reference books (furniture styles, period ads, the 1897 Sears catalog reprint, weapons, bottles, coins and so on) and a **research file** of clippings, photos and instructions from past shows. If you keep supplier catalogs, **don't order from outdated ones**, and respect copyright when reproducing images.
+Keep a working library of how-to and reference books (furniture styles, period ads, the 1897 Sears catalog reprint, weapons, bottles, coins and so on) and a **research file** of clippings, photos and instructions from past shows. If you keep supplier catalogs, **don't order from outdated ones**, and respect copyright when reproducing images. For organizing a research file and checking dates, see [ch. 27](27-period-research.md#building-a-research-file).
 
 ## Build (M 115–117; H 5–6)
 

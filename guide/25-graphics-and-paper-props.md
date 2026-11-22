@@ -7,7 +7,7 @@ Letters, newspapers, labels, signs, books, money, tickets, maps and posters all 
 
 ## Content: what's written on it (H 353)
 
-- **Film and TV close-ups need "real" text.** Include every word the actors speak, and fill the rest with period or location research.
+- **Film and TV close-ups need "real" text.** Include every word the actors speak, and fill the rest with period or location research. Check the writing technology too: a letter before the 1840s was usually folded and wax-sealed rather than put in an envelope, and quill, steel nib, fountain pen, typewriter and ballpoint each leave a different trace ([Appendix E §5](../appendices/E-period-props-timeline.md#5-writing-and-paper)).
 - **Stage props that will never be read closely** can use illegible script, repeated blocks of text, or **lorem ipsum** filler.
 - **Never write anything "funny" or "clever."** Even disciplined actors get distracted or break character when they spot it.
 - **Ask the actor.** Some want their lines on the page they "read"; others want nothing resembling their lines.
