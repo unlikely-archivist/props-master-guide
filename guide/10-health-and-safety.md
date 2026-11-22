@@ -64,7 +64,7 @@ Employees should follow shop procedures, use the PPE provided, **report injuries
 - **"Just this once"** is how injuries happen. So is the inattention of habit.
 - **Ladders**: use them only as designed, with latches locked and both hands for climbing. *Never* stand an extension ladder on an A-frame (M 146).
 
-Table-saw specifics are in [ch. 14](14-carpentry.md#the-table-saw); welding specifics are in [ch. 15](15-metalworking.md#welding-safety).
+Table-saw specifics are in [ch. 14](14-carpentry.md#the-table-saw); welding specifics are in [ch. 15](15-metalworking.md#welding-safety-h-142144).
 
 ## Chemicals and hazardous substances
 
@@ -163,5 +163,5 @@ safety infrastructure · PPE · SDS (formerly MSDS) · GHS · sensitizer · acut
 
 - **SDS scavenger hunt.** Students pull the SDS for five products in your shop and report: hazards, required PPE, cartridge type, disposal method, and whether a safer substitute exists.
 - **Glove lab.** Using a manufacturer's permeation chart, students choose gloves for acetone, epoxy, polyurethane resin and latex paint.
-- **Case studies.** Discuss Hart's sensitization story and the plaster-entrapment injury in [ch. 21](21-molding-and-casting.md#molding-the-human-body). What infrastructure would have prevented each?
+- **Case studies.** Discuss Hart's sensitization story and the plaster-entrapment injury in [ch. 21](21-molding-and-casting.md#molding-the-human-body-h-286290). What infrastructure would have prevented each?
 - **Required checkouts.** Make the safety orientation and machine checkouts a graded prerequisite for shop access. Coordinate with your EHS office.
