@@ -38,7 +38,7 @@ Dressing is usually pulled from stock, borrowed or rented rather than built ([Pa
 - **Keep dressing kits in stock** by type (office, kitchen, study, bar, nursery) and by period.
 - **Rent in bulk** from rental houses for big naturalistic sets ([ch. 16](../3-sourcing/16-renting.md)).
 - **Thrift and charity shops** are the cheapest source of everyday clutter ([ch. 15](../3-sourcing/15-shopping.md)).
-- **Check fire safety**: paper, fabric and dried plants near lights need flame-retardant treatment ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320)).
+- **Check fire safety**: paper, fabric and dried plants near lights need flame-retardant treatment ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320-w-1718)).
 
 ## Film and TV set decoration [General knowledge]
 

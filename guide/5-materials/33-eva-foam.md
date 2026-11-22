@@ -238,7 +238,7 @@ Painting raw foam gives a rough, fuzzy finish. KF compares it to frosting raw ca
 
 **Combining them.** On large props KF sprays PlastiDip over everything for speed, then brushes Flexbond only on sanded areas so they smooth out (shield, KF 36). On the claws she did it the other way round: three coats of Flexbond on sanded areas first, then three of PlastiDip over everything (KF 40). See the build cards in [ch. 33 build walkthroughs](33-eva-foam-projects.md).
 
-FF also lists FlexBond as a primer for foam food props (FF 15). Compare the foam-coating options in [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317) and the primer families in [ch. 28](../4-fabrication-core/28-painting-and-finishing.md#priming-h-333334).
+FF also lists FlexBond as a primer for foam food props (FF 15). Compare the foam-coating options in [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317-w-136141) and the primer families in [ch. 28](../4-fabrication-core/28-painting-and-finishing.md#priming-h-333334).
 
 ## Painting and sealing (KF 7, 30, 36, 40, 44, 47)
 
@@ -281,7 +281,7 @@ KF is written for one maker building for themselves. The points below aren't in 
 - **Durability over a run.** A cosplay prop is carried for a day or a weekend; a show prop may be handled eight times a week for months. Test primer and paint flexibility against the actual handling, and plan touch-up.
 - **Stage combat.** A foam-wrapped rod is still a rod. Any contact use needs the fight director's approval, and core ends must be fully embedded and padded ([ch. 42](../6-weapons/42-weapons-safety-and-policy.md#what-the-sources-say-m-147149-h-7); [ch. 26](../4-fabrication-core/26-structure-and-armatures.md#rigid-vs-flexible-h-190191)).
 - **Magnet joints** that pull apart easily for travel may also separate when the prop is swung. For an onstage prop that gets swung, use a positive lock or a permanent joint, and keep the split for load-in only.
-- **Flame retardancy.** Check EVA foam, foam clay and coatings with your fire marshal and the SDS before they go in front of an audience ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320)).
+- **Flame retardancy.** Check EVA foam, foam clay and coatings with your fire marshal and the SDS before they go in front of an audience ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320-w-1718)).
 - **Reference.** KF copies existing video-game props. In production, the designer's drawings replace the game reference, but KF's tracing, scale-testing and pattern-cutting workflow carries over directly ([ch. 6](../2-admin/06-script-breakdown-and-prop-list.md); [ch. 23](../4-fabrication-core/23-drawings-measuring-and-layout.md)).
 
 ## Where the sources disagree
@@ -305,6 +305,6 @@ EVA foam (high / low density) · foam clay · foam dowel / bevel · blueprint ·
 - **Blueprint from a bad reference.** Give students a distorted screenshot or a photo of an object taken at an angle. Each traces a clean front and side view in Inkscape, correcting the perspective, then prints it tiled at full size and defends the scale with a paper-dummy photo ([ch. 23](../4-fabrication-core/23-drawings-measuring-and-layout.md)).
 - **Bevel and blade drill.** Each student makes a 30 cm practice dagger (KF 15): two laminated layers around a rod core, a sanded bevel, hand-sanding, heat-sealing. Compare high- and low-density versions for wobble and finish.
 - **Texture sampler.** On one 2 mm and one 10 mm sheet, students make wood grain, burned scales, foil leather, hammered metal and basket weave. Then they brush-prime half of each panel with three coats of flexible primer and note which textures survive.
-- **Primer shoot-out.** Prime identical sanded foam strips with a brush-on flexible primer, a spray rubber primer and a combination. Paint them all the same way, then bend, scratch and flex-test them. Record time, cost and smoothness. Tie to [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317).
+- **Primer shoot-out.** Prime identical sanded foam strips with a brush-on flexible primer, a spray rubber primer and a combination. Paint them all the same way, then bend, scratch and flex-test them. Record time, cost and smoothness. Tie to [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317-w-136141).
 - **Travel joint.** Teams take a 1.8 m PVC-cored staff and design a joint so it fits a given car boot or airline limit. One team uses KF's magnet joint (KF 18–19), another a plumbing screw coupling, a third a design of their own. Swing-test all three and discuss which would be safe onstage.
 - **Adhesive comparison.** Bond EVA to EVA with contact cement and with hot glue, then peel-test and flex-test the joints. Use the results to discuss the sources' different recommendations, without declaring a winner.

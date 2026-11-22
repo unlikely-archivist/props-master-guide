@@ -32,7 +32,7 @@ Look up the prop, then follow the links. Each row lists the usual **routes** (bu
 | A table or bench built to size | Build in wood | [ch. 29](../guide/5-materials/29-wood.md), [wood projects](../guide/5-materials/29-wood-projects.md) | Break edges; compression legs ([ch. 26](../guide/4-fabrication-core/26-structure-and-armatures.md)) |
 | A dresser, wardrobe or cabinet | Build a carcass and layer detail | [wood projects](../guide/5-materials/29-wood-projects.md#project-4-a-dresser-with-one-working-drawer-h-117119) | Cumulative width; one working drawer |
 | A recovered or new upholstered seat | Upholster | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md), [fabric projects](../guide/5-materials/34-fabric-and-upholstery-projects.md) | Flame retardancy |
-| Curtains, drapes, cushions | Sew or buy | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md) | Flame retardancy ([ch. 27](../guide/4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320)) |
+| Curtains, drapes, cushions | Sew or buy | [ch. 34](../guide/5-materials/34-fabric-and-upholstery.md) | Flame retardancy ([ch. 27](../guide/4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320-w-1718)) |
 | A room full of dressing | Pull and rent kits | [ch. 51](../guide/8-wider-craft/51-set-dressing.md) | Securing; "hide the uglies" |
 | Plants or flowers | Artificial; real for short runs | [ch. 52](../guide/8-wider-craft/52-greens-and-florals.md) | Fire; allergies |
 | Rocks, gravestones, statues | Carve foam; cast | [foam projects](../guide/5-materials/32-foams-and-rubbers-projects.md), [ch. 37](../guide/5-materials/37-sculpting.md), [ch. 40](../guide/5-materials/40-3d-printing.md#large-prints-on-small-printers-b-90101) | Coat foam; weight if actors sit on it |

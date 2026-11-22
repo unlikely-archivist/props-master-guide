@@ -117,7 +117,7 @@ Pink (Owens Corning Foamular) or blue (Dow Styrofoam) insulation board. Use **1"
 
 **Shaping.** Rough out with a band saw, jig saw or Japanese pull saw. Shape with a Surform or rasp, a Dremel for detail, and a sander for smoothing (FF 10–14). **A rasped face looks like cut meat and hides the glue lines** (FF 146). **Pink foam can stand in for a base coat on red meat.** An earth-umber wash over pink reads as roast beef (FF 130, 146).
 
-**Primers** (FF 15, 125): Rosco FoamCoat (can be sanded once dry), FlexCoat, CrystalGel, Sculpt or Coat, FlexBond or Fastbond. Compare the foam-coating table in [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317).
+**Primers** (FF 15, 125): Rosco FoamCoat (can be sanded once dry), FlexCoat, CrystalGel, Sculpt or Coat, FlexBond or Fastbond. Compare the foam-coating table in [ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317-w-136141).
 
 ### Other foams (FF 13, 119, 124, 128)
 - **Upholstery (flexible polyurethane) foam,** split to ½": sandwich bread (FF 119–120).

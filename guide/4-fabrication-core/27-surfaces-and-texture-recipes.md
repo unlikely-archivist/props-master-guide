@@ -16,6 +16,13 @@ Recipe cards and step-by-step tutorials for [ch. 27](27-surfaces-and-texture.md)
 | **Cabinetmaker's putty** | Fine sawdust from the same wood + wood glue (H 308–311) | Stainable fills that match | Make a fresh batch for each wood |
 | **Glitter coat** | Glitter in thinned PVA or clear sealer (H 315) | Sparkle that stays put | |
 | **Auto-body filler (Bondo)** | Per the label; **rasp at about 5 minutes ("cheese-hard")** (H 308–311) | Hard fills, corners, edges | Ventilate, respirator, gloves; cure away from others |
+| **Borax flame retardant** | About 300 g borax (sodium borate) + 250 g boric acid in 5 L water (W 18) | Wood, natural-fibre fabric, paper, straw | Put the water in a stainless-steel or enamelled pan, add the rest, heat and stir until dissolved. Quantities aren't critical; many versions exist. Test samples for effect and staining. **Never on anything worn against the skin** |
+| **Size (for scrimming)** | Size or pearl glue at 125 g per litre of water (W 138) | Scrimming muslin onto foam; size gesso | Heat in a water bath at about 85°C, or a bucket inside a bigger metal bucket with a few inches of water, kept **just below boiling** (overheated size loses strength; never let the outer bucket boil dry). Stir until dissolved. Tint with pigment premixed in a little size. Reheat if it gels; don't reheat size over 24 hours old; throw it away before it rots |
+| **Size gesso** | Size diluted with about half as much water again + whiting, marble dust or talc to a creamy liquid (W 138–139) | Smooth, sandable coat over scrimmed foam | Several coats; sand silky (dust mask). Strengthen with neat size, or glaze with epoxy or acrylic varnish for a porcelain look. Titanium dioxide for brilliant white |
+| **Size paint binder** | 250 g size in 5 L water, mixed equally with pigment-and-water paste, then thinned (W 159) | Economical scenic paint | Much weaker than size for gluing or scrimming. Not fully waterproof |
+| **Plaster retarder stock** | 100 g trisodium citrate powder per litre of water (W 141) | Slowing plaster and polymer plaster coatings | About 10 ml (2 tsp) per litre of mixing water roughly doubles the set; varies by plaster. Add to the water before the plaster |
+| **Strengthened plaster bandage** | A splash of PVA or acrylic medium in the bandage water (W 141) | Quick coating for carved foam that keeps detail | Retards and strengthens; smooth it or model detail on it |
+| **Faux hide** | Calico over firm foam; flexible PVA or acrylic medium with a dark base colour, then lighter colours rich in PVA/acrylic; clear top coat (W 147–148) | Leather-look upholstery | Work lighter colours locally for wear, fading and grain |
 
 ## Tutorial: a "painted many times" door panel (H 311–312)
 
@@ -42,6 +49,21 @@ Recipe cards and step-by-step tutorials for [ch. 27](27-surfaces-and-texture.md)
 6. Darken the recesses and dents with a wash; lighten the high points with a drybrush ([ch. 28](28-painting-and-finishing.md#breaking-down-h-340342)).
 7. Check it against the story: is the wear where the object was actually handled?
 
+## Tutorial: scrimming carved polystyrene (W 137–138)
+
+1. Make up hot size ([card above](#recipe-cards)), tinted with a little pigment so gaps show.
+2. Cut butter muslin into pieces to suit the work.
+3. Brush a layer of size onto an area of the foam, drop a piece of muslin into it, and work it in with a wet brush, **from the middle outward** so the fabric settles into the detail.
+4. Finish each piece before laying the next; overlaps can be small.
+5. Let it dry. For a smooth, paintable finish, brush on several coats of size gesso and sand when dry, wearing a dust mask (W 138–139).
+
+## Tutorial: peeling paint (W 173)
+
+1. On a primed piece, smear a little petroleum jelly into corners and edges where paint would wear first; or paint a thin layer of latex where you want flaking.
+2. Paint the top colour (emulsion).
+3. When dry, rub the petroleum-jelly areas so the paint lifts away, or work the latex areas with a wire brush into a broken, textured surface.
+4. Finish with dirt washes ([ch. 28 recipes](28-painting-and-finishing-recipes.md)).
+
 ## Tutorial: field flame test [General knowledge]
 
 Your fire marshal's procedure takes priority (H 320).
@@ -53,4 +75,4 @@ Your fire marshal's procedure takes priority (H 320).
 
 ## Quick reference: which coating for foam? (H 315–317)
 
-See the full table in [ch. 27](27-surfaces-and-texture.md#coating-foam-h-315317). In brief: flexible coats for soft foam, hard sandable shells for rigid foam, laminates for strength. **Polyester resin dissolves polystyrene**; epoxy and polyurethane don't (H 317).
+See the full table in [ch. 27](27-surfaces-and-texture.md#coating-foam-h-315317-w-136141). In brief: flexible coats for soft foam, hard sandable shells for rigid foam, laminates for strength. **Polyester resin dissolves polystyrene**; epoxy and polyurethane don't (H 317).

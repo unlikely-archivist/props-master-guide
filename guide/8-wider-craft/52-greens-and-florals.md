@@ -41,7 +41,7 @@ For most stage uses, **artificial flowers** are the default: consistent, durable
 
 ## Fire safety [General knowledge]
 
-- **Dried, artificial and paper plants near lights or flame** must be treated with flame retardant or bought pre-treated, and tested as your fire marshal requires ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320)).
+- **Dried, artificial and paper plants near lights or flame** must be treated with flame retardant or bought pre-treated, and tested as your fire marshal requires ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320-w-1718)).
 - Keep plants away from hot lamps and live flame ([ch. 48](../7-effects/48-flame-smoke-and-sound.md)).
 - Real Christmas trees dry out fast and can be a serious fire risk; many venues ban them.
 
