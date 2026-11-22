@@ -123,7 +123,7 @@ For **EVA foam**, KF heat-seals the surface, fills seams with Kwikseal or foam c
 - **Peeling and cracking paint** (W 173): smear a little petroleum jelly into corners before painting so the dried paint rubs away easily; or paint on a thin layer of latex, let it dry, paint emulsion on top, and work it with a wire brush into a broken, textured surface. **Crackle glazes** make an emulsion top coat break into bold cracks; **crackle varnishes** give subtler crazing like old ceramics.
 - **Encrusted rust** for close viewing: build texture with sawdust and glue before painting (W 172).
 
-Paint-based breakdown (dirt washes, rust colours, patina) is covered in [ch. 28](28-painting-and-finishing.md#breaking-down-h-340342).
+Paint-based breakdown (dirt washes, rust colours, patina) is covered in [ch. 28](28-painting-and-finishing.md#breaking-down-h-340342-w-171173).
 
 ## De-shining (M 158)
 

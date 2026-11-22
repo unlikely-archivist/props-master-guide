@@ -203,7 +203,7 @@ A clear encapsulation rubber for **lemonade, martini, milk, orange juice, piña 
 
 ### Glazes and finishes (FF 12, 16, 84, 131, 160)
 - **Amber shellac** is the "baked" colour. Dilute it **1 shellac : 2 denatured alcohol** and build it in thin coats. Full-strength coats look encapsulated and plastic (FF 78, 88, 204).
-- **FEV.** FF's recipe is **1 part shellac : 10 parts denatured alcohol plus leather dye** (brown and red). Clear or amber shellac doesn't matter. It's used for bacon, ham rind and turkey skin (FF 84, 131, 160). Hart's starting ratio is stronger (about 4 alcohol : 1 shellac with spirit dye; [ch. 28](../4-fabrication-core/28-painting-and-finishing.md#fev-french-enamel-varnish-h-348)).
+- **FEV.** FF's recipe is **1 part shellac : 10 parts denatured alcohol plus leather dye** (brown and red). Clear or amber shellac doesn't matter. It's used for bacon, ham rind and turkey skin (FF 84, 131, 160). Hart's starting ratio is stronger (about 4 alcohol : 1 shellac with spirit dye; [ch. 28](../4-fabrication-core/28-painting-and-finishing.md#fev-french-enamel-varnish-h-348-w-159160)).
 - **Design Master Glossy Wood Tone** spray is FF's universal **"oven browning"**. Mist it where real food browns: crust edges, pan contact, meat ends (FF 12).
 - **Sealers:**
   - Rosco Clear Acrylic Gloss for wet looks

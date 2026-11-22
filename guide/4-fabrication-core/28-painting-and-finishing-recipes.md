@@ -15,6 +15,11 @@ Paint "recipes" and step-by-step finishes for [ch. 28](28-painting-and-finishing
 | **Food FEV** | 1 part shellac : 10 parts denatured alcohol + brown and red leather dye | Bacon, ham rind, turkey skin | FF 84, 131, 160 |
 | **MDF edge sealer** | 50/50 PVA and water | Stops MDF edges drinking paint | H 334 |
 | **Tea or coffee bath** | Strong tea or coffee | Ageing paper, toning fibres | H 345–348, 357–358 |
+| **Dry-pigment paint** | Pigment pasted with a little water (a few drops of meths or alcohol for stubborn pigments), then binder, then water to consistency. Size binder: 250 g size in 5 L water, used equal parts with the pigment paste before thinning; polymer media vary, a little goes a long way | Economical scenic paint; colouring resins and plaster | W 159 |
+| **Dirt wash/glaze** | Weakly pigmented glaze, more binder over non-absorbent surfaces | Brush on, wipe selectively at once so dirt stays in corners | W 172 |
+| **Rust ladder** | New: yellow ochre or ochre + raw sienna → classic: burnt sienna or red ochre → old: burnt umber or Indian red | Stipple a lighter over a darker; sawdust and glue first for encrusted rust | W 172 |
+| **Graphite "iron"** | Powdered graphite in shellac, PVA or wax; rub or paint on and buff | Old polished iron or steel; less binder = brighter but rubs off | W 165 |
+| **Bronze-powder paint** | Viscous binder (cellulose lacquer, Japan size, acrylic or shellac binder) + powder, mixed as you go | Bright metallic highlights; never mix aluminium ("silver") powder with water | W 170–171 |
 
 ## Faux-finish starting recipes (H 339–340)
 
@@ -27,15 +32,17 @@ Paint "recipes" and step-by-step finishes for [ch. 28](28-painting-and-finishing
 | **Marble** | Wet-on-wet base | Glaze, spatter, feather-dragged veins, sponging, glaze |
 | **Luminous depth** | Any | Many translucent glazes with mica, bronze or pearlescent powders |
 
-## Tutorial: faux wood grain on MDF (H 334–340)
+## Tutorial: faux wood grain on MDF (H 334–340; W 160–164)
 
 1. Seal the MDF edges with 50/50 PVA and water; prime (H 334).
-2. Base-coat in the lightest wood colour, **brushing in the direction the grain will run** (H 335).
+2. Base-coat in the lightest wood colour, **brushing in the direction the grain will run** (H 335). Wilson makes the base slightly paler and brighter than the palest colour in the real wood, in two thin coats, rubbed smooth with wire wool for fine work (W 162).
+2a. Glaze the base so the grain layer can be wiped back cleanly (W 160).
 3. Mix a darker, thinner grain colour (a glaze).
 4. Brush the glaze over one section at a time.
 5. While wet, drag a **rubber rocker grainer** through it, rocking it for knots, or comb it, shifting the comb for variation (H 339).
 6. Soften with a dry brush if needed; let dry.
-7. Start high-contrast, then unify with an overall brown glaze (H 336, 339).
+6a. For pores, brush on a thin transparent layer, wipe it along the grain, and pull a fine comb, steel wool or bubblewrap through it; mask off where grain directions meet (W 162–164).
+7. Start high-contrast, then unify with an overall brown glaze (H 336, 339), or a toning coat (W 161–162).
 8. Seal with a satin clear coat (H 319; [ch. 27](27-surfaces-and-texture.md#protective-coats-h-319320)).
 
 ## Tutorial: aged brass on a plastic or foam prop (H 333–339)
@@ -46,13 +53,20 @@ Paint "recipes" and step-by-step finishes for [ch. 28](28-painting-and-finishing
 4. Shadow-wash greenish-brown into the recesses for patina (H 337, 341).
 5. Seal with a satin coat so the metallic doesn't rub off on hands (H 319).
 
-## Tutorial: rust on metal or a metal-look prop [General knowledge]
+## Tutorial: rust on metal or a metal-look prop (H 341; W 172)
 
-1. Base-coat dark brown or black.
-2. Sponge or stipple burnt sienna and orange in patches, concentrated on **edges, corners and where water would sit** (H 341).
-3. Spatter a little yellow ochre and dark brown.
-4. For texture, mix a little fine sand or sawdust into the paint for the heaviest rust (H 315).
-5. Drybrush a little steel grey on raised edges if bare metal would show through.
+1. Base-coat dark brown or black [General knowledge].
+2. For heavy, encrusted rust seen close up, build texture first with sawdust and glue (W 172) or fine sand or sawdust in the paint (H 315).
+3. Stipple on thick earth colours with an old brush or foam scrap, a **lighter colour over a darker** (burnt umber or Indian red, then burnt sienna or red ochre, then touches of yellow ochre for fresh rust) (W 172), concentrated on **edges, corners and where water would sit** (H 341).
+4. **Stand back** and break up anything repetitive that catches the eye (W 172).
+5. Drybrush a little steel grey on raised edges if bare metal would show through [General knowledge].
+
+## Tutorial: copper or bronze patina (W 172–173)
+
+1. For weathered copper: base-coat pale blue to mid-green (the colours of natural corrosion).
+2. Pick out highlights and worn areas with bronze powder in a binder (W 170–171).
+3. For the brown chemical patina of bronze sculpture: lay metal leaf or another metallic first, then build translucent brown glazes over it (W 172).
+4. Keep it smoother than rust; these corrosions are less crusty (W 173).
 
 ## Tutorial: metal leaf (H 349–351)
 
@@ -62,6 +76,16 @@ Paint "recipes" and step-by-step finishes for [ch. 28](28-painting-and-finishing
 4. Lay the leaf with a static-charged brush. It can't be repositioned.
 5. Brush off the excess and burnish; patch missed spots.
 6. Seal with shellac (amber shellac warms it) or polyurethane or acrylic.
+
+## Tutorial: Dutch metal leaf, oil-gilding method (W 166–169)
+
+1. **Prepare:** several coats of coloured gesso or shellac and pigment, rubbed silky with fine steel wool; the ground colour shows through any gaps (scarlet or red ochre under gold for furniture, grey or blue under silver). The surface must be dry, non-absorbent and grease-free (W 165, 167).
+2. **Size:** a thin, even coat of oil size (1-hour for speed, slower for a finer finish) or acrylic size for unhandled props; no puddles (W 166–167).
+3. **Wait for tack:** faintly sticky to a knuckle, leaving nothing on the skin (W 167).
+4. **Lay leaf:** settle loose leaf gently with clean fingertips or a soft dry brush, not touching the size; ignore overlaps and small gaps; cover the whole area. Or press transfer leaf, rub the tissue back and peel (W 167–168).
+5. **Fill gaps** with scraps or a dusting of matching bronze powder (W 168).
+6. **Polish in** with a soft cloth folded into a tight nib: dab, then rub side to side to polish and break off overlaps (W 168–169).
+7. **Age or protect:** dark dyed shellac or pale matt emulsion worked into the corners; or a thin coat of shellac or animal glue against tarnish (W 169).
 
 ## Tutorial: dyeing a fabric swatch (H 345–347)
 

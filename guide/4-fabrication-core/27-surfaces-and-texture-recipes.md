@@ -46,7 +46,7 @@ Recipe cards and step-by-step tutorials for [ch. 27](27-surfaces-and-texture.md)
 3. **Wear the handling areas**: sand, rasp or file the edges, corners and wherever hands go.
 4. **Beat it** with a chain or a bag of nuts and bolts for dents (H 318).
 5. Optional: torch-scorch and wire-brush to raise the grain (keep an extinguisher handy).
-6. Darken the recesses and dents with a wash; lighten the high points with a drybrush ([ch. 28](28-painting-and-finishing.md#breaking-down-h-340342)).
+6. Darken the recesses and dents with a wash; lighten the high points with a drybrush ([ch. 28](28-painting-and-finishing.md#breaking-down-h-340342-w-171173)).
 7. Check it against the story: is the wear where the object was actually handled?
 
 ## Tutorial: scrimming carved polystyrene (W 137–138)
