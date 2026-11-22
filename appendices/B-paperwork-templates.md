@@ -1,6 +1,6 @@
 # Appendix B: Paperwork Templates
 
-These are original templates designed for this guide. Their fields reflect the practices described by Mussman (chs. 6, 11, 12, 13, 21) and Hart (chs. 2, 11, 24). Copy them into a spreadsheet or document. **Your institution's finance, legal and safety offices take precedence**: use their official forms for purchase orders, reimbursements, accident reports, hiring and contracts.
+These are original templates designed for this guide. Their fields reflect the practices described by Mussman (chs. 6, 11, 12, 13, 21), Hart (chs. 2, 11, 24) and Wilson (ch. 1). Copy them into a spreadsheet or document. **Your institution's finance, legal and safety offices take precedence**: use their official forms for purchase orders, reimbursements, accident reports, hiring and contracts.
 
 ---
 
@@ -206,3 +206,23 @@ Give stage management a **list of every borrowed and rented item** for the run (
 - ☐ Fits its path: costume pocket, doorway, prop-table space
 - ☐ Flame-retardancy requirement met
 - ☐ Care and operating notes given to stage management
+
+---
+
+## 14. Process Risk Assessment (ch. 20)
+
+*Original template based on the risk-assessment approach Wilson describes (W 16–17). Use your institution's official form where one exists.*
+
+**Process:** ______________ (e.g., "life casting a face," "laying up polyester GRP in an open mold") **Date / assessor:** ______
+
+| Substance or operation | Form (dust, gas, vapour, mist, liquid, fume, solid) | Exposure limit (from SDS) | Routes of exposure | Quantity in use | Storage | SDS held? (Y/N) |
+|---|---|---|---|---|---|---|
+| | | | | | | |
+
+| Hazard | Severity (what could it do?) | Likelihood in **this** process | Risk (severity × likelihood) | Control (substitute, extract, enclose, PPE) | Residual risk |
+|---|---|---|---|---|---|
+| | | | | | |
+
+- ☐ Every risk reduced to negligible, or the process changed
+- ☐ Review date set; **review after any change, accident or near miss** (W 17)
+
