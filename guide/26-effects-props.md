@@ -67,6 +67,7 @@ What the sources establish:
   - Polyurethane foam cubes as an hors d'oeuvre base (H 181).
   - Real food dries and browns quickly. **Don't shellac real food** to "preserve" it. Mussman's (possibly apocryphal) story of a shellacked roast hen exploding under stage lights makes the point.
 - Hart: fake food is often built because buying and preparing real food every night is expensive and wasteful (H 6).
+- **For building inedible food in depth** (salt dough, candle wax, carved foam, cast food, clear-rubber drinks), see [ch. 28](28-fake-food.md) and [Appendix F](../appendices/F-fake-food-recipe-cards.md) (FF). For one edible bite inside a fake dish, see the [edible inset](28-fake-food.md#fake-and-real-together-the-edible-inset-ff-194200) (FF 194–200). Harrison & Honesty's sequel on edible props and allergens (*Volume 2*, 2025) isn't incorporated yet.
 
 ## Smoking (M 149–150)
 

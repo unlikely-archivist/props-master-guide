@@ -134,6 +134,8 @@ Heated sheet is pulled over a **buck** (positive "drape" forming) or into a fema
 
 **Cutting foam**: band saw for dense foam; a **knife-edged blade** for soft foam (coarse teeth can grab and drag soft foam into the blade); a foam cutter; or a fully extended snap knife with a drop of sewing-machine oil on the blade (H 181).
 
+For food props made from XPS, upholstery foam, backer rod and expanding urethane foam (FlexFoam-iT!), see [ch. 28](28-fake-food.md) (FF).
+
 ## 3D printing note [check current]
 
 Hart (2013) mentions ABS extrusion printing as emerging technology (H 10, 58, 165). Today, PLA and PETG desktop printing and resin printing are common in prop shops. Resin printing brings its own skin-contact and ventilation hazards. Treat printed parts as **one more material**, chosen through the needs/means process ([ch. 11](11-the-build-method.md)), and finish them like any other plastic ([ch. 23](23-surfaces-texture-and-coatings.md)).

@@ -2,9 +2,9 @@
 
 A consolidated, topic-organized guide to **theatrical properties (props)** — managing a props department and building props — written for teaching at the university level and as groundwork for a possible textbook.
 
-It brings four books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, and flags on information that may be out of date.
+It brings five books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, fake-food recipe cards, and flags on information that may be out of date.
 
-> **Status:** Draft complete for management, fabrication and period research. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
+> **Status:** Draft complete for management, fabrication, period research and fake food. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
 
 ---
 
@@ -49,12 +49,16 @@ It brings four books together in one structure, with page citations so every poi
 ### Part 6 — Period Research
 27. [Period Research and Historical Accuracy](guide/27-period-research.md)
 
+### Part 7 — Food Props
+28. [Fake Food: Building Inedible Food Props](guide/28-fake-food.md)
+
 ### Appendices
 - A. [Glossary](appendices/A-glossary.md)
 - B. [Paperwork Templates](appendices/B-paperwork-templates.md) — prop list, cost breakdown, to-do list, ledger, loan-agreement checklist, check-out form, rehearsal-note log, preset sheet, prop bible checklist, strike checklist, tool kit, effect safety plan, handoff inspection
 - C. [Sources, Editions, and What to Verify](appendices/C-sources-and-editions.md)
 - D. [Concordance (Topic → Source Pages)](appendices/D-concordance.md)
 - E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
+- F. [Fake Food Recipe Cards](appendices/F-fake-food-recipe-cards.md): condensed builds for 41 dishes (appetizers, breakfast, entrées, drinks, desserts), a found-materials index and a show reference
 
 Every chapter follows the same pattern: a sources line, the content, a **Key terms** list, and **For the classroom** prompts (discussion questions and hands-on projects).
 
@@ -68,8 +72,9 @@ Every chapter follows the same pattern: a sources line, the content, a **Key ter
 | **H** | Eric Hart, *The Prop Building Guidebook: For Theatre, Film, and TV*. Focal Press, **2013 (1st ed.)**. | 1st edition — **current edition is the 3rd (Routledge, 2024)**; page numbers differ |
 | **HE** | Eric Hart, *The Prop Effects Guidebook: Lights, Motion, Sound, and Magic*. Routledge, 2018 (1st ed.); 2nd ed. 2025. | Not yet incorporated (file was truncated) |
 | **J** | Thurston James, *The What, Where, When of Theater Props: An Illustrated Chronology from Arrowheads to Video Games*. Betterway Books, **1992 (1st ed.)**. | 1st edition. A revised 2nd edition (Players Press, 2000/2001) appears as *The Theater Props What, Where, When*; its page numbers may differ |
+| **FF** | Karestin Harrison and Tamara L. Honesty, *The Fake Food Cookbook: Props You Can't Eat for Theatre, Film, and TV*. Routledge/Focal Press, **2018 (1st ed.)**. | 1st (only) edition. A separate sequel, *Volume 2: Prop Foods You Can Eat* (2025), is not yet incorporated |
 
-Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92.
+Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92; "(FF 157)" = Harrison & Honesty p. 157.
 
 **Markers used in the text**
 - **[Check current]** — information that changes (regulations, product names, prices, technology, law). See the [volatile-information register](appendices/C-sources-and-editions.md#volatile-information-register).

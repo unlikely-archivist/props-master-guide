@@ -66,6 +66,8 @@ Unlike fine-art sculpture, which prizes "truth to materials," prop sculpture reg
 ### Polystyrene safety (H 243; M 143–144)
 Hot-wiring or hot-knifing polystyrene releases **styrene** and related vapors — eye and respiratory irritant, nervous-system effects (dizziness means inadequate ventilation), IARC "possibly carcinogenic." Carving and rasping make dust. Use ventilation (local exhaust for big hot-wire rigs), an organic-vapor respirator per the SDS for hot cutting, and a particulate mask and goggles for rasping.
 
+For food: Model Magic, Creative Paperclay, salt dough (baker's clay) and moldable thermoplastic pellets as fake produce, fish, crusts and butter, see [ch. 28](28-fake-food.md#modeling-compounds-ff-8-12-43-149) (FF).
+
 ## Key terms
 
 carving · modeling · maquette · master · profile template · slice method · armature · armature wire · oil clay · sulfur-free · polymer clay · baker's clay · PCL · carving wax · XPS / EPS · green glue · hot wire · surform · flap wheel · oscillating multi-tool · rotary tool · spray foam · isocyanate

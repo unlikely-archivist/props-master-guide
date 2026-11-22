@@ -83,7 +83,7 @@ Collect parts as you find them, and organize them so you can find them again (H 
 
 ### Material-pairing cautions (H 69–71)
 - **Plaster** bonds poorly until it's fully dry (days to weeks). Seal it with paint or PVA first for CA or PVA bonds.
-- **Polystyrene foam** dissolves in harsh solvents and melts with heat. Test first and use only low-temperature hot melt.
+- **Polystyrene foam** dissolves in harsh solvents and melts with heat. Test first and use only low-temperature hot melt. FF reports that 3M **reformulated Super 77 with acetone, which dissolves XPS**. Use Super 77 Classic or 3M 78 Polystyrene spray, and spray both faces (FF 157, 195) **[check current]**. FF's laminating table is in [ch. 28](28-fake-food.md#rigid-foam-xps-ff-13-and-chs-4-17-22-23-27-30-39-41).
 - **Polyethylene (#2, HDPE) and polypropylene won't bond with any adhesive**, and paint won't stick to them either.
 - "Wood" on a craft-glue label means small decorative bits, not furniture joints.
 - Consider whether glue is even the right joint. Welding, fasteners, tying, sewing or taping may be better.

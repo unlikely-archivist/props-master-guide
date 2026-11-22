@@ -74,6 +74,8 @@ First, ask what the coating is for: paintability, protection from spray-paint so
 
 Polyester resin eats foam; epoxy and polyurethane don't. Use laminating versions of resin for thin coats (H 317).
 
+FF primes handled food props with FoamCoat, FlexCoat, CrystalGel or Sculpt or Coat. Paint applied straight to foam dries brittle and flakes (FF 15). See [ch. 28](28-fake-food.md#coatings-and-gels-ff-1315).
+
 ## Distressing and aging (H 317–319; M 158–159)
 
 **Build it well, then distress it at the end.** Building "distressed" from the start gives weaker, less believable results (H 317).

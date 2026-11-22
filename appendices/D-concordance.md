@@ -2,6 +2,8 @@
 
 Use this to trace any topic back to the source books. **M** = Mussman (2008), book pages. **H** = Hart, *Prop Building Guidebook*, **1st ed. (2013)** pages. Later editions are paginated differently, but Hart's chapter titles remain a good guide. **HE** = Hart, *Prop Effects Guidebook*, chapter numbers from the 1st-edition table of contents (text not yet incorporated). **J** = James, *The What, Where, When of Theater Props* (1992), book pages. See the [James table](#james-j-by-subject) below.
 
+**FF** = Harrison & Honesty, *The Fake Food Cookbook* (2018), book pages. See the [FF table](#harrison--honesty-ff-by-subject) below.
+
 ## By guide chapter
 
 | Guide chapter | Mussman (M) | Hart PBG (H, 1st ed.) | Hart PEG (HE) |
@@ -36,6 +38,8 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | App. A Glossary | glossary pp. 163–180 | throughout | — |
 | App. C Sources | bibliography pp. 181–182 | bibliography pp. 368–370 | — (J: bibliography pp. 207–209) |
 | App. E Period timeline | — | — | — (J: pp. 13–206) |
+| 28. Fake food | pp. 7–8, 156–157 | pp. 6, 181, 250–251 | — (FF: whole book, esp. pp. 3–22) |
+| App. F Fake food recipe cards | — | — | — (FF: pp. 26–222) |
 
 ## By topic (quick lookup)
 
@@ -132,3 +136,24 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | Catholic ceremonial objects (altar, crosses, symbols, liturgical colors, implements of the Mass) | 195–202 | 27 |
 | Jewish ceremonial objects (home and synagogue) | 203–206 | 27 |
 | Sources | 207–209 | App. C |
+
+## Harrison & Honesty (FF) by subject
+
+| Subject | FF pages | Related guide chapters |
+|---|---|---|
+| Why make fake food; real vs. fake; storage; repurposing | 3–5 | 28, 5, 8 |
+| Tools and products (basic, intermediate, advanced) | 6–18 | 9, 13, 16, 21, 23, 24, 28 |
+| Safety, PPE, SDS, allergies | 19 | 10, 28 |
+| Salt dough versions and storage | 20–22 | 20, 28 |
+| Laminated XPS foam (bread, roasts, ham, turkey, cakes) | 26–29, 93–98, 123–132, 144–147, 156–161, 194–200, 205–209 | 13, 16, 20, 28 |
+| Candle wax (cheese, sauces, drinks, fillings, gelatin) | 12, 32–36, 45–46, 57, 165–173, 201–204, 210–217 | 10, 28 |
+| Silicone molds and urethane casts from real food | 17–18, 37–41, 54–58, 85–89, 99–105, 218–222 | 21, 28 |
+| Expanding urethane foam (FlexFoam-iT!) | 18, 29–31, 71–89, 165–167, 171–173, 184–186, 218–222 | 21, 28 |
+| Clear rubber drinks (Encapso K) | 17, 64–68, 174–186 | 28 |
+| Paper and CrystalGel lettuce and greens | 59–63, 106–111, 133–136, 148–151 | 23, 28 |
+| Fabric food (sandwich, salad meats) | 106–111, 117–122 | 18, 28 |
+| Modeling compounds (Model Magic, Paperclay, thermoplastic pellets) | 8, 12, 42–46, 59–63, 83, 97, 137–140, 148–151 | 20, 28 |
+| Glazes: shellac, FEV, Glossy Wood Tone, stains | 12, 16, 79–84, 129–132, 156–161 | 24, 28 |
+| Icing, whipped cream, piping | 74, 194–200, 205–217 | 28 |
+| Edible inset in a fake cake | 194–200 | 26, 28 |
+| Companion website, resources, bibliography | 223–226 | App. C |

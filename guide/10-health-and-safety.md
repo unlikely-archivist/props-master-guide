@@ -151,6 +151,8 @@ Water spreads B and K fires, worsens D fires, and can electrocute you on C fires
 - Treatments can stiffen fabric or make it itchy, so **inherently flame-retardant fabrics** are often better (H 320).
 - The common field test is holding a match to the material: the flame must self-extinguish within a set time, with no flare-up and no molten drips (H 320). **[Check current: local fire marshal, applicable NFPA standards.]**
 
+Melting candle wax for fake food has its own rules: a candle thermometer, never above 220°F, never unattended, an ABC extinguisher at hand (FF 33). See [ch. 28](28-fake-food.md#safety-specific-to-food-props-ff-19-and-every-recipe).
+
 ## Onstage safety (preview)
 
 Weapons, live flame, smoking, food and pyrotechnics are covered in [ch. 26](26-effects-props.md). Mussman's rule applies throughout: **never ask an actor to perform an effect you haven't safely tested yourself, and get expert advice** (M 149).

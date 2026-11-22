@@ -189,6 +189,7 @@ A **dye** soaks into the material; paint sits on top as a coating. Dye fabric wh
 Shellac tinted with alcohol-soluble dye or metallic powder and thinned with denatured alcohol. A starting recipe is about 4 parts alcohol to 1 part white shellac plus a few drops of dye.
 - **Pros**: transparent; tints metal while keeping it metallic; builds rich layers; stays flexible on leather and fabric.
 - **Cons**: alcohol fumes (ventilate and wear a respirator); not washable; shellac isn't waterproof; results are unpredictable. **Test first.**
+- **Food version (FF 84, 131, 160):** *The Fake Food Cookbook* uses a much thinner FEV, 1 part shellac to 10 parts denatured alcohol tinted with brown and red **leather dye**, as a transparent glaze for bacon, ham rind and turkey skin. See [ch. 28](28-fake-food.md#glazes-and-finishes-ff-12-16-84-131-160).
 
 ## Wood stain (H 348–349)
 
