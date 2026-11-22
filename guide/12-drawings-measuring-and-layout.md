@@ -87,7 +87,7 @@ Lay the parts out on a 4'×8' sheet to maximize usable offcuts, and **label your
 - **Mock-ups** in cardboard or scrap test scale, balance and feel, especially before committing expensive materials. A cardboard saddle mock-up is one example. See [ch. 7](07-rehearsals-tech-and-performance.md) for rehearsal use.
 - **Paper dummies for scale.** KF prints the blueprint at several sizes and holds each one in front of a mirror, or tapes it to the arm and photographs it, before choosing a size. The right size depends on the holder's height and on how the prop will travel (KF 13, 38; [ch. 29](29-eva-foam-props.md#choosing-the-size-kf-13-38)).
 - **Patterns** record full-size shapes: a paper chair-leg template traced several times, or a cardstock armor pattern before cutting steel. A **flush-trim router bit** can copy a template exactly.
-- **CAD and 3D software** let you mock up virtually, show the designer your intent, solve angles and hypotenuses, print templates, and drive CNC or laser machines. They don't replace knowing materials (H 97).
+- **CAD and 3D software** let you mock up virtually, show the designer your intent, solve angles and hypotenuses, print templates, and drive CNC or laser machines. They don't replace knowing materials (H 97). For 3D scanning (photogrammetry, turntable scans) as a way to capture an existing object, see [ch. 30](30-3d-printing.md#level-3-scanning-a-real-button-b-6069) (B 60–62).
 
 ## Jigs (H 97–99)
 
@@ -99,6 +99,8 @@ A **jig** holds a fixed spatial relationship, either between tool and material o
 - a router circle jig
 
 Use a jig whenever a task is **repetitive** (hundreds of evenly spaced tacks) or demands **precision**. Hart's observation: **experienced artisans spend more time measuring, laying out and building jigs; novices jump in with the saw** (H 97). A table saw is itself "a collection of jigs for a circular saw" (H 99).
+
+B has students 3D-print shop jigs and measuring aids, such as a centering jig for board ends and a stair-tread copier. B also argues that any such device must earn its place in time or money saved (B 110–115; [ch. 30](30-3d-printing.md#further-projects-b-102116)).
 
 ## Drafting symbols (M 161–162)
 

@@ -144,6 +144,8 @@ For building whole props from EVA foam (densities and thicknesses, PVC and rod c
 
 Hart (2013) mentions ABS extrusion printing as emerging technology (H 10, 58, 165). Today, PLA and PETG desktop printing and resin printing are common in prop shops. Resin printing brings its own skin-contact and ventilation hazards. Treat printed parts as **one more material**, chosen through the needs/means process ([ch. 11](11-the-build-method.md)), and finish them like any other plastic ([ch. 23](23-surfaces-texture-and-coatings.md)).
 
+For filaments in detail (PLA, ABS, PETG, nylon and TPU temperatures, properties and ventilation), infill, finishing and troubleshooting, see [ch. 30](30-3d-printing.md#filament-and-other-materials-b-1215) (B 12–22).
+
 ## Key terms
 
 polymer · resin · thermoplastic / thermoset · copolymer / alloy · acrylic · polycarbonate · HIPS · ABS · PVC / Sintra · Kydex · HDPE / UHMW · PETG · PCL · scribe and snap · chatter · chip welding · peck drilling · solvent welding · water-thin / bodied cement · strip heater · vacuum forming · buck · platen · webbing · dressed edge · open/closed cell · EVA foam · polyfoam

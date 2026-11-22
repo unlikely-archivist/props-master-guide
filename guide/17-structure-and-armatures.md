@@ -31,6 +31,8 @@ A triangle can't change shape even with pinned joints, while a rectangle racks. 
 ### Grain (H 188–189)
 Wood, paper, fabric, stone and even forged or extruded metals are **stronger along the grain**. A crack has to take a winding path through grained material. Hart compares grainless orzo with grained linguine.
 
+3D prints have a grain too: they are layered "like plywood" and break between layers. Orient a print so its layers don't run across a weak point such as a button shank (B 66–68; [ch. 30](30-3d-printing.md#level-3-scanning-a-real-button-b-6069)).
+
 ### Plan your failure points (H 189–190)
 Design so the **cheap, replaceable part fails first**: a bolt rated below the leg it holds, or many small windowpanes instead of one big one. Put **replaceable wear parts** (screwed-on glides and pads) under furniture so neither the legs nor the stage floor wear down.
 

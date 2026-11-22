@@ -2,9 +2,9 @@
 
 A consolidated, topic-organized guide to **theatrical properties (props)** — managing a props department and building props — written for teaching at the university level and as groundwork for a possible textbook.
 
-It brings six books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, fake-food recipe cards, EVA-foam build walkthroughs, and flags on information that may be out of date.
+It brings seven books together in one structure, with page citations so every point can be traced to its source. It also includes classroom prompts, key-term lists, original paperwork templates, a period-props timeline, fake-food recipe cards, EVA-foam build walkthroughs, 3D-printing project briefs, and flags on information that may be out of date.
 
-> **Status:** Draft complete for management, fabrication, period research, fake food and EVA foam props. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
+> **Status:** Draft complete for management, fabrication, period research, fake food, EVA foam props and 3D printing. The effects-props chapter is partial because one source file was truncated. See [STATUS.md](STATUS.md).
 
 ---
 
@@ -55,6 +55,9 @@ It brings six books together in one structure, with page citations so every poin
 ### Part 8 — Lightweight Foam Props
 29. [EVA Foam Props](guide/29-eva-foam-props.md)
 
+### Part 9 — Digital Fabrication
+30. [3D Printing for Props](guide/30-3d-printing.md)
+
 ### Appendices
 - A. [Glossary](appendices/A-glossary.md)
 - B. [Paperwork Templates](appendices/B-paperwork-templates.md) — prop list, cost breakdown, to-do list, ledger, loan-agreement checklist, check-out form, rehearsal-note log, preset sheet, prop bible checklist, strike checklist, tool kit, effect safety plan, handoff inspection
@@ -63,6 +66,7 @@ It brings six books together in one structure, with page citations so every poin
 - E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
 - F. [Fake Food Recipe Cards](appendices/F-fake-food-recipe-cards.md): condensed builds for 41 dishes (appetizers, breakfast, entrées, drinks, desserts), a found-materials index and a show reference
 - G. [EVA Foam Build Walkthroughs](appendices/G-eva-foam-builds.md): condensed sequences for five foam builds (sword, shield, claws, spear, short swords and scabbards), with materials, priming and timings
+- H. [3D Printing Project Briefs and Troubleshooting](appendices/H-3d-printing-projects.md): condensed briefs and assessment criteria for B's graded projects (lettered card, candlestick phone, scanned button, prosthesis or mask, linear actuator, group large print) and further ideas, plus a fault-finding table
 
 Every chapter follows the same pattern: a sources line, the content, a **Key terms** list, and **For the classroom** prompts (discussion questions and hands-on projects).
 
@@ -78,8 +82,9 @@ Every chapter follows the same pattern: a sources line, the content, a **Key ter
 | **J** | Thurston James, *The What, Where, When of Theater Props: An Illustrated Chronology from Arrowheads to Video Games*. Betterway Books, **1992 (1st ed.)**. | 1st edition. A revised 2nd edition (Players Press, 2000/2001) appears as *The Theater Props What, Where, When*; its page numbers may differ |
 | **FF** | Karestin Harrison and Tamara L. Honesty, *The Fake Food Cookbook: Props You Can't Eat for Theatre, Film, and TV*. Routledge/Focal Press, **2018 (1st ed.)**. | 1st (only) edition. A separate sequel, *Volume 2: Prop Foods You Can Eat* (2025), is not yet incorporated |
 | **KF** | Svetlana Quindt (Kamui Cosplay), *The Book of Foam Props: Lightweight & Affordable*. Self-published (Kamui Cosplay, Germany), **2019**. | First release, 2019. A 48-page cosplay how-to; no later edition found. No ISBN found |
+| **B** | Robert C. Berls, *Teaching Practical Theatrical 3D Printing: Creating Props for Production*. Routledge/Focal Press, **2024 (1st ed.)**. | 1st (only) edition. Written for instructors; software and printer details date quickly |
 
-Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92; "(FF 157)" = Harrison & Honesty p. 157; "(KF 21)" = Quindt, *Book of Foam Props*, p. 21.
+Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 1st ed., p. 13; "(J 92)" = James p. 92; "(FF 157)" = Harrison & Honesty p. 157; "(KF 21)" = Quindt, *Book of Foam Props*, p. 21; "(B 9)" = Berls, *Teaching Practical Theatrical 3D Printing*, p. 9.
 
 **Markers used in the text**
 - **[Check current]** — information that changes (regulations, product names, prices, technology, law). See the [volatile-information register](appendices/C-sources-and-editions.md#volatile-information-register).
@@ -90,7 +95,7 @@ Example: "(M 104)" = Mussman p. 104; "(H 13)" = Hart, *Prop Building Guidebook* 
 
 ## Using this for teaching
 
-- **Course spine:** Parts 1–3 suit an introductory props or production-management unit. Part 4 maps onto a studio or shop course. Part 6 and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 4](guide/04-script-analysis-and-the-prop-list.md)). The classroom prompts run roughly from discussion to hands-on.
+- **Course spine:** Parts 1–3 suit an introductory props or production-management unit. Part 4 maps onto a studio or shop course. Part 9 and Appendix H give a ready-made sequence of graded 3D-printing projects with rubrics. Part 6 and Appendix E support a research or dramaturgy unit and pair well with script analysis ([ch. 4](guide/04-script-analysis-and-the-prop-list.md)). The classroom prompts run roughly from discussion to hands-on.
 - **Safety first:** Make [ch. 10](guide/10-health-and-safety.md) and machine checkouts a prerequisite for shop work, and align them with your institution's Environmental Health & Safety (EHS) office.
 - **Project-based learning:** Hart recommends learning each craft by making a small, complete object (a birdhouse for woodworking, a soap carving for sculpting, a pillowcase for sewing, a recovered drop seat for upholstery, a plaster press-mold for casting, papier-mâché before fiberglass) rather than drilling isolated techniques (H 9). Many classroom prompts follow that model.
 - **Assigning the books:** If students buy Hart, assign the current editions; the chapter topics here line up with Hart's chapter titles even where page numbers don't.

@@ -19,6 +19,8 @@ Computer "handwriting" fonts look mechanical because the letters repeat and the 
 
 Reproducing photographs, artwork, text, logos or brands often requires **permission or clearance**, even when the item is named in the script. Hart's cautionary example: a regional theatre reproduced a California high school's logo on giant banners. The school found out from hundreds of miles away, sent a cease-and-desist letter, and the theatre had to reprint everything at great expense. **Don't guess.** Take the question to your production manager or legal office (H 355). (Mussman makes the same point about reproducing images from reference books, M 80.)
 
+The same applies to **downloaded 3D-model files**. B asks students to respect the Creative Commons terms on designs they download and adapt (B 48–49). Licence terms vary by design, so read each one ([ch. 30](30-3d-printing.md#level-2-candlestick-phone-b-4859)) **[Check current]**.
+
 ## Analog reproduction (H 353–355)
 
 - **Stencils**: cut from thick paper, then stippled or sprayed. Good for a non-handmade look on surfaces that won't go through a printer, and for repeated patterns. Many found objects work as stencils.

@@ -39,6 +39,7 @@ Web-search for the book's current edition and any sequels or companion volumes. 
 | J | James 1992 |
 | FF | Harrison & Honesty, *Fake Food Cookbook*, 2018 |
 | KF | Quindt (Kamui Cosplay), *The Book of Foam Props*, 2019 |
+| B | Berls, *Teaching Practical Theatrical 3D Printing*, 2024 |
 
 Cite as `(CODE page)` or `(CODE page–page)`. Add the source's page ranges to section headings, e.g. `## Release agents (H 265–267)`.
 

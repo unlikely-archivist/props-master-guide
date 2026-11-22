@@ -108,6 +108,8 @@ Very few props are one piece. A complex sword hilt is a stack of simple shapes (
 
 **Even a curtain follows the method.** It needs to look and act like a curtain, so the obvious material is fabric. Swatch within budget, cut, sew a rod pocket, hem. If your shop can't sew, buy curtains instead (H 23–24).
 
+B's version of the same check, for tools and techniques: a technical director's preferred 25° bevels on 450 platform legs added about nine hours and more than $700 in labour, power and blades. Make sure a method or device actually saves time or money, or adds safety (B 115; [ch. 30](30-3d-printing.md#further-projects-b-102116)).
+
 ## Workflow
 
 - Some makers plan everything on paper and others improvise. Hart works in between: **plan every process up front, build what's certain, then reassess** (H 22).

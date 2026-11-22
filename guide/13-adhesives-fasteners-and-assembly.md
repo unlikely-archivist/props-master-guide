@@ -88,6 +88,7 @@ Collect parts as you find them, and organize them so you can find them again (H 
 - "Wood" on a craft-glue label means small decorative bits, not furniture joints.
 - Consider whether glue is even the right joint. Welding, fasteners, tying, sewing or taping may be better.
 - **EVA foam.** KF uses contact cement as its main foam adhesive: very thin on both faces, touch-dry in 1–15 minutes depending on brand, then pressed. It keeps hot glue for parts that won't stick otherwise (KF 7, 9, 15). Hart joins EVA with hot glue ([ch. 16](16-plastics-and-foams.md#rubbers-and-foams-h-179181-h-236)). See [ch. 29](29-eva-foam-props.md#where-the-sources-disagree).
+- **3D-printed PLA.** B joins printed parts with polyurethane glue (preferring a low-foam type), super glue on flat faces, thick CA, or automotive double-sided tape, and warns that high-temperature hot glue and construction adhesive deform prints (B 90–92). Hart's notes on polyurethane glue and high-melt hot glue differ; see [ch. 30](30-3d-printing.md#where-the-sources-disagree).
 
 ### Removing glue (H 69)
 Heat (hot melts), the original solvent (water or a solvent), dedicated debonders (CA), or mechanical removal by cutting or sanding.

@@ -89,6 +89,8 @@ The hardeners in **two-part products** (epoxies, polyester resin and auto-body f
 - Dry out leftover latex paint before putting it in the trash, and donate usable paint.
 - Seal resin-contaminated trash and remove it from the shop, because it keeps off-gassing.
 
+**3D printers.** B asks instructors to read the SDS for every filament (checking for ultrafine particles and VOCs), to question using any filament without one, and to take fume questions to the administration or safety office rather than relying on judgement (B 14–15, 118). See [ch. 30](30-3d-printing.md#read-the-sds-b-1415-118), which also summarises current NIOSH guidance **[Verified 2026]**.
+
 ## Skin protection (H 38–39)
 
 - Solvents (including those in water-based paints, adhesives and cleaners) and resins pass through skin.

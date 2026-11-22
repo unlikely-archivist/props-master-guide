@@ -122,6 +122,8 @@ CNC routers, laser cutters, plasma tables and 3D printers turn CAD files into pa
 
 **[Check current]** Hart (2013) describes hobby 3D printers as mostly ABS extrusion with laser sintering at the high end. Since then, desktop FDM printing in PLA and PETG and resin (SLA/MSLA) printing have become cheap and common, and many prop shops now own printers. Check current equipment and resin safety guidance.
 
+For printer types (gantry, core XY, delta, resin), their budget–safety–time trade-offs, maintenance intervals and how to run a classroom printing programme, see [ch. 30](30-3d-printing.md#choosing-a-printer-b-1619) (B 16–19).
+
 ## Shop supply stock (M 50–55; H 61)
 
 A starting list:

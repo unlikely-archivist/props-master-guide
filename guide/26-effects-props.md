@@ -105,6 +105,8 @@ Some directors and sound designers prefer live sound. Props may supply:
 
 Lamps, chandeliers, lanterns and battery "flames" are **practicals**. Coordinate early with the **master electrician** and **lighting designer**: wiring, control from the board, brightness, color. Battery-operated flame effects are usually preferred to live flame. Running water and working appliances also count as practicals. *[Pending: Effects Guidebook chs. 2–3 and 11, "Electricity, Wiring, Soldering"; "Lights"; "Control."]*
 
+For a first motorised mechanism (printed gears, a small DC motor and a threaded-rod linear actuator), plus a student circuit-troubleshooting checklist, see [ch. 30](30-3d-printing.md#moving-parts-a-linear-actuator-b-8189) (B 81–89).
+
 ## Blood and messy effects (M 8; H 3)
 
 Stage blood is a consumable. Plan cleaning, costume coordination (wardrobe needs to know the blood and the fabric) and replacement quantities. *[Pending: Effects Guidebook ch. 7, "Liquid Delivery."]*

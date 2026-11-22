@@ -134,6 +134,7 @@ Release builds up and transfers to casts — clean casts (dish soap; acetone for
 - **Hand in alginate:** container with ½" clearance; warm-water mix; actor seated, hand posed ~10 minutes; wiggle to break suction and withdraw. **Cast immediately — on site if necessary** — usually a quick plaster positive, which is then molded in silicone for permanent casts. Don't make the actor come back.
 - Whole bodies: cast in parts; fill in with mannequin parts; cast only what shows.
 - **Never encase body parts in plaster.** Plaster heats as it sets and can trap limbs: in 2007 a schoolgirl in England put both hands into a bucket of plaster; as it set it trapped them and exceeded 140°F (60°C) and she ultimately lost eight fingers (H 290). Apply plaster to skin only in thin layers with cooling time (bandages after the first layer), with petroleum jelly as release, hair protected — and only under experienced supervision.
+- **Printed alternative.** B scans a face, sculpts a nose or mask on the scan, and prints it in flexible TPU or flexible PLA, attaching it with spirit gum (B 70–80; [ch. 30](30-3d-printing.md#level-4-makeup-prosthesis-or-mask-b-7080)). B also notes wax-model printers for lost-wax metal casting (B 109).
 
 ## Mold care (H 290)
 Store molds in sealed tubs, unstacked; moisture, dust, sunlight, and air degrade them.

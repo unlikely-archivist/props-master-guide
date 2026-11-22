@@ -3,6 +3,7 @@
 > **Sources:** J (whole book, especially the introduction, pp. 9–10); M pp. 78–82, 95
 > **Companion:** [Appendix E — Period Props Timeline](../appendices/E-period-props-timeline.md) gives quick-reference dates by object category.
 > **[Check current]** James's book was written in 1992 and draws on popular histories. Treat its dates as a **starting point** and confirm anything that will be seen close up, photographed or filmed (see [Limits of the source](#limits-of-the-source-and-how-to-verify) below).
+> **See also:** B's museum-replica and period-jewellery projects (scanning, rebuilding missing parts, matching patina) in [ch. 30](30-3d-printing.md#further-projects-b-102116) (B 104–109).
 
 Props establish the world of a play: its period, place, class and mood ([ch. 1](01-what-is-a-prop.md)). One wrong object can break that world. Thurston James spent 14 years as prop master at UCLA, and he points out that nobody can be expected to *know* when everyday objects came into use. Could a Shakespearean character wear eyeglasses? Should Mercutio smoke a tobacco pipe? Did young Abraham Lincoln read by a kerosene lamp? And recent history is no easier: when did pinball get flippers, or households get microwave ovens or CD players? James notes that **recent history is no easier to find in the library than ancient history** (J 9).
 

@@ -12,6 +12,7 @@ Once a prop is built, the surface still needs work. It has to be safe to handle,
 - Start with the most aggressive tool and grit the prop can take, then finish by hand.
 - **Wet sanding** (with wet/dry paper) keeps dust out of the air. Use it before final glossy coats, and never on absorbent materials.
 - **Glossy finishes need a smooth substrate at every layer.** A coat of metallic paint won't make a cinder block look like sheet metal.
+- **3D prints.** B hand-sands prints from 220 grit up to as fine as 2,000, and warns against power sanding, whose heat melts the plastic. Alternatives are a vibratory tumbler, solvent vapour (for ABS) or heat. Seams in multi-part prints can be filled with acrylic caulk or low-temperature hot glue (B 15–16, 93; [ch. 30](30-3d-printing.md#finishing-prints-b-1516-55-9293)).
 
 ## Fillers (H 308–311)
 

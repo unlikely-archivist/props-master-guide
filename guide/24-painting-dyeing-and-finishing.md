@@ -105,6 +105,7 @@ Prime → base coat → overpaint → break down.
 - Brush in figure-eights for flat color, and sand between coats for ultra-smooth results. Two or three coats, until it's no longer blotchy.
 - Sometimes the primer *is* the base coat; sometimes you skip priming entirely (glazing over bare wood to show the grain).
 - On flexible EVA foam, KF uses only flexible primers and paints, avoids most spray paints (which crack when the foam is pressed), and seals with a flexible spray varnish (KF 7, 29–30; [ch. 29](29-eva-foam-props.md#painting-and-sealing-kf-7-30-36-40-44-47)).
+- On 3D prints, B primes with high- or medium-fill auto-body spray primer, PlastiDip, acrylic paint or gesso, then tests for rub-off and plans repaints (B 55, 93; [ch. 30](30-3d-printing.md#finishing-prints-b-1516-55-9293)).
 
 ### Base coat (H 334–335)
 - The flat "average" color. Some treatments build light to dark, others dark to light.

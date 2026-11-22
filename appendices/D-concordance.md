@@ -6,6 +6,8 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 
 **KF** = Quindt, *The Book of Foam Props* (2019), book pages. See the [KF table](#quindt-kf-by-subject) below.
 
+**B** = Berls, *Teaching Practical Theatrical 3D Printing* (2024), book pages. See the [B table](#berls-b-by-subject) below.
+
 ## By guide chapter
 
 | Guide chapter | Mussman (M) | Hart PBG (H, 1st ed.) | Hart PEG (HE) |
@@ -44,6 +46,8 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | App. F Fake food recipe cards | — | — | — (FF: pp. 26–222) |
 | 29. EVA foam props | — | pp. 53–55, 163–167, 172, 179–181, 236–237 | — (KF: whole book, pp. 2–47) |
 | App. G EVA foam build walkthroughs | — | — | — (KF: pp. 10–13, 15, 19–23, 25, 30, 32–47) |
+| 30. 3D printing for props | — | pp. 10, 58, 66, 68, 165, 172 | — (B: whole book, pp. 1–122) |
+| App. H 3D printing project briefs | — | — | — (B: pp. 19–22, 33–116, 117–118) |
 
 ## By topic (quick lookup)
 
@@ -185,3 +189,29 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | Locking curves by laminating; building curve into a seam | 32–33, 43 | 29, 19 |
 | Hollow scabbards | 46 | 29 |
 | Worked builds: sword, shield, claws, spear, short swords | 20–23, 30, 32–36, 38–40, 42–44, 46–47 | App. G |
+
+## Berls (B) by subject
+
+| Subject | B pages | Related guide chapters |
+|---|---|---|
+| How printers move: axes, build volume, stepper motors, controllers, steps per mm | 1–4 | 30 |
+| Slicing, layer height, first layer and squish, bed adjustment | 4–6 | 30, App. H |
+| Brims, rafts and supports | 6–8 | 30 |
+| Infill density and patterns; inserting reinforcement mid-print | 8–12 | 30, 17 |
+| Filaments (PLA, ABS, PETG, nylon, TPU): temperatures, properties, ventilation | 12–15 | 30, 16, 10 |
+| SDS, ultrafine particles, VOCs, filtration | 14–15, 118 | 30, 10 |
+| Finishing: sanding, tumbling, chemical smoothing, coatings, heat | 15–16, 68 | 30, 23 |
+| Printer types and the budget–safety–time triangle; resin printing | 8, 16–19 | 30, 9, 5 |
+| Troubleshooting: adhesion, extrusion, mechanical; clog clearing; maintenance interval | 19–22, 117–118 | 30, App. H |
+| Teaching method: process over product, rigor, failure, competition, groups, the process lab | 23–32 | 30 |
+| Level 1 lettered card: primitives, text, recesses, manifold, rubric | 33–47 | App. H, 25 |
+| Level 2 candlestick phone: adapting a downloaded design, Creative Commons, mirroring, fit, plate layout, priming | 48–59 | App. H, 25, 4 |
+| Level 3 scanning: methods, rig, CPSG, layer grain and shank strength, annealing | 60–69 | App. H, 12, 18 |
+| Level 4 prosthesis or mask: TPU, Meshmixer sculpting, spool drag, skin adhesives, sensitivity | 70–80 | App. H, 20, 21, 10 |
+| Moving parts: gears, DC motors, linear actuator, circuit troubleshooting, gear ratios | 81–89 | App. H, 17, 26, 15 |
+| Large prints: splitting, joining (glues, tape, pegs), seam finishing, priming, group project | 90–101 | App. H, 13, 23, 24 |
+| Science-fiction communicator; museum replica; antique hardware | 102–107 | App. H, 27 |
+| Jewellery; wax printing for lost-wax casting | 107–109 | App. H, 21, 27 |
+| Printed shop tools: clamps, measuring aids, centering jigs; labor-cost reasoning | 110–116 | App. H, 12, 11 |
+| Course planning, troubleshooting summary, safety escalation | 117–119 | 30, 10 |
+| Glossary | 120–122 | App. A |
