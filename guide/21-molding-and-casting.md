@@ -74,7 +74,7 @@ Release builds up and transfers to casts — clean casts (dish soap; acetone for
 
 **Sealers** for porous masters (plaster, stone, wood): shellac, paste wax, thinned petroleum jelly, paint. **No shellac under silicone** (inhibits cure) (H 267).
 
-> **Conflict with FF.** *The Fake Food Cookbook* seals real-food masters (wings, shrimp, corn, rib bones) with Krylon Crystal Clear acrylic *or* shellac, then Ease Release 200, before pouring OOMOO (FF 38–39). Given Hart's warning, use the acrylic spray and test a small pour first. FF's full food-casting workflow and Smooth-On numbers are in [ch. 28](28-fake-food.md#molding-and-casting-with-smooth-on-ff-1718-3741-5458-8589-99105-218222).
+> **Conflict with FF.** *The Fake Food Cookbook* seals real-food masters (wings, shrimp, corn, rib bones) with Krylon Crystal Clear acrylic *or* shellac, then Ease Release 200, before pouring OOMOO (FF 38–39). Hart says the opposite: no shellac under silicone (H 267). FF's full food-casting workflow and Smooth-On numbers are in [ch. 28](28-fake-food.md#molding-and-casting-with-smooth-on-ff-1718-3741-5458-8589-99105-218222).
 
 **Two-part mixing:** measure each part in its own cup, combine in a third; tare containers when weighing; mix exact ratios (H 267, 284).
 

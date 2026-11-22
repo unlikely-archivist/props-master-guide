@@ -52,7 +52,7 @@ The general rules are in [ch. 10](10-health-and-safety.md). FF adds the followin
 - **Exothermic casts.** Smooth-Cast 300 gets hot. Smooth-Cast 320 gets *extremely* hot and gives off visible fumes (FF 40, 219).
 - **Ammonia in liquid latex.** Castin' Craft Mold Builder contains ammonia; Kangaroo brand doesn't. Ventilate either way (FF 14–15, 124).
 - **Allergies.** Ask the whole company about food allergies and sensitivities (FF 19). This matters most when an edible piece sits inside a fake one.
-- **[Added best practice]** FF calls its urethane products low-hazard trial kits. Hart treats urethanes as the most toxic common casting material, because isocyanates can't be smelled and can sensitise ([ch. 21](21-molding-and-casting.md#rigid)). **Apply Hart's ventilation standard to FlexFoam-iT! and Smooth-Cast**, especially in classrooms.
+- **Sources differ on urethane hazards.** FF treats FlexFoam-iT! and Smooth-Cast as beginner-friendly trial kits, needing gloves, safety glasses and ventilation (FF 26–30, 38). Hart calls urethanes the most toxic common casting material: isocyanates can't be smelled and can sensitise, and he calls for local exhaust or supplied air ([ch. 21](21-molding-and-casting.md#rigid); H 278–280).
 
 ## Materials playbook
 
@@ -137,7 +137,7 @@ FF uses Smooth-On products throughout because most mix **by volume with no scale
 
 **FF's block-mold routine** (FF 38–40, 56, 101–103):
 1. Wash off any sauce.
-2. **Seal the organic original with Krylon Crystal Clear acrylic** (see the conflict note below).
+2. **Seal the organic original** with Krylon Crystal Clear acrylic or shellac (FF 38–39). Hart says the opposite about shellac: none under silicone, because it inhibits cure (H 267).
 3. Hot-glue it into a foam-core box **1–2" larger** than the object. Seal the seams with hot glue and tape.
 4. Release with **Ease Release 200** and let it dry 5–10 min.
 5. Pour at the lowest point to **½–1" over** the top.
@@ -203,7 +203,7 @@ A clear encapsulation rubber for **lemonade, martini, milk, orange juice, piña 
 
 ### Glazes and finishes (FF 12, 16, 84, 131, 160)
 - **Amber shellac** is the "baked" colour. Dilute it **1 shellac : 2 denatured alcohol** and build it in thin coats. Full-strength coats look encapsulated and plastic (FF 78, 88, 204).
-- **FEV.** FF's recipe is **1 part shellac : 10 parts denatured alcohol plus leather dye** (brown and red). Clear or amber shellac doesn't matter. It's used for bacon, ham rind and turkey skin (FF 84, 131, 160). Hart's starting ratio is stronger (about 4:1 with spirit dye; [ch. 24](24-painting-dyeing-and-finishing.md#fev-french-enamel-varnish-h-348)). Both work; test on scrap.
+- **FEV.** FF's recipe is **1 part shellac : 10 parts denatured alcohol plus leather dye** (brown and red). Clear or amber shellac doesn't matter. It's used for bacon, ham rind and turkey skin (FF 84, 131, 160). Hart's starting ratio is stronger (about 4 alcohol : 1 shellac with spirit dye; [ch. 24](24-painting-dyeing-and-finishing.md#fev-french-enamel-varnish-h-348)).
 - **Design Master Glossy Wood Tone** spray is FF's universal **"oven browning"**. Mist it where real food browns: crust edges, pan contact, meat ends (FF 12).
 - **Sealers:**
   - Rosco Clear Acrylic Gloss for wet looks
@@ -257,13 +257,13 @@ When an actor eats one piece of an otherwise fake dish:
 
 ## Where the sources disagree
 
-| Topic | FF | Other source | Guidance |
-|---|---|---|---|
-| Sealing an organic original before silicone | Krylon Crystal Clear acrylic *or* shellac, then Ease Release 200 (FF 38–39) | **No shellac under silicone; it inhibits cure** (H 267) | Use the acrylic spray, and test a small pour on a sealed scrap first |
-| FEV strength | 1 shellac : 10 alcohol + leather dye (FF 84) | About 1 : 4 + spirit dye (H 348) | Different targets (transparent food glaze vs. stain). Start thin and build |
-| Expanding foam for bread | FlexFoam-iT! III/V, 11–15× (FF 18) | "Spray foam", about 3× (M 157) | Different products. Read the expansion on the label and leave room |
-| Shellac on food | Shellac on salt dough, which is inedible (throughout) | Don't shellac *real* food: the exploding-hen story (M 157) | Consistent. Shellac only on fakes |
-| Urethane hazard | Gloves, glasses, ventilation (FF 26–30) | Most toxic common casting material; isocyanates; local exhaust (H 278–280) | Follow Hart's standard |
+| Topic | FF says | Other source says |
+|---|---|---|
+| Sealing an organic original before silicone | Seal with Krylon Crystal Clear acrylic *or* shellac, then Ease Release 200 (FF 38–39) | No shellac under silicone, because it inhibits cure (H 267) |
+| FEV strength | 1 shellac : 10 alcohol + leather dye (FF 84) | About 1 shellac : 4 alcohol + spirit dye (H 348) |
+| Expansion of foam for bread and muffins | FlexFoam-iT! III/V expands 11–15× (FF 18) | "Spray foam" expands about 3× (M 157) |
+| Urethane hazard | Gloves, glasses, ventilation (FF 26–30) | Most toxic common casting material; isocyanates; local exhaust or supplied air (H 278–280) |
+| FlexFoam-iT! V pot life | 50 s (FF 73, 78) | 90 s (FF 77). FF gives both figures |
 
 ## Key terms
 
