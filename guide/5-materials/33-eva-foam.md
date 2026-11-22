@@ -292,6 +292,10 @@ KF is written for one maker building for themselves. The points below aren't in 
 | Keeping a knife sharp for foam | Sharpen a box-cutter blade on a stone or 1200-grit paper every few cuts instead of replacing it (KF 8, 14) | A snap knife gives a long fresh edge for foam; extend it fully and add a drop of sewing-machine oil (H 53–55, 181) |
 | Protection when heating PVC | Work in a well-ventilated area **or** wear a respirator (KF 16) | Heated thermoplastic fumes are a mix no respirator cartridge is rated for. Use minimum heat and extract the fumes (H 172). PVC fumes are very hazardous when heated (H 163–167) |
 
+## Projects and recipes
+
+Step-by-step builds for this chapter are in [EVA Foam Build Walkthroughs](33-eva-foam-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
+
 ## Key terms
 
 EVA foam (high / low density) · foam clay · foam dowel / bevel · blueprint · paper dummy · perspective distortion · core · V-groove · heat bending · sand-filled bend · foam-wrapped pipe · magnet joint · counter-magnet · laminated curve · progressive pattern cutting · rotary tool · sanding drum · flex shaft · burned texture · foil-pressed leather · hammered metal · heat sealing · flexible primer · brush-on vs. spray-on primer · oil-paint wipe-back · weapon check

@@ -1,6 +1,7 @@
 # 38. Molding and Casting
 
 > **Sources:** H ch.14 (pp. 255–290); M ch.5 (p. 54)
+> **Companion:** [Molding and Casting Projects](38-molding-and-casting-projects.md): a plaster press mold, a two-piece silicone mold, a brush-up glove mold, an alginate hand, a caulk mold, release and mixing references.
 > **[Check current]** Product lines (Smooth-On, Por-a-Kast, Vinamold, etc.), formulations, mix ratios, and safety data change — **always follow the current manufacturer's technical data sheet and SDS.** Resin chemistry is the most hazardous work in most prop shops; do not attempt urethane or polyester casting without the ventilation and PPE described in [ch. 20](../4-fabrication-core/20-health-and-safety.md).
 
 ## Why mold and cast? (H 256)
@@ -138,6 +139,10 @@ Release builds up and transfers to casts — clean casts (dish soap; acetone for
 
 ## Mold care (H 290)
 Store molds in sealed tubs, unstacked; moisture, dust, sunlight, and air degrade them.
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Molding and Casting Projects](38-molding-and-casting-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

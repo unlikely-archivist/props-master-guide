@@ -1,6 +1,7 @@
 # 31. Plastics
 
 > **Sources:** H ch.9 (pp. 161–181), ch.13 (pp. 252–254), ch.12 (p. 236)
+> **Companion:** [Plastics Projects](31-plastics-projects.md): plastic identification, heat-bent acrylic, vacuum forming, solvent welding, edge polishing.
 > **[Check current]** Brand names, formulations and 3D-printing materials change quickly. Thermoforming temperatures are starting points; follow the manufacturer's data. Heating plastics releases toxic fumes, so ventilate.
 
 ## Vocabulary (H 162–163)
@@ -124,6 +125,10 @@ Heated sheet is pulled over a **buck** (positive "drape" forming) or into a fema
 Hart (2013) mentions ABS extrusion printing as emerging technology (H 10, 58, 165). Today, PLA and PETG desktop printing and resin printing are common in prop shops. Resin printing brings its own skin-contact and ventilation hazards. Treat printed parts as **one more material**, chosen through the needs/means process ([ch. 22](../4-fabrication-core/22-the-build-method.md)), and finish them like any other plastic ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md)).
 
 For filaments in detail (PLA, ABS, PETG, nylon and TPU temperatures, properties and ventilation), infill, finishing and troubleshooting, see [ch. 40](40-3d-printing.md#filament-and-other-materials-b-1215) (B 12–22).
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Plastics Projects](31-plastics-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

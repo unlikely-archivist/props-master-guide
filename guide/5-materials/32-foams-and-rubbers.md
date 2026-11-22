@@ -1,6 +1,7 @@
 # 32. Foams and Rubbers
 
 > **Sources:** H ch.9 (pp. 179–181), ch.12 (p. 236), ch.13 (pp. 243, 252–254), ch.16 (pp. 315–317); M ch.10 (pp. 143–144); FF (pp. 13, 26–29, 119–128, 145–157); KF (whole book). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Companion:** [Foam Projects](32-foams-and-rubbers-projects.md): a carved and coated XPS rock, a slice-method figure, backer-rod trim, an upholstered cushion, a foam-glue chart.
 > **[Check current]** Foam product names, densities and formulations change, and some foams can't be recycled. Check the SDS for every foam, glue and coating.
 
 Foam is the prop maker's most-used bulk material: light, cheap, carvable and quick. This chapter is the hub for all foams. It covers the families and points to the chapters that go deeper: [EVA foam](33-eva-foam.md), [carving rigid foam](37-sculpting.md#materials), [coating foam](../4-fabrication-core/27-surfaces-and-texture.md#coating-foam-h-315317), [foam in food props](41-prop-food.md#rigid-foam-xps-ff-13-and-chs-4-17-22-23-27-30-39-41) and [expanding foam](41-prop-food.md#expanding-urethane-foam-flexfoam-it-ff-18-2631-7189-165167-171173-184186-218222).
@@ -52,6 +53,10 @@ Bare foam dents, tears and dissolves under many paints. Choose a coating by what
 - **Puppet and soft-sculpture foams** (reticulated foam, upholstery foam) are carved with scissors and glued with contact cement, then covered with fabric or latex.
 - **Foam is flammable.** Many foams burn fast and release toxic smoke. Keep them away from heat sources, and check flame-retardancy requirements for anything going onstage ([ch. 27](../4-fabrication-core/27-surfaces-and-texture.md#flame-retardancy-h-320)).
 - **Store foam flat and out of sunlight.** UV breaks down many foams, and they yellow and crumble with age.
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Foam Projects](32-foams-and-rubbers-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

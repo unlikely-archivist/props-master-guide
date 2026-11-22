@@ -1,6 +1,7 @@
 # 28. Painting, Dyeing and Finishing
 
 > **Sources:** H ch.17 (pp. 321–351); M ch.5 (pp. 57–59), ch.11 (pp. 158–159)
+> **Companion:** [Painting and Finishing Recipes](28-painting-and-finishing-recipes.md): wash, glaze, FEV and faux-finish recipes, with tutorials for wood grain, aged brass, rust, metal leaf, dyeing and staining.
 > **[Check current]** Paint and dye product lines, VOC regulations, and brand names change. Check pigment codes and SDS for toxicity, especially in artist colors.
 
 ## Color basics (H 322–324)
@@ -221,6 +222,10 @@ Shellac tinted with alcohol-soluble dye or metallic powder and thinned with dena
 - No significant amounts of paint down drains.
 - Wipe brushes, wash them in a container of warm soapy water, rinse in a second container, and finish in the slop sink.
 - Dry out leftover latex with kitty litter or sawdust, or spread it on newspaper, before discarding. **Donate usable paint.**
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Painting and Finishing Recipes](28-painting-and-finishing-recipes.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

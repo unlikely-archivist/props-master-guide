@@ -1,6 +1,7 @@
 # 34. Fabric and Upholstery
 
 > **Sources:** H ch.11 (pp. 198–224); M ch.5 (pp. 67–69), ch.11 (pp. 160–161)
+> **Companion:** [Fabric and Upholstery Projects](34-fabric-and-upholstery-projects.md): a pillowcase, a boxed cushion with piping, a recovered drop seat, tufting.
 > **[Check current]** Fabric prices ($2 to $200+ per yard, H 220), widths and brands vary. Flame-retardancy requirements are local ([ch. 20](../4-fabrication-core/20-health-and-safety.md#fire-safety-h-4244-m-149151)).
 
 Props uses fabric for upholstery, drapery, linens, bags, flags, tents, dead animals, and much more (H 199).
@@ -114,6 +115,10 @@ Hart covers building new upholstered pieces rather than full traditional reuphol
   - fabric-wrapped thin panels to cover clusters of staples
   - **piping/welt** (cord in a continuous bias strip, sewn with a piping foot)
 - **Tufting** (button-tufted diamond, square and other patterns), **pleats** (pinch, French) and **gathering**.
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Fabric and Upholstery Projects](34-fabric-and-upholstery-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

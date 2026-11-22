@@ -1,6 +1,7 @@
 # 27. Surfaces: Sanding, Filling, Texture, Distressing and Protective Coats
 
 > **Sources:** H ch.16 (pp. 307–320); M ch.11 (pp. 158–159), ch.5 (p. 52)
+> **Companion:** [Surfaces and Texture Recipes](27-surfaces-and-texture-recipes.md): texture-paste recipes and step-by-step tutorials (roping, plaster stencils, distressing, flame test).
 > **[Check current]** Product names (Bondo, Jaxsan 600, Foamcoat, Sculpt or Coat, Future/Pledge floor finish, etc.) change; check equivalents. Flame-retardancy rules are local.
 
 Once a prop is built, the surface still needs work. It has to be safe to handle, ready for paint, as smooth or textured as the design calls for, and sealed for durability (H 308).
@@ -142,6 +143,10 @@ Nearly every jurisdiction requires flame retardancy for items in front of an aud
 Some finishes add retardancy, FR additives can be mixed into paints, and clear FR sprays exist. On fabric, though, FR treatment can stiffen it and make it itch against skin, so prefer **inherently flame-retardant** goods (silk, IFR muslin and canvas from theatrical suppliers).
 
 **Plan early.** Hart puts it this way: it's easy to flame-proof something that's already fairly flame-resistant, and far harder to fix a prop "built out of gas-soaked matchsticks." **[Check current: local fire marshal and code.]**
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Surfaces and Texture Recipes](27-surfaces-and-texture-recipes.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

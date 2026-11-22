@@ -1,6 +1,7 @@
 # 35. Leather
 
 > **Sources:** H ch.11 (pp. 218–220), ch.15 (p. 293). Sections marked **[General knowledge]** aren't from the guide's sources.
+> **Companion:** [Leather Projects](35-leather-projects.md): a saddle-stitched pouch, a wet-moulded bracer or mask, a tooled panel.
 > **[Check current]** Leather dyes, finishes and adhesives are reformulated often; check the SDS, especially for solvent-based dyes and cements.
 
 Leather turns up in belts, holsters, scabbards, bags, book covers, armour, saddles and upholstery. It can be sewn like heavy fabric or, if vegetable-tanned, carved, stamped and moulded. Fabric sewing is in [ch. 34](34-fabric-and-upholstery.md); moulding leather into shells is in [ch. 36](36-shells-and-laminates.md).
@@ -34,6 +35,10 @@ Soak vegetable-tanned leather (15 minutes to 12 hours), drape it over a positive
 
 - **Hardware**: rivets, snaps, buckles, D-rings and grommets need the right setters. Buy setters that match the hardware size.
 - **Faking leather.** For stage, painted fabric, vinyl, EVA foam with a pressed texture ([ch. 33](33-eva-foam.md)) or even paper can read as leather at a distance and cost far less.
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Leather Projects](35-leather-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

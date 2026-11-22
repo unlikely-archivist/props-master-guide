@@ -265,6 +265,10 @@ When an actor eats one piece of an otherwise fake dish:
 | Urethane hazard | Gloves, glasses, ventilation (FF 26–30) | Most toxic common casting material; isocyanates; local exhaust or supplied air (H 278–280) |
 | FlexFoam-iT! V pot life | 50 s (FF 73, 78) | 90 s (FF 77). FF gives both figures |
 
+## Projects and recipes
+
+Step-by-step builds for this chapter are in [Prop Food Recipe Cards](41-prop-food-recipes.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
+
 ## Key terms
 
 set-dressing food · mimed eating · edible inset · salt dough (baker's clay) · alum · gel wax · creme wax · hot knife · candle thermometer · inclusion · XPS lamination · caul · relief cut · mold box · expansion ratio · pot life · flash-off · encapsulation rubber · oven browning (Wood Tone) · diluted shellac glaze · FEV · tooth · found-material substitution

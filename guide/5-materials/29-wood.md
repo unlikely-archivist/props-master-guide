@@ -1,6 +1,7 @@
 # 29. Wood and Carpentry
 
 > **Sources:** H ch.7 (pp. 100–128); M ch.5 (pp. 55–66), ch.11 (pp. 152–156)
+> **Companion:** [Wood Projects](29-wood-projects.md): a birdhouse or box, a rehearsal table, faked period joinery, a one-drawer dresser, curved forms.
 > **[Check current]** Lumber prices, species availability and grading terms vary by region and change often. Table-saw safety technology has evolved since 2013.
 
 Wood is cheap, strong, easy to learn, and able to imitate many other materials, so it's a staple in every prop shop (H 101).
@@ -137,6 +138,10 @@ Mussman gives simple templates for:
 - **platforms** (2×4 frame, legs, diagonal braces, plywood top)
 - **rehearsal tables** (plywood top, 4×4 or laminated 2×4 legs, 1×4 apron)
 - **benches** (½" ply with 1×3 legs; a rustic plank bench)
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Wood Projects](29-wood-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

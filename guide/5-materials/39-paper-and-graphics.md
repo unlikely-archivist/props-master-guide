@@ -1,6 +1,7 @@
 # 39. Graphics and Paper Props
 
 > **Sources:** H ch.18 (pp. 352–360); M ch.11 (p. 158)
+> **Companion:** [Paper and Graphics Projects](39-paper-and-graphics-projects.md): aged parchment, a period letter and newspaper, a vintage label, a fake book, waterslide decals.
 > **[Check current]** Printer technology and specialty papers change fast. Copyright and trademark law is jurisdiction-specific, so take your institution's guidance, not general advice.
 
 Letters, newspapers, labels, signs, books, money, tickets, maps and posters all count as graphics. The same techniques also serve faux finishes, such as a printed marble pattern adhered to a surface (H 353).
@@ -72,6 +73,10 @@ Start by thinking about the document's history ([ch. 27](../4-fabrication-core/2
 - **Paper props are often consumables.** Letters torn nightly need multiples: performances plus rehearsals, dress and previews (M 8; [ch. 1](../1-intro/01-what-is-a-prop.md)).
 - **Waterproof** labels on bottles washed nightly with clear packing tape, or print them on a laser printer (H 72).
 - **Prop money**: check current law before producing realistic currency **[check current; jurisdiction-specific]**.
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Paper and Graphics Projects](39-paper-and-graphics-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

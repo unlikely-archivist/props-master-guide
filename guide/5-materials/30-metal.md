@@ -1,6 +1,7 @@
 # 30. Metalworking
 
 > **Sources:** H ch.8 (pp. 129–160)
+> **Companion:** [Metal Projects](30-metal-projects.md): a folded sheet-metal tray, a jig-bent ring, a welded candle stand, a soldered joint.
 > **[Check current]** Welding equipment, consumable designations and OSHA hot-work rules change. Check manufacturer guidance and your institution's hot-work permit process. Metal prices fluctuate.
 
 Metal lets you make props that look delicate but survive abuse. Prop shops mostly use **hollow shapes** to keep weight down (H 130).
@@ -149,6 +150,10 @@ Welding isn't always the best joint. **Rivets** often work better on sheet metal
 - **Stainless**: 304 is most common, 316 is more corrosion-resistant, 410 is dull.
 - **Aluminum**: **6061-T6** is the shop standard; 6063 for square tube; 1100 for sheet; **7075 ("aircraft")** looks like steel on film and is used for screen combat blades, but dents too easily for a stage run.
 - Old circular saw blades are good tool steel for an axe that must actually split something nightly (H 159).
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Metal Projects](30-metal-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

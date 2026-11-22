@@ -10,7 +10,7 @@ It brings seven books together in one structure, with page citations so every po
 
 ## How it's organized
 
-The guide reads front to back as a course, and works as a reference: look up a material in Part 5, a weapon in Part 6, an effect in Part 7. Each material chapter keeps its reference information, techniques and safety together, with project tutorials in a linked file where a source provides them.
+The guide reads front to back as a course, and works as a reference: look up a material in Part 5, a weapon in Part 6, an effect in Part 7. Each material chapter keeps its reference information, techniques and safety together, with step-by-step projects and recipe cards in a linked file beside the chapter. To start from the object instead, use the ["I need to make…" finder](appendices/F-i-need-to-make.md).
 
 ### Part 1 — Intro
 1. [What Is a Prop?](guide/1-intro/01-what-is-a-prop.md)
@@ -45,23 +45,23 @@ The guide reads front to back as a course, and works as a reference: look up a m
 24. [Patterning and Draping](guide/4-fabrication-core/24-patterning.md)
 25. [Adhesives, Fasteners, Tapes and Assembly](guide/4-fabrication-core/25-adhesives-and-fasteners.md)
 26. [Structure, Framework and Armatures](guide/4-fabrication-core/26-structure-and-armatures.md)
-27. [Surfaces: Sanding, Filling, Texture, Distressing and Protective Coats](guide/4-fabrication-core/27-surfaces-and-texture.md)
-28. [Painting, Dyeing and Finishing](guide/4-fabrication-core/28-painting-and-finishing.md)
+27. [Surfaces: Sanding, Filling, Texture, Distressing and Protective Coats](guide/4-fabrication-core/27-surfaces-and-texture.md) · [recipes](guide/4-fabrication-core/27-surfaces-and-texture-recipes.md)
+28. [Painting, Dyeing and Finishing](guide/4-fabrication-core/28-painting-and-finishing.md) · [recipes](guide/4-fabrication-core/28-painting-and-finishing-recipes.md)
 
 ### Part 5 — Fabrication: Materials
-29. [Wood and Carpentry](guide/5-materials/29-wood.md)
-30. [Metalworking](guide/5-materials/30-metal.md)
-31. [Plastics](guide/5-materials/31-plastics.md)
-32. [Foams and Rubbers](guide/5-materials/32-foams-and-rubbers.md)
+29. [Wood and Carpentry](guide/5-materials/29-wood.md) · [projects](guide/5-materials/29-wood-projects.md)
+30. [Metalworking](guide/5-materials/30-metal.md) · [projects](guide/5-materials/30-metal-projects.md)
+31. [Plastics](guide/5-materials/31-plastics.md) · [projects](guide/5-materials/31-plastics-projects.md)
+32. [Foams and Rubbers](guide/5-materials/32-foams-and-rubbers.md) · [projects](guide/5-materials/32-foams-and-rubbers-projects.md)
 33. [EVA Foam Props](guide/5-materials/33-eva-foam.md) · [projects](guide/5-materials/33-eva-foam-projects.md)
-34. [Fabric and Upholstery](guide/5-materials/34-fabric-and-upholstery.md)
-35. [Leather](guide/5-materials/35-leather.md)
-36. [Shells and Laminates](guide/5-materials/36-shells-and-laminates.md)
-37. [Sculpting and Sculptural Materials](guide/5-materials/37-sculpting.md)
-38. [Molding and Casting](guide/5-materials/38-molding-and-casting.md)
-39. [Graphics and Paper Props](guide/5-materials/39-paper-and-graphics.md)
+34. [Fabric and Upholstery](guide/5-materials/34-fabric-and-upholstery.md) · [projects](guide/5-materials/34-fabric-and-upholstery-projects.md)
+35. [Leather](guide/5-materials/35-leather.md) · [projects](guide/5-materials/35-leather-projects.md)
+36. [Shells and Laminates](guide/5-materials/36-shells-and-laminates.md) · [projects](guide/5-materials/36-shells-and-laminates-projects.md)
+37. [Sculpting and Sculptural Materials](guide/5-materials/37-sculpting.md) · [projects](guide/5-materials/37-sculpting-projects.md)
+38. [Molding and Casting](guide/5-materials/38-molding-and-casting.md) · [projects](guide/5-materials/38-molding-and-casting-projects.md)
+39. [Graphics and Paper Props](guide/5-materials/39-paper-and-graphics.md) · [projects](guide/5-materials/39-paper-and-graphics-projects.md)
 40. [3D Printing for Props](guide/5-materials/40-3d-printing.md) · [projects](guide/5-materials/40-3d-printing-projects.md)
-41. [Prop Food: Building Inedible Food](guide/5-materials/41-prop-food.md) · [recipe cards](guide/5-materials/41-prop-food-recipes.md)
+41. [Prop Food: Building Inedible Food](guide/5-materials/41-prop-food.md) · [recipes](guide/5-materials/41-prop-food-recipes.md)
 
 ### Part 6 — Weapons
 42. [Weapons Safety and Policy](guide/6-weapons/42-weapons-safety-and-policy.md)
@@ -87,6 +87,7 @@ The guide reads front to back as a course, and works as a reference: look up a m
 - C. [Sources, Editions, and What to Verify](appendices/C-sources-and-editions.md)
 - D. [Concordance (Topic → Source Pages)](appendices/D-concordance.md)
 - E. [Period Props Timeline](appendices/E-period-props-timeline.md): quick-reference dates for food and drink, lighting, clocks, writing tools, eyewear, appliances, telephones, games, furniture forms and styles, arms and armor, and ceremonial objects
+- F. ["I Need to Make…" Finder](appendices/F-i-need-to-make.md): common props mapped to the routes, chapters, projects and safety notes you need
 
 Every chapter follows the same pattern: a sources line, the content, a **Key terms** list, and **For the classroom** prompts (discussion questions and hands-on projects).
 

@@ -288,6 +288,10 @@ The group brief: each partner prints at least one part of a model divided into *
 | Infill "sweet spot" (B against itself) | Prop makers find 50% gives the best strength for print time (B 9) | 30% is the usual maximum for hand props and the "sweet spot" (B 9–10) |
 | Layer height for detail (B against itself) | Slicers use 0.1–0.3 mm layers; 0.1 mm shows more detail (B 4, 65) | Try 0.5 mm to see whether it reveals all the detail (B 65) |
 
+## Projects and recipes
+
+Step-by-step builds for this chapter are in [3D Printing Project Briefs and Troubleshooting](40-3d-printing-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
+
 ## Key terms
 
 FFF / FDM · resin (photo-curing) printing · build volume · x/y/z axes · stepper motor · microstepping · steps per mm · firmware · slicer · layer height · first layer / squish · z-offset · bed levelling · brim · raft · supports · infill (grid / hexagon / line) · manifold · .stl · PLA · ABS · PETG · TPU · nozzle · hot end · direct drive vs. Bowden · heated bed · ultrafine particles · VOCs · gantry (bed-slinger) · core XY · delta (Kossel/Rostock) · BST triangle · annealing · vibratory tumbler · photogrammetry · turntable scan · CPSG · Creative Commons licence · spool drag · linear actuator · gear ratio · wipe tower · process lab · improvement plan

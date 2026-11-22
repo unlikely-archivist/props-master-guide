@@ -1,6 +1,7 @@
 # 37. Sculpting and Sculptural Materials
 
 > **Sources:** H ch.13 (pp. 238–254); M ch.5 (pp. 53–54), ch.10 (pp. 143–144)
+> **Companion:** [Sculpting Projects](37-sculpting-projects.md): soap carving, an oil-clay maquette, slice-method foam, hard-over-soft detail, salt dough and polymer clay.
 > **[Check current]** Product names (Chavant, Sculpey, Friendly Plastic, Foamcoat, etc.) and formulations change.
 
 Unlike fine-art sculpture, which prizes "truth to materials," prop sculpture regularly carves one material and finishes it to look like another. All the other needs still apply — weight, cost, labor, rigidity (H 239).
@@ -69,6 +70,10 @@ Hot-wiring or hot-knifing polystyrene releases **styrene** and related vapors �
 For food: Model Magic, Creative Paperclay, salt dough (baker's clay) and moldable thermoplastic pellets as fake produce, fish, crusts and butter, see [ch. 41](41-prop-food.md#modeling-compounds-ff-8-12-43-149) (FF).
 
 **Foam clay** (EVA mixed with air-dry clay) sculpts horns, spikes, skulls and details onto EVA props and fills seams. It expands slightly as it dries unless heat-set straight after sculpting (KF 27; [ch. 33](33-eva-foam.md#foam-clay-kf-6-27-28-39-47)).
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Sculpting Projects](37-sculpting-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

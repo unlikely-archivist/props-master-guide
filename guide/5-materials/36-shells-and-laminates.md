@@ -1,6 +1,7 @@
 # 36. Shells and Laminates
 
 > **Sources:** H ch.15 (pp. 291–306)
+> **Companion:** [Shells and Laminates Projects](36-shells-and-laminates-projects.md): wheat-paste and binder recipes, a papier-mâché bowl or mask, a buckram crown, cloth-mâché, a water-based composite shell.
 > **[Check current]** Thermoplastic sheet brands (Wonderflex, Fosshape, Varaform, Formfast) and water-based resin products change; check availability and current data sheets.
 
 A **shell** gets its shape from something else, such as a form, a mold or a skeleton. It's made by wrapping, covering or laminating material onto or into that shape (H 292). There are two families:
@@ -105,6 +106,10 @@ Glass fibers are flawless, strong and flexible. They don't rot or rust, they're 
 
 ### Carbon fiber and prepregs (H 306)
 Carbon fiber is costly. It's usually laid up in epoxy, and wet-out is hard to see, so weak spots are easy to miss. It needs **vacuum bagging** to reach its full performance, which is overkill for most props. **Prepregs** need vacuum bagging plus oven curing at about 300°F (never in a food oven).
+
+## Projects and recipes
+
+Step-by-step tutorials and recipe cards for this chapter are in [Shells and Laminates Projects](36-shells-and-laminates-projects.md). For other props, see the ["I need to make…" finder](../../appendices/F-i-need-to-make.md).
 
 ## Key terms
 

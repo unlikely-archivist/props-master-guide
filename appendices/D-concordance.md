@@ -77,6 +77,7 @@ Use this to trace any topic back to the source books. **M** = Mussman (2008), bo
 | A. Glossary | glossary pp. 163–180 | throughout | all sources |
 | C. Sources | bibliography pp. 181–182 | bibliography pp. 368–370 | J 207–209; B references |
 | E. Period timeline | — | — | J pp. 13–206 |
+| F. "I need to make…" finder | throughout | throughout | all sources (index to chapters) |
 
 ## By topic (quick lookup)
 
